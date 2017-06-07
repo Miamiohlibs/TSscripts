@@ -1,0 +1,889 @@
+(C) 110 Aegerihalle (Unterägeri, Switzerland) [sh2011000247]
+	   550 BT Multipurpose buildings—Switzerland
+
+	(C) 151 Agora (Corinth, Greece) [sh2011000251]
+	   667  This heading is not valid for use as a geographic subdivision.
+	   551 BT Greece—Antiquities
+
+	   150 Airplanes—Ice prevention [May Subd Geog] [sh 85002828]
+	  * 450 UF Deicing of airplanes CANCEL
+	  * 550 BT Airplanes—Climatic factors CANCEL
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+
+	(C) 110 Albion Mills (London, England) [sh2010014524]
+	   410 UF Albion Flour Mills (London, England)
+	   550 BT Flour mills—England
+
+	   110 Alcázar (Madrid, Spain) [sh 85003256]
+	  * 410 UF Alcázar de los Austrias (Madrid, Spain)
+	  * 410 UF Alcázar Real (Madrid, Spain)
+	  * 410 UF Austrias Palace (Madrid, Spain)
+
+	   151 Allianoi (Extinct city) [sh2011000603]
+	   550 BT Extinct cities—Turkey
+	   551 BT Turkey—Antiquities
+
+	(C) 151 American River Valley (Calif.) [sh2011000454]
+	   451 UF American Valley (El Dorado County-Sacramento County, Calif.)
+	   550 BT Valleys—California
+
+	(C) 110 Anglesey Abbey (Lode, England) [sh2010012355]
+	   550 BT Dwellings—England
+
+	(C) 150 Apocalypse in the theater [May Subd Geog] [sh2010011990]
+	   550 BT Theater
+
+	   150 Aquatic parks and reserves—Ecuador [sh2011000581]
+
+	(A,C) 150 Aschrottbrunnen (Kassel, Germany : 1987- ) [sh2004008273]
+	   450 UF Aschrott Brunnen (Kassel, Germany : 1987- )
+	   450 UF Aschrott Fountain (Kassel, Germany : 1987- )
+	   550 BT Fountains—Germany
+	   550 BT Holocaust memorials—Germany
+
+	(C) 110 Ashmount (Haworth, England) [sh2011000553]
+	   410 UF Ashmount Country House (Haworth, England : Building)
+	   550 BT Dwellings—England
+	   550 BT Hotels—England
+
+
+	   150 Atheism [May Subd Geog] [sh 85009109]
+	  * 550 BT Philosophy
+	  * 550 BT Religion CANCEL
+	  * 550 BT Secularism CANCEL
+	  * 550 RT Religion
+	  * 550 RT Secularism
+
+	(C) 150 Atlas cedar [May Subd Geog] [sh2010012367]
+	   053  QK494.5.P66 (Botany)
+	   450 UF Atlantic cedar
+	   450 UF Cedrus africana
+	   450 UF Cedrus atlantica
+	   450 UF Cedrus libani
+	   450 UF Pinus atlantica
+	   550 BT Cedrus
+
+	   150 Autism in children [May Subd Geog] [sh 92000185]
+	  * 550 BT Autism spectrum disorders in children
+	  * 550 BT Child development deviations CANCEL
+
+	(C) 150 Autism spectrum disorders in children [May Subd Geog] [sh2011000550]
+	   550 BT Child development deviations
+
+	   150 Automotive event data recorders [May Subd Geog] [sh2009005984]
+	  * 450 UF Automobile event data recorders
+
+	(C) 100 Bampfylde family [Not Subd Geog] [sh2006008167]
+	  * 400 UF Bamfield family
+	  * 400 UF Bampfield family
+
+	   100 Baritault family [Not Subd Geog] [sh2011000177]
+
+	(A,C) 151 Barrata Site (Italy) [sh2006006843]
+	   551 BT Italy—Antiquities
+
+	  * 150 Bearcat (Fighter planes) CANCEL
+	   150 Bearcat (Fighter plane) [Not Subd Geog] [sh 85012672]
+	   450 UF Bearcat (Fighter planes) [EARLIER FORM OF HEADING]
+	   450 UF F8F (Fighter plane)
+	   450 UF Grumman Bearcat (Fighter plane)
+	   450 UF Grumman F8F (Fighter plane)
+	   550 BT Fighter planes
+	   550 BT Grumman airplanes
+
+	(A) 151 Beekman 1802 Farm (N.Y.) [sh2011000379]
+	   451 UF Beekman Farm (N.Y.)
+	   550 BT Farms—New York (State)
+
+	   100 Bertuch family [Not Subd Geog] [sh2011000602]
+
+	   151 Berufjörður (Austurland, Iceland : Fjord) [sh2011000533]
+	   451 UF Beru Fiord (Austurland, Iceland)
+	   451 UF Beru Fjord (Austurland, Iceland)
+	   451 UF Berufjördur (Austurland, Iceland : Fjord)
+	   550 BT Fjords—Iceland
+
+
+	   110 Bidstrup (Denmark) [sh2011000528]
+	   410 UF Herregården Bidstrup (Denmark)
+	   550 BT Manors—Denmark
+
+	   150 Blue crab fisheries [May Subd Geog] [sh 96004544]
+	  * 053  SH380.47.B58 CANCEL
+	  * 550 BT Callinectes fisheries
+	  * 550 BT Crab fisheries CANCEL
+
+	(C) 100 Britannico family [Not Subd Geog] [sh2010012394]
+	   400 UF Briscianus family
+	   400 UF Britanico family
+	   400 UF Britaniensis family
+	   400 UF Britannici family
+	   400 UF Britannicis family
+	   400 UF Britannicus family
+	   400 UF De Britannici family
+	   400 UF Di Britannicis family
+
+	   100 Bujanovics family [Not Subd Geog] [sh2010014415]
+
+	(C) 150 Caproni Ca.3 (Bomber) [Not Subd Geog] [sh2011000328]
+	   450 UF Ca.3 (Bomber)
+	   450 UF Ca.33 (Bomber)
+	   450 UF Caproni 450 hp (Bomber)
+	   450 UF Caproni Ca.33 (Bomber)
+	   550 BT Bombers
+	   550 BT Caproni airplanes
+
+	(C) 151 Carondelet Park (Saint Louis, Mo.) [sh2010012360]
+	   667  This heading is not valid for use as a geographic subdivision.
+	   550 BT Parks—Missouri
+
+	(C) 150 Char B1 (Tank) [Not Subd Geog] [sh2011000509]
+	   550 BT Tanks (Military science)
+
+	   150 Childfree choice [May Subd Geog] [sh2011000653]
+	   680  Here are entered works on the deliberate decision not to have children.
+	   450 UF Child-free choice
+	   450 UF Childless choice
+	   450 UF Choice of childlessness
+	   450 UF Choosing childlessness
+	   550 BT Childlessness
+
+	(C) 150 Children with autism spectrum disorders [May Subd Geog] [sh2011000549]
+	   450 UF Autism spectrum disorders in children—Patients
+	   450 UF Autistic spectrum disorder children
+	   550 BT Developmentally disabled children
+
+	   150 Children's writings, Belarusian [May Subd Geog] [sh2011000555]
+	   450 UF Belarusian children's writings
+	   550 BT Belarusian literature
+
+	(C) 150 Climatic changes in literature [Not Subd Geog] [sh2011000451]
+
+
+	(C) 150 Command responsibility (International law) [sh2011000538]
+	   450 UF Superior responsibility (International law)
+	   550 BT Criminal liability (International law)
+
+	(C) 150 Cooking (Durian) [May Subd Geog] [sh2010012567]
+	   450 UF Cooking with durian
+	   450 UF Durian—Use in cooking
+	   550 BT Cooking (Fruit)
+
+	   150 Copyright—Textile fabrics [May Subd Geog] [sh2010014838]
+	   450 UF Textile fabrics—Copyright
+
+	(C) 150 Costard (Fictitious character) [Not Subd Geog] [sh2010013402]
+
+	(A,C) 150 Culverts—Snow and ice control [May Subd Geog] [sh2009006534]
+	   550 BT Ice prevention and control
+	   550 BT Snow removal
+
+	(A,C) 150 Deinking (Waste paper) [May Subd Geog] [sh2010008442]
+	   450 UF De-inking (Waste paper)
+	   450 UF Ink removal (Waste paper)
+	   450 UF Removal of ink (Waste paper)
+	   450 UF Waste paper—Deinking
+	   550 BT Waste paper—Recycling
+
+	   151 Desert Crystal Salt Works (Nev.) [sh2010013724]
+	   550 BT Salt mines and mining—Nevada
+
+	   151 Discovery Bay (Wash. : Bay) [sh2011000514]
+	   451 UF Bodega y Cuadra, Porto de la (Wash.)
+	   451 UF Kui-la-tsu-ko (Wash.)
+	   451 UF Port Discovery Bay (Wash.)
+	   451 UF Porto de la Bodega y Cuadra (Wash.)
+	   451 UF Porto de Quadra (Wash.)
+	   451 UF Quadra, Porto de (Wash.)
+	   550 BT Bays—Washington (State)
+
+	   150 Docks—Ice prevention [May Subd Geog] [sh 85038705]
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+
+	   150 Electric lines—Ice prevention [May Subd Geog] [sh 85041785]
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+
+	(C) 100 Embriachi family [Not Subd Geog] [sh2010012356]
+	   400 UF Obriachi family
+	   400 UF Ubriachi family
+
+	(C) 110 Environmental Studies Building (Bellingham, Wash.) [sh2011000452]
+	   410 UF Northwest Environmental Studies Center (Bellingham, Wash. : Building)
+	   550 BT College buildings—Washington (State)
+
+
+	(C) 151 Eris (Dwarf planet) [sh2011000469]
+	   667  This heading is not valid for use as a geographic subdivision.
+	   451 UF 2003 UB313 (Dwarf planet)
+	   451 UF Xena (Dwarf planet)
+	   550 BT Dwarf planets
+	   550 BT Trans-Neptunian objects
+
+	(A,C) 110 Farfield Mill (England) [sh2010012448]
+	   550 BT Commercial buildings—England
+	   550 BT Water mills—England
+
+	(C) 150 Ferrari 312P automobile [Not Subd Geog] [sh2010008380]
+	   550 BT Ferrari automobile
+	   550 BT Sports cars
+
+	(C) 151 Fitzroy Gardens (Melbourne, Vic.) [sh2011000467]
+	   667  This heading is not valid for use as a geographic subdivision.
+	   550 BT Gardens—Australia
+
+	(C) 100 Flandro family [Not Subd Geog] [sh2010010721]
+	   400 UF Flandrus family
+
+	(C) 150 Fokker C.I (Reconnaissance aircraft) [Not Subd Geog] [sh2010012358]
+	   450 UF C.I (Reconnaissance aircraft)
+	   550 BT Fokker airplanes
+	   550 BT Reconnaissance aircraft
+
+	   150 Forest reserves—Connecticut [sh2011000655]
+
+	(C) 151 Forggen Lake (Germany) [sh2010014526]
+	   451 UF Forggensee (Germany)
+	   550 BT Lakes—Germany
+
+	   100 Froriep family [Not Subd Geog] [sh2011000605]
+
+	(C) 150 Ghettotech [May Subd Geog] [sh2011000503]
+	   450 UF Detroit club music
+	   450 UF Getto tech
+	   550 BT Underground dance music
+
+	   150 Global Positioning System [sh 86003934]
+	  * 450 UF Global Navigation Satellite System
+	  * 450 UF GNSS (Navigational system)
+
+	(C) 151 Gortys (Extinct city) [sh2011000472]
+	   451 UF Kortys (Extinct city)
+	   550 BT Extinct cities—Greece
+	   551 BT Greece—Antiquities
+
+	(C) 150 Gossip in the workplace [May Subd Geog] [sh2010010269]
+	   450 UF Workplace gossip
+	   550 BT Work environment
+
+	   150 Grand Port, Battle of, Mauritius, 1810 [sh2011000556]
+	   550 BT Napoleonic Wars, 1800-1815—Campaigns—Mauritius
+
+
+	   151 Grossglockner-Hochalpenstrasse (Austria) [sh 98004356]
+	  * 550 BT Mountain roads—Austria CANCEL
+	  * 550 BT Roads—Austria
+
+	   151 Harzer Grenzweg (Germany) [sh2011000239]
+	   550 BT Trails—Germany
+
+	   150 Heikum (African people) [May Subd Geog] [sh 85059948]
+	  * 450 UF Hail?l?om (African people)
+
+	   150 Helen Hayes Awards [sh2011000620]
+	   450 UF Hayes Awards
+	   550 BT Theater—Awards—Washington (D.C.)
+
+	(C) 151 Hinkley Point (England) [sh2011000319]
+	   550 BT Capes (Coasts)—England
+
+	   100 Hollis family [Not Subd Geog] [sh 85061497]
+	  * 400 UF Holles family
+
+	(C) 150 Hövesch (The Middle High German word) [sh2011000455]
+	   550 BT German language—Middle High German, 1050-1500—Etymology
+
+	   150 Hydraulic structures—Ice prevention [May Subd Geog] [sh 85063340]
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+
+	(C) 150 Ice booms [May Subd Geog] [sh 98008115]
+	  * 550 BT Ice prevention and control
+	  * 550 RT Ice prevention CANCEL
+
+	  * 150 Ice prevention CANCEL
+	(A) 150 Ice prevention and control [May Subd Geog] [sh 85064006]
+	   450 UF Anti-icing
+	   450 UF De-icing
+	   450 UF Deicing
+	   450 UF Ice control
+	   450 UF Ice prevention [EARLIER FORM OF HEADING]
+	   550 BT Engineering meteorology
+	   550 BT Icing (Meteorology)
+	   550 RT Ice booms
+
+	(C) 150 Imaging systems in architecture [May Subd Geog] [sh2011000511]
+	   550 BT Architecture
+
+	(C) 150 Independent component analysis [sh2011000546]
+	   450 UF ICA (Independent component analysis)
+	   550 BT Multivariate analysis
+
+	(C) 150 Indian Ocean Tsunami, 2004 [sh2005000121]
+	  * 450 UF Sumatra-Andaman Tsunami, 2004
+
+	   150 Internet and immigrants [May Subd Geog] [sh2011000587]
+	   450 UF Immigrants and the Internet
+	   550 BT Immigrants
+
+	(C) 150 Invisibility [sh2011000325]
+	   550 BT Optics
+
+
+	(A,C) 150 Iron deficiency anemia in animals [May Subd Geog] [sh2008008911]
+	   550 BT Animals—Diseases
+
+	   150 Irreligion [May Subd Geog] [sh 85068280]
+	  * 680  Here are entered works dealing with a condition of complete absence of religion. 
+	CANCEL
+	  * 680  Here are entered works on the absence of, indifference towards, or hostility towards 
+	religion.
+	  * 550 BT Philosophy
+	  * 550 BT Religion CANCEL
+	  * 550 RT Non-church-affiliated people CANCEL
+	  * 550 RT Religion
+
+	(C) 151 Jalad River (Nepal) [sh2011000459]
+	   451 UF Jalad Khola (Nepal)
+	   451 UF Jaladh River (Nepal)
+	   550 BT Rivers—Nepal
+
+	(C) 151 Jalad River Watershed (Nepal) [sh2011000460]
+	   451 UF Jalad Khola Basin (Nepal)
+	   550 BT Watersheds—Nepal
+
+	(C) 100 Jaller family [Not Subd Geog] [sh2010010728]
+
+	(C) 110 Jesmond Pool (Newcastle upon Tyne, England) [sh2011000320]
+	   410 UF Jesmond Swimming Pool (Newcastle upon Tyne, England)
+	   550 BT Swimming pools—England
+
+	   150 Jet transports [May Subd Geog] [sh 85070173]
+	  * 550 RT Supersonic transport planes CANCEL
+
+	(C) 150 Jewish gauchos [May Subd Geog] [sh2010008386]
+	   550 BT Gauchos
+
+	   150 Judicial error (Islamic law) [May Subd Geog] [sh2011000529]
+	   053  KBP4753
+	   550 BT Islamic law
+
+	   151 Junggar Basin (China) [sh2011000611]
+	   451 UF Chun-ka-erh (China)
+	   451 UF Chun-ka-erh-p'en (China)
+	   451 UF Chun-ka-erh-Pen'ti (China)
+	   451 UF Chun-ko-erh Pen'ti (China)
+	   451 UF Dzungar (China)
+	   451 UF Dzungaria (China)
+	   451 UF Dzungarian Basin (China)
+	   451 UF Jungar (China)
+	   451 UF Junggar Pendi (China)
+	   451 UF Zhunga'er Pendi (China)
+	   550 BT Basins (Geology)—China
+
+	(C) 110 Lee Hall (Clemson, S.C.) [sh2010012359]
+	   550 BT College buildings—South Carolina
+
+	(C) 150 Lesbians' writings, Puerto Rican [May Subd Geog] [sh2011000468]
+	   450 UF Puerto Rican lesbians' writings
+	   550 BT Puerto Rican literature
+
+
+	(C) 150 Loligo fisheries [May Subd Geog] [sh2010015357]
+	   053  SH374.6.L64
+	   450 UF Loligo squid fisheries
+	   550 BT Squid fisheries
+
+	(C) 150 Loligo opalescens fisheries [May Subd Geog] [sh2010015356]
+	   053  SH374.6.L65
+	   550 BT Loligo fisheries
+
+	   151 Ma River (Vietnam and Laos) [sh2011000515]
+	   451 UF Bong River (Vietnam and Laos)
+	   451 UF Cai River (Vietnam and Laos)
+	   451 UF Lach Chao River (Vietnam and Laos)
+	   451 UF Ma Giang River (Vietnam and Laos)
+	   451 UF Nam Ma (Vietnam and Laos)
+	   451 UF Sông Bông (Vietnam and Laos)
+	   451 UF Song Cai (Vietnam and Laos)
+	   451 UF Song Lach Chao (Vietnam and Laos)
+	   451 UF Sông Mã (Vietnam and Laos)
+	   451 UF Song Ma Giang (Vietnam and Laos)
+	   550 BT Rivers—Laos
+	   550 BT Rivers—Vietnam
+
+	   151 Ma River Delta (Vietnam) [sh2010015416]
+	   451 UF Ðò^ng bà?ng Thanh Hóa (Vietnam)
+	   451 UF Thanh Hóa Delta (Vietnam)
+	   550 BT Deltas—Vietnam
+
+	(C) 150 Magnesium oxide crystals [May Subd Geog] [sh2010008382]
+	   550 BT Crystals
+
+	(C) 150 Marley, Flea (Fictitious character) [Not Subd Geog] [sh2011000541]
+	   450 UF Flea Marley (Fictitious character)
+
+	(C) 100 Menhenitt family [Not Subd Geog] [sh2010012001]
+	   400 UF Menhenet family
+
+	(C) 150 Menippe mercenaria fisheries [May Subd Geog] [sh2010015239]
+	   053  SH380.47.M46
+	   550 BT Crab fisheries
+
+	(C) 151 Mesach Mellet Plateau [sh2011000470]
+	   451 UF Amsach Mellet Plateau
+	   451 UF Messach Mellet Plateau
+	   451 UF Messak Mellet Plateau
+	   550 BT Plateaus—Algeria
+	   550 BT Plateaus—Libya
+	   550 BT Plateaus—Niger
+
+	(C) 150 Methyl iodide [May Subd Geog] [sh2011000498]
+	   053  QD412.I1
+	   450 UF Iodo-methane
+	   450 UF Iodomethane
+	   550 BT Organoiodine compounds
+	   550 BT Pesticides
+
+
+	   100 Micka family [Not Subd Geog] [sh2011000513]
+	   400 UF Micko family
+	   400 UF Miczka family
+
+	(C) 150 Miskito literature [May Subd Geog] [sh2011000329]
+	   550 BT Central American literature
+
+	(C) 150 Miskito poetry [May Subd Geog] [sh2011000330]
+	   550 BT Miskito literature
+
+	   151 Mohawk Mountain (Conn.) [sh2011000578]
+	   451 UF Hosted Mountain (Conn.)
+	   550 BT Mountains—Connecticut
+
+	   151 Mohawk State Forest (Conn.) [sh2011000582]
+	   451 UF Mohawk Mountain State Forest (Conn.)
+	   550 BT Forest reserves—Connecticut
+
+	   151 Montegibbio di Sassuolo Site (Italy) [sh2011000518]
+	   451 UF Montegibbio Site (Italy)
+	   551 BT Italy—Antiquities
+
+	(C) 151 Mountain Park Dam (Okla.) [sh2011000535]
+	   451 UF Steed Reservoir Mountain Park Dam (Okla.)
+	   451 UF Tom Steed Reservoir Mountain Park Dam (Okla.)
+	   550 BT Dams—Oklahoma
+
+	(C) 150 Multipurpose buildings—Switzerland [sh2011000248]
+
+	(C) 150 Muslim prisoners [May Subd Geog] [sh2010012357]
+	   450 UF Islamic prisoners
+	   550 BT Prisoners
+
+	   150 Napoleonic Wars, 1800-1815—Campaigns—Mauritius [sh2011000557]
+
+	   150 National characteristics, Congolese (Democratic Republic) [sh2011000585]
+	   450 UF Congolese (Democratic Republic) national characteristics
+
+	   151 Naturschutzgebiet Duvenstedter Brook (Hamburg, Germany) [sh2011000381]
+	   667  This heading is not valid for use as a geographic subdivision.
+	   451 UF Duvenstedter Brook Nature Reserve (Hamburg, Germany)
+	   550 BT Natural areas—Germany
+
+	   151 Naturschutzgebiet Wohldorfer Wald (Hamburg, Germany) [sh2011000384]
+	   667  This heading is not valid for use as a geographic subdivision.
+	   451 UF Wohldorfer Wald Nature Reserve (Hamburg, Germany)
+	   550 BT Forest reserves—Germany
+	   550 BT Natural areas—Germany
+
+	   151 Nauru—Languages [sh2011000559]
+
+	  * 150 Nauru language CANCEL
+	   150 Nauruan language [May Subd Geog] [sh 85090323]
+	   450 UF Naouru language
+	   450 UF Nauru language [EARLIER FORM OF HEADING]
+	   550 BT Micronesian languages
+	   551 BT Nauru—Languages
+
+
+	(C) 150 Ngati Hikairo (New Zealand people : Tainui) [May Subd Geog] [sh2010011376]
+	   450 UF Hikairo, Ngati (New Zealand people : Tainui)
+	   450 UF Hikairo, Tainui, Ngati (New Zealand people)
+	   450 UF Ngati Hikairo, Tainui (New Zealand people)
+	   550 BT Ethnology—New Zealand
+	   550 BT Maori (New Zealand people)
+
+	(C) 150 Ngati Ira (New Zealand people : Te Whakatohea) [May Subd Geog] [sh2010011377]
+	   450 UF Ira, Ngati (New Zealand people : Te Whakatohea)
+	   450 UF Ira, Te Whakatohea, Ngati (New Zealand people)
+	   450 UF Ngati Ira, Te Whakatohea (New Zealand people)
+	   550 BT Ethnology—New Zealand
+	   550 BT Maori (New Zealand people)
+
+	(C) 150 Ngati Paoa (New Zealand people) [May Subd Geog] [sh2010011428]
+	   450 UF Paoa, Ngati (New Zealand people)
+	   550 BT Ethnology—New Zealand
+	   550 BT Maori (New Zealand people)
+
+	(C) 150 Ngati Parewaeono (New Zealand people) [May Subd Geog] [sh2010011429]
+	   450 UF Ngati Pare Wae Ono (New Zealand people)
+	   450 UF Pare Wae Ono, Ngati (New Zealand people)
+	   450 UF Parewaeono, Ngati (New Zealand people)
+	   550 BT Ethnology—New Zealand
+	   550 BT Maori (New Zealand people)
+
+	(C) 150 Ngati Parewahawaha (New Zealand people) [May Subd Geog] [sh2010011194]
+	   450 UF Parewahawaha, Ngati (New Zealand people)
+	   550 BT Ethnology—New Zealand
+	   550 BT Maori (New Zealand people)
+
+	(C) 150 Ngati Rehua (New Zealand people) [May Subd Geog] [sh2010011193]
+	   450 UF Rehua, Ngati (New Zealand people)
+	   550 BT Ethnology—New Zealand
+	   550 BT Maori (New Zealand people)
+
+	(C) 150 Ngati Rongo (New Zealand people : Ngai Tuhoe) [May Subd Geog] [sh2010011372]
+	   450 UF Ngati Rongo, Ngai Tuhoe (New Zealand people)
+	   450 UF Rongo, Ngai Tuhoe, Ngati (New Zealand people)
+	   450 UF Rongo, Ngati (New Zealand people : Ngai Tuhoe)
+	   550 BT Ethnology—New Zealand
+	   550 BT Maori (New Zealand people)
+
+	   151 Ngiro River (Kenya) [sh 93005087]
+	  * 451 UF Engare Ngiro (Kenya)
+	  * 451 UF Engare Nyiro (Kenya)
+	  * 451 UF Engare Uaso Nyiro (Kenya)
+	  * 451 UF Ngare Ng'iro (Kenya)
+	  * 451 UF Nyiro River (Kenya)
+	  * 451 UF Uaso Nyiro (Kenya)
+
+	   151 Niobrara State Park (Neb.) [sh2011000240]
+	   550 BT Parks—Nebraska
+
+
+	(C) 150 Nissan Armada sport utility vehicle [Not Subd Geog] [sh2011000543]
+	   450 UF Armada sport utility vehicle
+	   550 BT Nissan trucks
+	   550 BT Sport utility vehicles
+
+	(C) 150 Nissan Titan truck [Not Subd Geog] [sh2011000542]
+	   450 UF Titan truck
+	   550 BT Nissan trucks
+	   550 BT Pickup trucks
+
+	   150 Non-church-affiliated people [May Subd Geog] [sh 85092217]
+	  * 550 RT Irreligion CANCEL
+
+	(A) 100 Norfleet family [Not Subd Geog] [sh 92006223]
+	  * 400 UF Northfleet family
+	  * 400 UF Northfleete family
+
+	(C) 150 North Carolina Class (Battleships) [Not Subd Geog] [sh2010014525]
+	   550 BT Battleships
+
+	(A) 151 Noto Kaido (Japan) [sh2009003470]
+	   550 BT Roads—Japan
+
+	(C) 151 Nott Island (Conn.) [sh2010011992]
+	   451 UF Six Mile Island (Conn.)
+	   550 BT Islands—Connecticut
+
+	   151 Oddsstaðir (Iceland) [sh2011000492]
+	   451 UF Oddsstaður (Iceland)
+	   550 BT Farms—Iceland
+
+	(C) 150 Ommastrephes bartramii fisheries [May Subd Geog] [sh2010015358]
+	   053  SH374.6.O55
+	   550 BT Squid fisheries
+
+	   150 Opera—Juvenile [sh 85094905]
+	  * 680  Here are entered works about operas written for children to perform. For operas of this 
+	type see Operas--Juvenile.
+	  * 450 UF Opera—Juvenile—History and criticism
+	  * 450 UF School opera CANCEL
+
+	   150 Operas—Juvenile [sh 85094941]
+	  * 680  Here are entered operas written to be performed by children.
+	  * 450 UF Children's operas
+
+	(C) 150 Operation Clipper, 1944 [sh2011000494]
+	   450 UF Clipper, Operation, 1944
+	   550 BT World War, 1939-1945—Campaigns—Germany
+
+	   151 Orség (Hungary) [sh 85095755]
+	  * 451 UF Orség Hegyhát (Hungary)
+
+	   151 Öxi (Iceland) [sh2011000531]
+	   550 BT Roads—Iceland
+
+	   150 Pacifastacus leniusculus [May Subd Geog] [sh 85096444]
+	  * 450 UF Astacus leniusculus
+
+
+	(C) 151 Packsaddle Wildlife Management Area (Okla.) [sh2011000474]
+	   550 BT Wildlife refuges—Oklahoma
+
+	(C) 151 Parque Nacional Galápagos (Ecuador) [sh2010008381]
+	   451 UF Archipiélago de Colon National Park and Marine Reserve (Ecuador)
+	   451 UF Galápagos Biological Marine Resources Reserve (Ecuador)
+	   451 UF Galápagos Islands National Park and Marine Reserve (Ecuador)
+	   451 UF Galápagos National Park (Ecuador)
+	   451 UF Parque Nacional y la Riserva Marina de Archipiélago de Colon (Ecuador)
+	   550 BT Aquatic parks and reserves—Ecuador
+	   550 BT National parks and reserves—Ecuador
+
+	(C) 100 Petrov family [Not Subd Geog] [sh2010010627]
+	   400 UF Petroff family
+	   400 UF Petroof family
+
+	  * 150 Photography, Artistic [Not Subd Geog] CHANGE GEOG [sh 85101269]
+
+	(C) 150 Phyllospadix [May Subd Geog] [sh2010013776]
+	   053  QK495.Z7 (Botany)
+	   450 UF Surfgrass
+	   550 BT Zosteraceae
+
+	   150 Physiographic provinces—Bolivia [sh2011000871]
+
+	   150 Plateaus—Libya [sh2011000606]
+
+	(C) 150 Portia (Fictitious character : Shakespeare) [Not Subd Geog] [sh2010011178]
+
+	   150 Proverbs, Bakhtiari [May Subd Geog] [sh2011000586]
+	   053  PN6519.B25
+	   450 UF Bakhtiari proverbs
+
+	(C) 150 Proverbs, Rwandan [May Subd Geog] [sh2011000323]
+	   450 UF Rwandan proverbs
+
+	(C) 151 Pyramid Cove (Calif.) [sh2011000534]
+	   550 BT Bays—California
+
+	(C) 150 Railroad stations—Poland [sh2011000250]
+
+	   150 Religion [Not Subd Geog] [sh 85112549]
+	  * 550 RT Atheism
+	  * 550 RT Irreligion
+
+	(C) 150 Residence visas [May Subd Geog] [sh2010010268]
+	   450 UF Resident visas
+	   550 BT Visas
+
+	   150 Roads—Guard fences [sh 85114501]
+	  * 450 UF Longitudinal barriers (Roads)
+
+	   150 Roads—Iceland [sh2011000652]
+
+
+	   150 Roads—Snow and ice control [May Subd Geog] [sh 85114517]
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+	  * 550 BT Roads—Maintenance and repair CANCEL
+	  * 550 BT Slush on pavements, runways, etc. CANCEL
+
+	   150 Roads—South Carolina [sh2011000580]
+
+	(C) 150 Rock music—2011-2020 [sh2011000500]
+
+	(C) 150 Rocky Mountain bighorn sheep [May Subd Geog] [sh2011000552]
+	   053  QL737.U53 (Zoology)
+	   450 UF Ovis canadensis auduboni
+	   450 UF Ovis canadensis californiana
+	   450 UF Ovis canadensis canadensis
+	   550 BT Bighorn sheep
+
+	   150 Roofs—Snow and ice control [May Subd Geog] [sh 85115337]
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+	  * 550 BT Roofs—Maintenance and repair CANCEL
+
+	(C) 150 Rune singers [May Subd Geog] [sh2011000496]
+	   450 UF Runic singers
+	   450 UF Runo singers
+	   550 BT Folk singers
+	   550 BT Singers
+
+	(C) 150 Rune songs [May Subd Geog] [sh2011000497]
+	   450 UF Kalevalaic songs
+	   450 UF Runic songs
+	   450 UF Runo songs
+	   550 BT Folk music
+	   550 BT Songs
+
+	   150 Runways (Aeronautics)—Snow and ice control [May Subd Geog] [sh 94009713]
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+	  * 550 BT Runways (Aeronautics)—Maintenance and repair CANCEL
+
+	   150 Salt mines and mining—Nevada [sh2011000865]
+
+	(C) 100 Savarenskii family [Not Subd Geog] [sh2010010628]
+
+	   150 Science and technology intermediary organizations [May Subd Geog] 
+	[sh2011000626]
+	   450 UF Technology intermediary organizations
+	   550 BT Service industries
+
+	   150 Secularism [May Subd Geog] [sh 85119460]
+	  * 550 RT Atheism
+
+	(C) 100 Seddon family [Not Subd Geog] [sh2011000327]
+
+
+	(C) 151 Semakau Island (Singapore) [sh2011000508]
+	   451 UF Mangrove-eiland (Singapore)
+	   451 UF Pulau Semakau (Singapore)
+	   550 BT Islands—Singapore
+
+	   100 Serlui family [Not Subd Geog] [sh2010014204]
+
+	   150 Seville (Spain) in opera [Not Subd Geog] [sh2010014429]
+	   550 BT Opera
+
+	   150 Ships—Ice prevention [May Subd Geog] [sh 85121615]
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+
+	(C) 150 Shophouses [May Subd Geog] [sh2011000324]
+	   450 UF Qilou houses
+	   450 UF Qilous
+	   450 UF Shop-houses
+	   550 BT Dwellings
+	   550 BT Multipurpose buildings
+	   550 BT Stores, Retail
+
+	(C) 110 Sigmaringen Castle (Sigmaringen, Germany) [sh2011000471]
+	   410 UF Schloss Sigmaringen (Sigmaringen, Germany)
+	   550 BT Palaces—Germany
+
+	   100 Skiba family [Not Subd Geog] [sh2011000094]
+
+	(C) 150 Slave trade in art [Not Subd Geog] [sh2011000499]
+
+	(A) 150 Slavery in museum exhibits [May Subd Geog] [sh2011000350]
+	   550 BT Museum exhibits
+
+	(C) 151 Slusegård Site (Denmark) [sh2010014523]
+	   551 BT Denmark—Antiquities
+
+	(C) 150 Songs, Susu [May Subd Geog] [sh2009000019]
+	   450 UF Susu songs
+
+	(C) 110 Stacja Kolejowa Gniezno (Gniezno, Poland) [sh2011000249]
+	   410 UF Bahnstation (Gniezno, Poland)
+	   410 UF Gniezno Railway Station (Gniezno, Poland)
+	   550 BT Railroad stations—Poland
+
+	(A) 150 Still-life painting, Japanese [May Subd Geog] [sh2009003682]
+	   450 UF Japanese still-life painting
+
+	(C) 150 Stirlitz, Max Otto von (Fictitious character) [Not Subd Geog] [sh2011000536]
+	   450 UF Colonel Maxim Maximovich Isayev (Fictitious character)
+	   450 UF Isayev, Maksim Maksimovich (Fictitious character)
+	   450 UF Maksim Maksimovich Isayev (Fictitious character)
+	   450 UF Max Otto von Stirlitz (Fictitious character)
+	   450 UF Shtirlit?s?, Maks Otto von (Fictitious character)
+	   450 UF Vladimirov, Vsevolod Vladimirovich (Fictitious character)
+	   450 UF Von Stirlitz, Max Otto (Fictitious character)
+	   450 UF Vsevolod Vladimirovich Vladimirov (Fictitious character)
+
+
+	(C) 151 Sukla Phanta Wildlife Reserve (Nepal) [sh2011000254]
+	   451 UF Royal Shuklaphanta Wildlife Reserve (Nepal)
+	   451 UF Royal Sukla Phanta Wildlife Reserve (Nepal)
+	   451 UF Royal Suklaphant Wildlife Reserve (Nepal)
+	   451 UF Royal Suklaphanta Wildlife Reserve (Nepal)
+	   451 UF Shukla Phanta Wildlife Reserve (Nepal)
+	   451 UF Shuklaphanta Wildlife Reserve (Nepal)
+	   451 UF Sukila Phanta Wildlife Reserve (Nepal)
+	   451 UF White Grass Plains Wildlife Reserve (Nepal)
+	   550 BT National parks and reserves—Nepal
+	   550 BT Wildlife refuges—Nepal
+
+	   150 Supersonic transport planes [May Subd Geog] [sh 85130653]
+	  * 550 RT Jet transports CANCEL
+
+	   100 Tassin family [Not Subd Geog] [sh2011000178]
+
+	   150 Telegraph lines—Ice prevention [May Subd Geog] [sh 85133346]
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+
+	   150 Telephone lines—Ice prevention [May Subd Geog] [sh 85133421]
+	  * 550 BT Ice prevention CANCEL
+	  * 550 BT Ice prevention and control
+
+	(C) 100 Terreblanche family [Not Subd Geog] [sh2010010275]
+	   400 UF Terblanche family
+	   400 UF Terblans family
+	   400 UF Terre Blanche family
+
+	(C) 150 That (The English word) [sh2010014067]
+	   550 BT English language—Etymology
+
+	   150 Theater—Awards—Washington (D.C.) [sh2011000654]
+
+	(C) 150 Three-dimensional imaging in architecture [May Subd Geog] [sh2011000510]
+	   450 UF Three-dimensional architectural imaging
+	   550 BT Imaging systems in architecture
+
+	(C) 150 Topic distillation (Internet searching) [May Subd Geog] [sh2011000545]
+	   450 UF Distillation, Topic (Internet searching)
+	   550 BT Internet searching
+
+	(C) 150 Travelers' writings, Armenian [May Subd Geog] [sh2010011500]
+	   450 UF Armenian travelers' writings
+	   550 BT Armenian literature
+
+	(A) 150 Turmeric [May Subd Geog] [sh 85138923]
+	  * 550 BT Spices
+
+
+	(C) 100 Ueckermann family [Not Subd Geog] [sh2011000326]
+	   400 UF Uckerman family
+	   400 UF Uckermann family
+	   400 UF Uckert family
+	   400 UF Uekerman family
+	   400 UF Uekert family
+	   400 UF Ukerman family
+	   400 UF Ukermann family
+	   400 UF Ukert family
+
+	   151 Velasco Alkaline Province (Bolivia) [sh2011000483]
+	   451 UF Provincia Alcalina de Velasco (Bolivia)
+	   550 BT Physiographic provinces—Brazil
+
+	   150 Verse satire, Mexican [May Subd Geog] [sh2011000558]
+	   450 UF Mexican verse satire
+	   550 BT Mexican poetry
+
+	(C) 150 Waura Indians [May Subd Geog] [sh 91003900]
+	  * 053  F2520.1.W CANCEL
+	  * 053  F2520.1.W38
+	  * 450 UF Wauja Indians
+
+	   150 Weapons of mass destruction [May Subd Geog] [sh 96004190]
+	  * 450 UF CBRNEs (Weapons)
+
+	(C) 150 Westen, Michael (Fictitious character) [Not Subd Geog] [sh2011000547]
+	   450 UF Michael Westen (Fictitious character)
+
+	(A) 150 Whoopie pies [May Subd Geog] [sh2011000516]
+	   450 UF Gobs (Desserts)
+	   550 BT Cookies
+
+	   150 Wildlife refuges—Nepal [sh2011000651]
+
+	(C) 151 Woewodski Island (Alaska) [sh2011000532]
+	   451 UF Bear Island (Petersburg Census Area, Alaska)
+	   451 UF Medviezhi Island (Alaska)
+	   451 UF Ostrova Medviezhi (Alaska)
+	   451 UF Ostrova Voyevodskago (Alaska)
+	   451 UF Voevodskago Island (Alaska)
+	   451 UF Voyevodskago Island (Alaska)
+	   451 UF Woewodsky Island (Alaska)
+	   550 BT Islands—Alaska
+
+	(C) 151 Woodruff Road (S.C.) [sh2010012362]
+	   550 BT Roads—South Carolina
