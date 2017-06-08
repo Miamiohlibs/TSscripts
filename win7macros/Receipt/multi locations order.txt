@@ -1,0 +1,13 @@
+ACQ TYPE	pPURCHASE	CODE4	----	RDATE	05-17-2010
+LOCATION	multi	E PRICE	$75.00	RLOC	bACQUISITIONS
+CDATE	  -  -    	FORM	uPRINT	BLOC	bACQUISITIONS
+CLAIM	----	FUND	multi	STATUS	aFULLY PAID
+COPIES	3	ODATE	05-10-2010	TLOC	----
+CODE1	----	ORD NOTE	----	VENDOR	west West Publishing
+CODE2	----	ORD TYPE	rMONO UNIT	LANG	engEnglish
+CODE3	-	RACTION	----	VOLUMES	1
+LOCATIONS	kngr (1),docr (2)
+FUNDS	50/0 (1),49/0 (2)
+INT. NOTE	Received  3 copies    rts
+INT. NOTE	5/10/10 emailed order to Brett Fritsche  (brett.fritsche@thomsonreuters.com)  1-800-328-9352 x42476   kc
+PAID	05-24-2010	05-12-2010	6066067836	$225.00	75066	003		

@@ -1,0 +1,13 @@
+Command: *recs-bo;po-n;ot-n;b3--;ins-acq
+  ;fm-u;rl-n;br-kngli;fd-16/0;ep-70.40;o
+  d-10-21-09;vd-ybp;                    
+Bib and order records will be created
+  Title: Ethical Futures Bioscience and 
+    OCLC#: ocn401153601
+15 possible duplicates on
+  title key : efuture
+Record(s) added  10-21-09 11:39
+  BIBLIOGRAPHIC  #: b40681786
+Status set to hold for order record - o533063
+P.O. will NOT print
+  ORDER          #: o5330634

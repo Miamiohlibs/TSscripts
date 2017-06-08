@@ -1,0 +1,157 @@
+ 
+
+FIELD: d650 0 Aboriginal Australians|vFolklore|vJuvenile fiction  
+Indexed as SUBJECT: aboriginal australians folklore juvenile fiction 
+Preceded by "b": aboriginal australians folklore 
+Followed by "b": aboriginal australians folklore juvenile literature 
+From: b41249549 Durack, Mary The way of the whirlwind / Mary & Elizabeth Durack  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 12:47:15 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 Adventure stories, French|vJuvenile fiction  
+Indexed as SUBJECT: adventure stories french juvenile fiction 
+Preceded by "b": adventure stories french history and criticism 
+Followed by "a": adventure stories german 
+From: b41249690 Henriot, 1857-1933 Cyrano de Bergerac  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 4:00:02 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 African American wit and humor|vJuvenile fiction  
+Indexed as SUBJECT: african american wit and humor juvenile fiction 
+Preceded by "b": african american wit and humor history and criticism congresses 
+Followed by "a": african american women 
+From: b41249604 Kemble, E. W. (Edward Windsor), 1861-1933 The Blackberries and their adventures / by Edward W. Kemble  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 2:14:57 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 African Americans|vCaricatures and cartoons|vJuvenile fiction  
+Indexed as SUBJECT: african americans caricatures and cartoons juvenile fiction 
+Preceded by "b": african americans caricatures and cartoons 
+Followed by "b": african americans case studies 
+From: b41249604 Kemble, E. W. (Edward Windsor), 1861-1933 The Blackberries and their adventures / by Edward W. Kemble  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 2:14:57 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 Blowguns|vJuvenile poetry  
+Indexed as SUBJECT: blowguns juvenile poetry 
+Preceded by "a 4XX": blowgate mr bartholomew 
+Followed by "a 4XX": blowing engines 
+From: b41249525 Busch, Wilhelm, 1832-1908 Hans Huckebein  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 11:11:49 AM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 Caricature|vJuvenile poetry  
+Indexed as SUBJECT: caricature juvenile poetry 
+Preceded by "b": caricature in literature 
+Followed by "b": caricature psychological aspects 
+From: b41249525 Busch, Wilhelm, 1832-1908 Hans Huckebein  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 11:11:49 AM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 Consequentialism (Ethics)|vJuvenile poetry  
+Indexed as SUBJECT: consequentialism ethics juvenile poetry 
+Preceded by "b": consequentialism ethics computer games 
+Followed by "a": conser program 
+From: b41249525 Busch, Wilhelm, 1832-1908 Hans Huckebein  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 11:11:49 AM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d60010 Cyrano de Bergerac 1619-1655|vHumor  
+Indexed as SUBJECT: cyrano de bergerac 1619 1655 humor 
+Preceded by "b": cyrano de bergerac 1619 1655 histoire comique des etats et empires de la lune 
+Followed by "b": cyrano de bergerac 1619 1655 in literature 
+From: b41249690 Henriot, 1857-1933 Cyrano de Bergerac  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 4:00:02 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d60010 Cyrano de Bergerac 1619-1655|vJuvenile fiction  
+Indexed as SUBJECT: cyrano de bergerac 1619 1655 juvenile fiction 
+Preceded by "b": cyrano de bergerac 1619 1655 in literature 
+Followed by "b": cyrano de bergerac rostand edmond 1868 1918 
+From: b41249690 Henriot, 1857-1933 Cyrano de Bergerac  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 4:00:02 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: y752  Czechoslovakia 
+|dPrague  
+Indexed as SUBJECT: czechoslovakia prague 
+Preceded by "b": czechoslovakia post communism economic aspects 
+Followed by "a": czechoslovakia president 1918 1935 masaryk 
+From: b41249537 {u010C}apek, Karel, 1890-1938 D{u00E1}{u0161}e{u0148}ka  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 11:40:14 AM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 Dogs|vFolklore|vJuvenile literature  
+Indexed as SUBJECT: dogs folklore juvenile literature 
+Preceded by "b": dogs folklore france dombes 
+Followed by "a": dogs food 
+From: b41249537 {u010C}apek, Karel, 1890-1938 D{u00E1}{u0161}e{u0148}ka  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 11:40:14 AM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: y752  France 
+|d{u00C9}pinal  
+Indexed as SUBJECT: france epinal 
+Preceded by "b": france epigrams latin translations into english 
+Followed by "b": france episcopal conferences catholic 
+From: b41249690 Henriot, 1857-1933 Cyrano de Bergerac  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 4:00:02 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 German language|vJuvenile fiction  
+Indexed as SUBJECT: german language juvenile fiction 
+Preceded by "b": german language jargon dictionaries 
+Followed by "b": german language lexicography 
+From: b41249513 Redslob, Edwin, 1884-1973 Der spielzeugschrank / bilder von Emmy Zweybr{u00FC}ck ; text von Edwin Redslob  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 10:09:56 AM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: y752  Germany 
+|dStuttgart  
+Indexed as SUBJECT: germany stuttgart 
+Preceded by "b": germany study and teaching periodicals 
+Followed by "b": germany subculture 
+From: b41249525 Busch, Wilhelm, 1832-1908 Hans Huckebein  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 11:11:49 AM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d60000 Isaac, Bishop of Nineveh 7th cent.|xCriticism and interpretation  
+Indexed as SUBJECT: isaac bishop of nineveh 7th cent criticism and interpretation 
+Preceded by "b": isaac bishop of nineveh 7th cent 
+Followed by "a 4XX": isaac bishop of st asaph 1697 1759 
+From: b41249677 Popovi{u0107}, Justin Sp Man and the God-man / Archimandrite Justin Popovich  FUNCTION: oclc Group: 0 Initials: acq Entry Date: Aug 13, 2010 3:30:01 PM   
+
+FIELD: d60000 John, the Apostle, Saint|xTeachings  
+Indexed as SUBJECT: john the apostle saint teachings 
+Preceded by "b": john the apostle saint sermons 
+Followed by "a 4XX": john the baptist 
+From: b41249653 Popovi{u0107}, Justin Sp The explanation of the Epistles of St. John the Theologian / Archimandrite Justin Popovich  FUNCTION: oclc Group: 0 Initials: acq Entry Date: Aug 13, 2010 3:23:30 PM   
+
+FIELD: d650 0 Mythology, Aboriginal Australian|vJuvenile fiction  
+Indexed as SUBJECT: mythology aboriginal australian juvenile fiction 
+Preceded by "b": mythology aboriginal australian in art exhibitions 
+Followed by "b": mythology aboriginal australian psychological aspects 
+From: b41249549 Durack, Mary The way of the whirlwind / Mary & Elizabeth Durack  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 12:47:15 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 Poetry|vHumor  
+Indexed as SUBJECT: poetry humor 
+Preceded by "b": poetry history and criticism theory etc 
+Followed by "b": poetry illustrations 
+From: b41249483 Robinson, Holland Nursery rhymes for the petits francais / Holland Robinson  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 9:09:26 AM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 Satire|vJuvenile fiction  
+Indexed as SUBJECT: satire juvenile fiction 
+Preceded by "a 5XX": satire japanese 
+Followed by "a": satire latin 
+From: b41249604 Kemble, E. W. (Edward Windsor), 1861-1933 The Blackberries and their adventures / by Edward W. Kemble  FUNCTION: oclc Group: 0 Initials: cak Entry Date: Aug 13, 2010 2:14:57 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 Small gardens  
+Indexed as SUBJECT: small gardens 
+Preceded by "a 5XX": small game hunting 
+Followed by "a": small gasoline engines 
+From: b41249550 Ruppenthal, R. J Fresh food from small spaces : the square-inch gardener's guide to year-round growing, fermenting, and sprouting / R.J. Ruppenthal  FUNCTION: oclc Group: 0 Initials: Entry Date: Aug 13, 2010 1:39:53 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d60010 Spiegelman, Art.
+|tMaus  
+Indexed as SUBJECT: spiegelman art maus 
+Preceded by "b": spiegelman art knowledge holocaust jewish 1939 1945 
+Followed by "b": spiegelman vladek comic books strips etc 
+From: b41249562 Considering Maus : approaches to Art Spiegelman's "Survivors Tale" of the Holocaust / edited by Deborah R. Geis  FUNCTION: oclc Group: 0 Initials: Entry Date: Aug 13, 2010 1:50:44 PM 
+Catalog Date: Aug 13, 2010   
+
+FIELD: d650 0 Sustainable development|xGovernment policy|vDictionaries  
+Indexed as SUBJECT: sustainable development government policy dictionaries 
+Preceded by "b": sustainable development government policy developing countries 
+Followed by "b": sustainable development government policy european union 
+From: b41249586 Saunier, Richard E Dictionary and introduction to global environmental governance / Richard E. Saunier and Richard A. Meganck  FUNCTION: oclc Group: 0 Initials: Entry Date: Aug 13, 2010 2:09:23 PM 
+Catalog Date: Aug 13, 2010  

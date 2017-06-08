@@ -1,0 +1,4088 @@
+
+
+-----Original Message-----
+From: Miami Univ Library [mailto:ftsmail@holmes.lib.muohio.edu] 
+Sent: Thursday, August 12, 2010 8:36 AM
+To: Nowak, Stephanie J.
+Subject: Mail from the Library
+
+
+
+
+
+                  Headings Report Thu Aug 12 08:36:29 EDT 2010
+                                        
+
+
+1. Headings used for the first time
+   Field: b7001 |aAdler, Allen.|tForbidden planet
+   Indexed as AUTHOR: adler allen
+   Preceded by "b": adler allan 1947
+   Followed by "b": adler allen 1942
+   From: b41243377  Forbidden planet [videorecording] / Metro Goldwyn Mayer ;
+   produced by Nicholas Nayfack ; directed by Fred McLeod Wilcox
+   Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 3:39:17 PM
+   Catalog Date: Aug 11, 2010
+
+ 
+
+2. Headings used for the first time
+   Field: b7001 |aBarish, Paul
+   Indexed as AUTHOR: barish paul
+   Preceded by "b": barish norman n
+   Followed by "b": barish wendy
+   From: b41242907  The Monster Squad [videorecording] / Taft Entertainment
+   Pictures/Keith Barish Productions ; directed by Fred Dekker
+   Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 9:59:30 AM
+   Catalog Date: Aug 11, 2010
+
+ 
+
+3. Headings used for the first time
+   Field: b7001 |aBates, Florence
+   Indexed as AUTHOR: bates florence
+   Preceded by "b": bates fanny d
+   Followed by "a": bates florence 1888 1954
+   From: b41243262  The son of Monte Cristo [videorecording] / Edward Small
+   Productions ; directed by Rowland V. Lee
+   Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 2:32:02 PM
+   Catalog Date: Aug 11, 2010
+
+ 
+
+4. Headings used for the first time
+   Field: a100  |aCase, Karl E. xzo
+   Indexed as AUTHOR: case karl e xzo
+   Preceded by "b": case karl e
+   Followed by "a 4XX": case kay a norlander 1949
+   From: b38205191 Case, Karl E. xzo Principles of Macroeconomics
+   Function: mcr  Group: 500  Initials: tlf  Entry Date: Aug 11, 2010 8:42:44 AM
+
+ 
+
+5. Headings used for the first time
+   Field: b7001 |aClini, Corrado
+   Indexed as AUTHOR: clini corrado
+   Preceded by "b": clingman thomas lanier 1812 1897
+
+                                     Page 1
+   Followed by "a": clinic on library applications of data processing
+   From: b39195247  Sustainable development and environmental management
+   [electronic resource] : experiences and case studies / edited by Corrado
+   Clini, Ignazio Musu and Maria Lodovica Gullino
+   Function: mser  Group: 0  Initials: jwb  Entry Date: Aug 11, 2010 10:07:08 AM
+   Catalog Date: Oct 8, 2008
+
+ 
+
+6. Headings used for the first time
+   Field: b7001 |aConnolly, Walter
+   Indexed as AUTHOR: connolly walter
+   Preceded by "b": connolly vera leona 1888
+   Followed by "b": connolly walter 1887 1940
+   From: b41243213  Nothing sacred [videorecording] / Selznick International
+   Pictures ; screenplay by Ben Hecht ; produced by David O. Selznick ;
+   directed by William A. Wellman
+   Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 2:12:09 PM
+   Catalog Date: Aug 11, 2010
+
+ 
+
+7. Headings used for the first time
+   Field: b7001 |aCraig, Charles
+   Indexed as AUTHOR: craig charles
+   Preceded by "b": craig cathy m
+   Followed by "a 4XX": craig charles drummer
+   From: b41243171  Night of the living dead [videorecording] / an Image Ten
+   production ; directed by George A. Romero ; produced by Russell W. Streiner,
+   Karl Hardman ; screenplay by John Russo, George Romero
+   Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+   Catalog Date: Aug 11, 2010
+
+ 
+
+8. Headings used for the first time
+   Field: b7001 |aGarc{u00ED}a, Mar{u00ED}a Isabel
+   Indexed as AUTHOR: garcia maria isabel
+   Preceded by "b": garcia maria elena
+   Followed by "a 4XX": garcia maria jurado
+   From: b41242956 Blanco, Jos{u00E9} A Enfoques : curso intermedio de lengua
+   espa{u00F1}ola / Jos{u00E9} A. Blanco, Mar{u00ED}a Isabel Garc{u00ED}a
+   Function: oclc  Group: 0  Initials: cak  Entry Date: Aug 11, 2010 10:40:19 AM
+   Catalog Date: Aug 11, 2010
+
+ 
+
+9. Headings used for the first time
+   Field: b7001 |aGower, Andre
+   Indexed as AUTHOR: gower andre
+   Preceded by "b": gowenlock alan h
+   Followed by "b": gower barney dewayne 1935
+   From: b41242907  The Monster Squad [videorecording] / Taft Entertainment
+   Pictures/Keith Barish Productions ; directed by Fred Dekker
+   Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 9:59:30 AM
+   Catalog Date: Aug 11, 2010
+
+ 
+
+                                     Page 2
+
+10. Headings used for the first time
+    Field: b7001 |aHardman, Karl
+    Indexed as AUTHOR: hardman karl
+    Preceded by "b": hardman john
+    Followed by "a": hardman keith
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+11. Headings used for the first time
+    Field: b7001 |aHinzman, Bill
+    Indexed as AUTHOR: hinzman bill
+    Preceded by "b": hinzer karin
+    Followed by "b": hinzpeter jurgen
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+12. Headings used for the first time
+    Field: b7102 |aImage Ten (Firm)
+    Indexed as AUTHOR: image ten firm
+    Preceded by "a 4XX": image sud nord firm
+    Followed by "a": imagemovers firm
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+13. Headings used for the first time
+    Field: b7001 |aIrandoust, Said.|4aui
+    Indexed as AUTHOR: irandoust said
+    Preceded by "b": iranagitakan kovkasyan kentron
+    Followed by "b": irani anosh 1974
+    From: b41167673  Energy conversion and management / editors, S.K. Shukla,
+    J.V. Tirkey
+    Function: mcat  Group: 0  Initials: cak  Entry Date: Aug 11, 2010 1:24:17 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+14. Headings used for the first time
+    Field: b7001 |aKosara, George
+    Indexed as AUTHOR: kosara george
+    Preceded by "b": kosar tevfik
+    Followed by "b": kosaraju s rao
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+
+                                     Page 3
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+15. Headings used for the first time
+    Field: a100  |aKubasek, xzo
+    Indexed as AUTHOR: kubasek xzo
+    Preceded by "b": kubasek nancy xzo
+    Followed by "a 4XX": kubashevskii o 1912
+    From: b36520123 Kubasek, xzo Dynamic Business Law
+    Function: mcr  Group: 500  Initials: tlf  Entry Date: Aug 11, 2010 8:19:28
+    AM
+
+ 
+
+16. Headings used for the first time
+    Field: b7001 |aLee, Rowland V
+    Indexed as AUTHOR: lee rowland v
+    Preceded by "b": lee ross darren
+    Followed by "b": lee rowland v 1891 1975
+    From: b41243262  The son of Monte Cristo [videorecording] / Edward Small
+    Productions ; directed by Rowland V. Lee
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 2:32:02 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+17. Headings used for the first time
+    Field: b7001 |aMacht, Stephen
+    Indexed as AUTHOR: macht stephen
+    Preceded by "b": macht norman l norman lee 1929
+    Followed by "b": machta benjamin b
+    From: b41242907  The Monster Squad [videorecording] / Taft Entertainment
+    Pictures/Keith Barish Productions ; directed by Fred Dekker
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 9:59:30 AM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+18. Headings used for the first time
+    Field: b7001 |aMujumda, A. S.|4aui
+    Indexed as AUTHOR: mujumda a s
+    Preceded by "b": muju ichien 1227 1312
+    Followed by "a": mujumdar a s
+    From: b41167673  Energy conversion and management / editors, S.K. Shukla,
+    J.V. Tirkey
+    Function: mcat  Group: 0  Initials: cak  Entry Date: Aug 11, 2010 1:25:10 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+19. Headings used for the first time
+    Field: a100  |aNash, Gary B. xzo
+    Indexed as AUTHOR: nash gary b xzo
+    Preceded by "b": nash gary b
+
+                                     Page 4
+    Followed by "b": nash gary powell 1964
+    From: b35043787 Nash, Gary B. xzo The American People:  creating a nation
+    and a society (vol. 2)
+    Function: mcr  Group: 500  Initials: lma  Entry Date: Aug 11, 2010 10:12:46
+    AM
+
+ 
+
+20. Headings used for the first time
+    Field: b7001 |aNathanson, Robert
+    Indexed as AUTHOR: nathanson robert
+    Preceded by "b": nathanson richard
+    Followed by "b": nathanson s david
+    From: b41243018 Kechley, David In the dragon's garden
+    Function: oclc  Group: 0  Initials: acq  Entry Date: Aug 11, 2010 11:17:33
+    AM
+
+ 
+
+21. Headings used for the first time
+    Field: b7001 |aO'Brien, Keith S
+    Indexed as AUTHOR: obrien keith s
+    Preceded by "b": obrien keith 1949
+    Followed by "b": obrien kelly
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+22. Headings used for the first time
+    Field: b7001 |aO'Dea, Judith
+    Indexed as AUTHOR: odea judith
+    Preceded by "b": odea john d 1972
+    Followed by "b": odea kerin
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+23. Headings used for the first time
+    Field: a100  |aPetrucci, xzo
+    Indexed as AUTHOR: petrucci xzo
+    Preceded by "b": petrucci sergio
+    Followed by "b": petrucciani mario
+    From: b36520147 Petrucci, xzo General Chemistry, with media package & ssm.
+    Function: mcr  Group: 500  Initials: tlf  Entry Date: Aug 11, 2010 8:29:21
+    AM
+
+ 
+
+24. Headings used for the first time
+    Field: b7001 |aRegehr, Duncan
+
+                                     Page 5
+    Indexed as AUTHOR: regehr duncan
+    Preceded by "b": regehr cheryl
+    Followed by "b": regehr eric v
+    From: b41242907  The Monster Squad [videorecording] / Taft Entertainment
+    Pictures/Keith Barish Productions ; directed by Fred Dekker
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 9:59:30 AM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+25. Headings used for the first time
+    Field: b7001 |aRubinek, Saul
+    Indexed as AUTHOR: rubinek saul
+    Preceded by "a 4XX": rubinchik yu a
+    Followed by "b": rubinek saul 1948
+    From: b41243316  I love trouble [videorecording] / Touchstone Pictures
+    presents in association with Caravan Pictures ; a Nancy Meyers/Charles
+    Shyer film ; directed by Charles Shyer
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 3:05:10 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+26. Headings used for the first time
+    Field: b7001 |aRusso, John,|d1939-
+    Indexed as AUTHOR: russo john 1939
+    Preceded by "b": russo john
+    Followed by "b": russo john 1946
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+27. Headings used for the first time
+    Field: a1001 |aSamyn, No{u00EB}l
+    Indexed as AUTHOR: samyn noel
+    Preceded by "b": samyn mary ann 1970
+    Followed by "a 4XX": samyueruson poru a 1915 2009
+    From: b41243031 Samyn, No{u00EB}l {u00C9}tudes transcendantes
+    Function: oclc  Group: 0  Initials: acq  Entry Date: Aug 11, 2010 11:25:28
+    AM
+
+ 
+
+28. Headings used for the first time
+    Field: b7001 |aSanders, George
+    Indexed as AUTHOR: sanders george
+    Preceded by "b": sanders geoffrey
+    Followed by "b": sanders george 1906 1972
+    From: b41243262  The son of Monte Cristo [videorecording] / Edward Small
+    Productions ; directed by Rowland V. Lee
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 2:32:02 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+                                     Page 6
+
+29. Headings used for the first time
+    Field: b7001 |aSantos, Silvia J.,|d1963-
+    Indexed as AUTHOR: santos silvia j 1963
+    Preceded by "a": santos silva loreina
+    Followed by "a": santos silvio coelho dos
+    From: b41243237 Ortiz, Anna Marie, 1963- Ethnicity in college : advancing
+    theory and improving diversity practices on campus / Anna M. Ortiz and
+    Silvia J. Santos
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 2:18:34 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+30. Headings used for the first time
+    Field: b7001 |aSaville, Victor
+    Indexed as AUTHOR: saville victor
+    Preceded by "b": saville troike muriel 1936
+    Followed by "a": saville victor 1895 1979
+    From: b41243079  Goodbye, Mr. Chips [videorecording] / Metro-Goldwyn-Mayer
+    ; directed by Victor Saville
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 11:41:09 AM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+31. Headings used for the first time
+    Field: b7001 |aSchon, Kyra
+    Indexed as AUTHOR: schon kyra
+    Preceded by "b": schon kenneth e
+    Followed by "b": schon lew c
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+32. Headings used for the first time
+    Field: a1001 |aSerwatka, Thomas S
+    Indexed as AUTHOR: serwatka thomas s
+    Preceded by "b": serwatka michael
+    Followed by "b": serway raymond a
+    From: b41243389 Serwatka, Thomas S Queer questions, clear answers : the
+    contemporary debates on sexual orientation / Thomas S. Serwatka
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 3:46:54 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+33. Headings used for the first time
+    Field: b7001 |aStevens, Warren
+    Indexed as AUTHOR: stevens warren
+    Preceded by "b": stevens warder w b 1845
+    Followed by "b": stevens warren 1919
+    From: b41243377  Forbidden planet [videorecording] / Metro Goldwyn Mayer ;
+    produced by Nicholas Nayfack ; directed by Fred McLeod Wilcox
+
+                                     Page 7
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 3:39:17 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+34. Headings used for the first time
+    Field: b7001 |aStreiner, Russ
+    Indexed as AUTHOR: streiner russ
+    Preceded by "b": streiner david l
+    Followed by "b": streinu ileana
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+35. Headings used for the first time
+    Field: b7001 |aSurvinski, Vince
+    Indexed as AUTHOR: survinski vince
+    Preceded by "b": surville louis charles de hautefort marquis de 1657 or   
+    8 1721
+    Followed by "b": survival education association
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+36. Headings used for the first time
+    Field: b7001 |aTirkey, J.V.|q(Jeewan V.).|4edt
+    Indexed as AUTHOR: tirkey j v jeewan v
+    Preceded by "b": tiritilli jerry
+    Followed by "b": tirkkonen olav
+    From: b41167673  Energy conversion and management / editors, S.K. Shukla,
+    J.V. Tirkey
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:23:21 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+37. Headings used for the first time
+    Field: a1001 |aUeshiba, Morihei,|d1883-1969
+    Indexed as AUTHOR: ueshiba morihei 1883 1969
+    Preceded by "b": ueshiba kisshomaru 1921
+    Followed by "b": ueshiba moriteru 1951
+    From: b41243286 Ueshiba, Morihei, 1883-1969 The art of peace / Morihei
+    Ueshiba ; translated and edited by John Stevens
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 2:59:31 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+38. Headings used for the first time
+    Field: b7001 |aWayne, Keith
+
+                                     Page 8
+    Indexed as AUTHOR: wayne keith
+    Preceded by "b": wayne kathryn m
+    Followed by "b": wayne kenneth
+    From: b41243171  Night of the living dead [videorecording] / an Image Ten
+    production ; directed by George A. Romero ; produced by Russell W.
+    Streiner, Karl Hardman ; screenplay by John Russo, George Romero
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:46:57 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+39. Headings used for the first time
+    Field: a1001 |aWiberny, Heiner
+    Indexed as AUTHOR: wiberny heiner
+    Preceded by "b": wiberley stephen e
+    Followed by "b": wibert gregory j
+    From: b41243067 Wiberny, Heiner Ulla in Africa; arr
+    Function: oclc  Group: 0  Initials: acq  Entry Date: Aug 11, 2010 11:35:05
+    AM
+
+ 
+
+40. Headings used for the first time
+    Field: b7001 |aWilcox, Fred McLeod
+    Indexed as AUTHOR: wilcox fred mcleod
+    Preceded by "b": wilcox fred m
+    Followed by "b": wilcox gary 1947
+    From: b41243377  Forbidden planet [videorecording] / Metro Goldwyn Mayer ;
+    produced by Nicholas Nayfack ; directed by Fred McLeod Wilcox
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 3:39:17 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+41. Headings used for the first time
+    Field: a1001 |aWilson, Roxy
+    Indexed as AUTHOR: wilson roxy
+    Preceded by "b": wilson rowland b
+    Followed by "b": wilson roy i
+    From: b41243055 Wilson, Roxy Solutions to exercises  : Chemistry, the
+    central science, 11E, Brown ... [et al.] / Roxy Wilson
+    Function: oclc  Group: 0  Initials: cak  Entry Date: Aug 11, 2010 11:29:56
+    AM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+42. Headings used for the first time
+    Field: b7001 |aWinfield, Leon Paul
+    Indexed as AUTHOR: winfield leon paul
+    Preceded by "b": winfield june
+    Followed by "b": winfield linda f
+    From: b41242981  Cliffhanger [videorecording] / TriStar Pictures ; a
+    Carolco/Le Studio Canal+/Pioneer production in association with RCS Video ;
+    directed by Renny Harlin
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 11:09:27 AM
+    Catalog Date: Aug 11, 2010
+
+
+                                     Page 9
+ 
+
+43. Headings used for the first time
+    Field: b7001 |aWood, Sam
+    Indexed as AUTHOR: wood sam
+    Preceded by "a 4XX": wood salvador
+    Followed by "b": wood sam 1883 1949
+    From: b41243079  Goodbye, Mr. Chips [videorecording] / Metro-Goldwyn-Mayer
+    ; directed by Victor Saville
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 11:41:09 AM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+44. Headings used for the first time
+    Field: d651 0|aBrazil, Central West|vMaps, Tourist
+    Indexed as SUBJECT: brazil central west maps tourist
+    Preceded by "b": brazil central west maps
+    Followed by "b": brazil central west phytogeography maps
+    From: b41243304 Quatro Rodas (Firm) Centro-Oeste : escala de 1:2.700.000 :
+    fam{u00ED}lia rodovi{u00E1}rio, uso tur{u00ED}stico e profissional / Guia
+    Quatro Rodas ; Abril
+    Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 3:03:36 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+45. Headings used for the first time
+    Field: d651 0|aBrazil, Southeast|vMaps, Tourist
+    Indexed as SUBJECT: brazil southeast maps tourist
+    Preceded by "b": brazil southeast folk songs portuguese history and
+    criticism
+    Followed by "b": brazil southeast phytogeography maps
+    From: b41243353 Quatro Rodas (Firm) Sudeste : escala de 1:2.000.000 :
+    fam{u00ED}lia rodovi{u00E1}rio, uso tur{u00ED}stico e profissional / Guia
+    Quatro Rodas ; Abril
+    Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 3:25:54 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+46. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zAlaska|zSnowden Mountain Region
+    Indexed as SUBJECT: carbonate rocks alaska snowden mountain region
+    Preceded by "b": carbonate rocks
+    Followed by "b": carbonate rocks analysis
+    From: b22695333 Dumoulin, Julie A Depositional framework and regional
+    correlation of pre-Carboniferous metacarbonate rocks of the Snowden
+    Mountain area, central Brooks Range, northern Alaska / by J.A. Dumoulin and
+    Anita G. Harris
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:17 AM
+    Catalog Date: Jun 28, 1995
+
+ 
+
+47. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|xAnalysis
+    Indexed as SUBJECT: carbonate rocks analysis
+
+                                    Page 10
+    Preceded by "b": carbonate rocks alaska snowden mountain region
+    Followed by "b": carbonate rocks bahamas
+    From: b38660933  Formation and applications of the sedimentary record in
+    arc collision zones / edited by Amy E. Draut, Peter D. Clift, David W.
+    Scholl
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:16 AM
+    Catalog Date: May 21, 2008
+
+ 
+
+48. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zBahamas
+    Indexed as SUBJECT: carbonate rocks bahamas
+    Preceded by "b": carbonate rocks analysis
+    Followed by "b": carbonate rocks bibliography
+    From: b26523334 Westphal, Hildegard, 1968- Carbonate platform slopes : a
+    record of changing conditions : the Pliocene of the Bahamas / Hildegard
+    Westphal
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:17 AM
+    Catalog Date: Jan 12, 1999
+
+ 
+
+49. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|xBibliography
+    Indexed as SUBJECT: carbonate rocks bibliography
+    Preceded by "b": carbonate rocks bahamas
+    Followed by "b": carbonate rocks california san bernardino national forest
+    maps
+    From: b10621179 Tanner, J. Mark Hydrology of limestone terranes : annotated
+    bibliography of carbonate rocks, volume three / J. Mark Tanner, P. Shore
+    Davis
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:16 AM
+    Catalog Date: Apr 23, 1990
+
+ 
+
+50. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zCalifornia|zSan Bernardino National
+    Forest|xMaps
+    Indexed as SUBJECT: carbonate rocks california san bernardino national
+    forest maps
+    Preceded by "b": carbonate rocks bibliography
+    Followed by "b": carbonate rocks california san jacinto mountains maps
+    From: b24393733 Geological Survey (U.S.) Carbonate rocks, quarries, and
+    prospects in the San Bernardino National Forest, San Jacinto Mountains,
+    California [microform] / U.S. Department of the Interior, U.S. Geological
+    Survey ; by J.P. Calzia, J.C. Matti, and Michael Gantenbein
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Oct 10, 1997
+
+ 
+
+51. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zCalifornia|zSan Jacinto Mountains|xMaps
+    Indexed as SUBJECT: carbonate rocks california san jacinto mountains maps
+    Preceded by "b": carbonate rocks california san bernardino national forest
+    maps
+
+                                    Page 11
+    Followed by "b": carbonate rocks case studies
+    From: b24393733 Geological Survey (U.S.) Carbonate rocks, quarries, and
+    prospects in the San Bernardino National Forest, San Jacinto Mountains,
+    California [microform] / U.S. Department of the Interior, U.S. Geological
+    Survey ; by J.P. Calzia, J.C. Matti, and Michael Gantenbein
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Oct 10, 1997
+
+ 
+
+52. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|xCase studies
+    Indexed as SUBJECT: carbonate rocks case studies
+    Preceded by "b": carbonate rocks california san jacinto mountains maps
+    Followed by "b": carbonate rocks colorado
+    From: b10182718  Carbonate petroleum reservoirs / edited by Perry O. Roehl
+    and Philip W. Choquette
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:16 AM
+    Catalog Date: Apr 23, 1990
+
+ 
+
+53. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zColorado
+    Indexed as SUBJECT: carbonate rocks colorado
+    Preceded by "b": carbonate rocks case studies
+    Followed by "b": carbonate rocks congresses
+    From: b23724626 Pitman, Janet K Origin of primary and diagenetic carbonates
+    in the lacustrine Green River Formation (Eocene), Colorado and Utah / by
+    Janet K. Pitman
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Oct 23, 1996
+
+ 
+
+54. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|vCongresses
+    Indexed as SUBJECT: carbonate rocks congresses
+    Preceded by "b": carbonate rocks colorado
+    Followed by "b": carbonate rocks england
+    From: b37165732 International Congress on Rudists (7th : 2005 : Austin,
+    Tex.) Cretaceous rudists and carbonate platforms : environmental feedback /
+    edited by Robert W. Scott
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:15 AM
+    Catalog Date: Nov 30, 2007
+
+ 
+
+55. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zEngland
+    Indexed as SUBJECT: carbonate rocks england
+    Preceded by "b": carbonate rocks congresses
+    Followed by "b": carbonate rocks europe central
+    From: b22146775 Smith, Denys B. (Denys Barker) Marine Permian of England /
+    D.B. Smith
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Jan 25, 1995
+
+
+                                    Page 12
+ 
+
+56. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zEurope, Central
+    Indexed as SUBJECT: carbonate rocks europe central
+    Preceded by "b": carbonate rocks england
+    Followed by "b": carbonate rocks florida
+    From: b18291909  Recent developments in carbonate sedimentology in Central
+    Europe. Edited by German M{u00FC}ller [and] Gerald M. Friedman
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Nov 21, 1994
+
+ 
+
+57. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zFlorida
+    Indexed as SUBJECT: carbonate rocks florida
+    Preceded by "b": carbonate rocks europe central
+    Followed by "b": carbonate rocks former soviet republics
+    From: b17759249 Safko, Paul S A preliminary approach to the use of borehole
+    data, including television surveys, for characterizing secondary porosity
+    of carbonate rocks in the Floridan aquifer system / by Paul S. Safko, and
+    John J. Hickey
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Nov 20, 1994
+
+ 
+
+58. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zFormer Soviet republics
+    Indexed as SUBJECT: carbonate rocks former soviet republics
+    Preceded by "b": carbonate rocks florida
+    Followed by "b": carbonate rocks great basin
+    From: b30762674  Paleozoic carbonates of the Commonwealth of Independent
+    States (CIS) : subsurface reservoirs and outcrop analogs / edited by
+    William G. Zempolich and Harry E. Cook
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Feb 3, 2004
+
+ 
+
+59. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zGreat Basin
+    Indexed as SUBJECT: carbonate rocks great basin
+    Preceded by "b": carbonate rocks former soviet republics
+    Followed by "b": carbonate rocks guidebooks
+    From: b22289951 Prudic, David E Conceptual evaluation of regional
+    ground-water flow in the carbonate-rock province of the Great Basin,
+    Nevada, Utah, and adjacent states / [microform] / by David E. Prudic, James
+    R. Harrill, and Thomas J. Burbey ; a product of the Regional Aquifer-System
+    Analysis of the Great Basin
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Mar 12, 1995
+
+ 
+
+60. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|xGuidebooks
+
+                                    Page 13
+    Indexed as SUBJECT: carbonate rocks guidebooks
+    Preceded by "b": carbonate rocks great basin
+    Followed by "b": carbonate rocks idaho
+    From: b14502653 Toomey, Donald F Precambrian and Paleozoic algal
+    carbonates, West Texas-southern New Mexico : fieldguide to selected
+    localities of Late Proterozoic, Ordovician, Pennsylvanian, and Permian
+    Ages, including the Permian Reef Complex / Donald Francis Toomey and Jack
+    A. Babcock
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:17 AM
+    Catalog Date: Apr 23, 1990
+
+ 
+
+61. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zIdaho
+    Indexed as SUBJECT: carbonate rocks idaho
+    Preceded by "b": carbonate rocks guidebooks
+    Followed by "b": carbonate rocks identification
+    From: b26649123 Tysdal, Russell G Scapolitic metaevopite and carbonate
+    rocks of Proterozoic Yellowjacket Formation, Moyer Creek, Salmon River
+    Mountains, central Idaho [microform] / by R.G. Tysdal and G.A. Desborough
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Dec 21, 1999
+
+ 
+
+62. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|xIdentification
+    Indexed as SUBJECT: carbonate rocks identification
+    Preceded by "b": carbonate rocks idaho
+    Followed by "b": carbonate rocks kansas maps
+    From: b33672684 Scholle, Peter A A color guide to the petrography of
+    carbonate rocks : grains, textures, porosity, diagenesis / Peter A.
+    Scholle, Dana S. Ulmer-Scholle
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:17 AM
+    Catalog Date: Jul 22, 2005
+
+ 
+
+63. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zKansas|vMaps
+    Indexed as SUBJECT: carbonate rocks kansas maps
+    Preceded by "b": carbonate rocks identification
+    Followed by "b": carbonate rocks mexico baja california
+    From: b22512457 Geological Survey (U.S.) Structure-contour maps on the top
+    of the Mississippi carbonates and on the top of the upper Cambrian and
+    lower Ordovician Arbuckle group, Joplin 1{u00B0} X 2{u00B0} quadrangle,
+    Kansas and Missouri / U.S. Department of the Interior, U.S. Geological
+    Survey ; by Kevin P. Blair, Pieter Berendsen, and Cheryl M. Seeger ;
+    prepared in cooperation with the Kansas Geological Survey and the Missouri
+    Department of Natural Resources, Division of Geology and Land Survey
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Mar 31, 1995
+
+ 
+
+64. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zMexico|zBaja California
+
+                                    Page 14
+    Indexed as SUBJECT: carbonate rocks mexico baja california
+    Preceded by "b": carbonate rocks kansas maps
+    Followed by "b": carbonate rocks middle west
+    From: b24255889  Pliocene carbonates and related facies flanking the Gulf
+    of California, Baja California, Mexico / edited by Markes E. Johnson and
+    Jorge Ledesma-V{u00E1}zquez
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Jul 28, 1997
+
+ 
+
+65. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zMiddle West
+    Indexed as SUBJECT: carbonate rocks middle west
+    Preceded by "b": carbonate rocks mexico baja california
+    Followed by "b": carbonate rocks middle west maps
+    From: b23174572 Pratt, Walden P Regional potential of selected Paleozoic
+    carbonate units in the northern midcontinent for undiscovered Mississippi
+    Valley-type deposits / by Walden P. Pratt ; prepared in cooperation with
+    the geological surveys of Arkansas ... [et al.]
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:19 AM
+    Catalog Date: Dec 19, 1995
+
+ 
+
+66. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zMiddle West|xMaps
+    Indexed as SUBJECT: carbonate rocks middle west maps
+    Preceded by "b": carbonate rocks middle west
+    Followed by "b": carbonate rocks minnesota
+    From: b23721066 Geological Survey (U.S.) Maps showing thickness and
+    limestone-dolostone ratios of selected Paleozoic carbonate units in the
+    northern midcontinent, U.S.A. / U.S. Department of the Interior, U.S.
+    Geological Survey ; compiled by Walden P. Pratt and Criag J. Wandrey ;
+    prepared in cooperation with the geological surveys of Arkansas ... [et al.]
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:19 AM
+    Catalog Date: Nov 27, 1996
+
+ 
+
+67. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zMinnesota
+    Indexed as SUBJECT: carbonate rocks minnesota
+    Preceded by "b": carbonate rocks middle west maps
+    Followed by "b": carbonate rocks missouri joplin region maps
+    From: b21383315  Flow of ground water through fractured carbonate rocks in
+    the Prairie du Chien-Jordan Aquifer, southeastern Minnesota
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:19 AM
+    Catalog Date: Nov 12, 1994
+
+ 
+
+68. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zMissouri|zJoplin Region|vMaps
+    Indexed as SUBJECT: carbonate rocks missouri joplin region maps
+    Preceded by "b": carbonate rocks minnesota
+    Followed by "b": carbonate rocks models
+    From: b22512457 Geological Survey (U.S.) Structure-contour maps on the top
+
+                                    Page 15
+    of the Mississippi carbonates and on the top of the upper Cambrian and
+    lower Ordovician Arbuckle group, Joplin 1{u00B0} X 2{u00B0} quadrangle,
+    Kansas and Missouri / U.S. Department of the Interior, U.S. Geological
+    Survey ; by Kevin P. Blair, Pieter Berendsen, and Cheryl M. Seeger ;
+    prepared in cooperation with the Kansas Geological Survey and the Missouri
+    Department of Natural Resources, Division of Geology and Land Survey
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Mar 31, 1995
+
+ 
+
+69. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|xModels
+    Indexed as SUBJECT: carbonate rocks models
+    Preceded by "b": carbonate rocks missouri joplin region maps
+    Followed by "b": carbonate rocks nevada
+    From: b11570477 Asquith, George B Subsurface carbonate depositional models
+    : a concise review / by George B. Asquith
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:17 AM
+    Catalog Date: Apr 23, 1990
+
+ 
+
+70. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zNevada
+    Indexed as SUBJECT: carbonate rocks nevada
+    Preceded by "b": carbonate rocks models
+    Followed by "b": carbonate rocks nevada elko county
+    From: b18009591 Berger, David L. (David Lemuel), 1958- Lithologic
+    properties of carbonate-rock aquifers at five test wells in the Coyote
+    Spring Valley area, southern Nevada, as determined from geophysical logs /
+    by David L. Berger ; prepared in cooperation with the State of Nevada, the
+    Las Vegas Valley Water District, and the U.S. Bureau of Reclamation
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:19 AM
+    Catalog Date: Nov 20, 1994
+
+ 
+
+71. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zNevada|zElko County
+    Indexed as SUBJECT: carbonate rocks nevada elko county
+    Preceded by "b": carbonate rocks nevada
+    Followed by "b": carbonate rocks nevada pyramid lake
+    From: b18768210 Sheehan, Peter M Isolated carbonate bodies composed of
+    stacked debris-flow deposits on a fine-grained carbonate lower slope of
+    Devonian age, Antelope Peak, Elko County, Nevada / by Peter M. Sheehan,
+    John M. Pandolfi, and Keith B. Kenter
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:19 AM
+    Catalog Date: Nov 21, 1994
+
+ 
+
+72. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zNevada|zPyramid Lake
+    Indexed as SUBJECT: carbonate rocks nevada pyramid lake
+    Preceded by "b": carbonate rocks nevada elko county
+    Followed by "b": carbonate rocks north america
+    From: b31247271 Benson, Larry V The tufas of Pyramid Lake, Nevada / by
+
+                                    Page 16
+    Larry Benson ; prepared in cooperation with the Pyramid Lake Paiute Tribe
+    and the Pyramid Lake Museum Visitor Center
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:19 AM
+    Catalog Date: Aug 3, 2004
+
+ 
+
+73. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zNorth America
+    Indexed as SUBJECT: carbonate rocks north america
+    Preceded by "b": carbonate rocks nevada pyramid lake
+    Followed by "b": carbonate rocks pennsylvania
+    From: b18291831 Carozzi, Albert V Paleozoic carbonate microfacies of the
+    eastern stable interior (U.S.A.) by Albert V. Carozzi and Daniel A. Textoris
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:19 AM
+    Catalog Date: Nov 21, 1994
+
+ 
+
+74. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zPennsylvania
+    Indexed as SUBJECT: carbonate rocks pennsylvania
+    Preceded by "b": carbonate rocks north america
+    Followed by "b": carbonate rocks pennsylvania conestoga river watershed
+    From: b14363094 Parizek, Richard R Hydrogeology and geochemistry of folded
+    and faulted carbonate rocks of the central Appalachian type and related
+    land use problems, by Richard R. Parizek, William B. White, Donald Langmuir
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:19 AM
+    Catalog Date: Apr 23, 1990
+
+ 
+
+75. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zPennsylvania|zConestoga River Watershed
+    Indexed as SUBJECT: carbonate rocks pennsylvania conestoga river watershed
+    Preceded by "b": carbonate rocks pennsylvania
+    Followed by "b": carbonate rocks periodicals
+    From: b24443888 Lietman, Patricia L Evaluation of agricultural
+    best-management practices in the Conestoga River Headwaters, Pennsylvania :
+    a summary report, 1982-90 / by Patricia L. Lietman ; prepared in
+    cooperation with the Pennsylvania Department of Environmental Protection
+    and the U.S. Department of Agriculture, Consolidated Farm Service Agency
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:19 AM
+    Catalog Date: Dec 18, 1997
+
+ 
+
+76. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|vPeriodicals
+    Indexed as SUBJECT: carbonate rocks periodicals
+    Preceded by "b": carbonate rocks pennsylvania conestoga river watershed
+    Followed by "b": carbonate rocks pictorial works
+    From: b10604777  Carbonates and evaporites
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:15 AM
+    Catalog Date: Apr 23, 1990
+
+ 
+
+
+                                    Page 17
+77. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|vPictorial works
+    Indexed as SUBJECT: carbonate rocks pictorial works
+    Preceded by "b": carbonate rocks periodicals
+    Followed by "b": carbonate rocks powder river basin wyo and mont
+    From: b12205540 Scholle, Peter A A color illustrated guide to carbonate
+    rock constituents, textures, cements, and porosities / Peter A. Scholle
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:15 AM
+    Catalog Date: Apr 23, 1990
+
+ 
+
+78. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zPowder River Basin (Wyo. and Mont.)
+    Indexed as SUBJECT: carbonate rocks powder river basin wyo and mont
+    Preceded by "b": carbonate rocks pictorial works
+    Followed by "b": carbonate rocks southwest new
+    From: b19160252 Macke, David L Cambrian through Mississippian rocks of the
+    Powder River Basin, Wyoming, Montana, and adjacent areas / by David L. Macke
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:20 AM
+    Catalog Date: Nov 23, 1994
+
+ 
+
+79. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zSouthwest, New
+    Indexed as SUBJECT: carbonate rocks southwest new
+    Preceded by "b": carbonate rocks powder river basin wyo and mont
+    Followed by "b": carbonate rocks utah
+    From: b23303542  Distribution of carbonate-rock aquifers and the potential
+    for their development, southern Nevada and and adjacent parts of
+    California, Arizona, and Utah / by Michael D. Dettinger ... [et al.] ;
+    prepared in cooperation with the State of Nevada; the Las Vegas Valley
+    Water District, and the city of north Las Vegas
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:20 AM
+    Catalog Date: Mar 1, 1996
+
+ 
+
+80. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zUtah
+    Indexed as SUBJECT: carbonate rocks utah
+    Preceded by "b": carbonate rocks southwest new
+    Followed by "b": carbonate rocks utah tooele county maps
+    From: b23724626 Pitman, Janet K Origin of primary and diagenetic carbonates
+    in the lacustrine Green River Formation (Eocene), Colorado and Utah / by
+    Janet K. Pitman
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:18 AM
+    Catalog Date: Oct 23, 1996
+
+ 
+
+81. Headings used for the first time
+    Field: d650 0|aCarbonate rocks|zUtah|zTooele County|vMaps
+    Indexed as SUBJECT: carbonate rocks utah tooele county maps
+    Preceded by "b": carbonate rocks utah
+    Followed by "a": carbonated beverage bottles
+    From: b22511519 Geological Survey (U.S.) Map showing wallrock alteration
+
+                                    Page 18
+    and geology of the Dugway Mining District, northern Dugway Range, Tooele
+    County, Utah / Department of the Interior, U.S. Geological Survey ; by D.L.
+    Kelley and R.A. Yambrick
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:48:20 AM
+    Catalog Date: Mar 31, 1995
+
+ 
+
+82. Headings used for the first time
+    Field: d650 0|aCaulking|xEquipment and supplies|xDesign and construction
+    Indexed as SUBJECT: caulking equipment and supplies design and construction
+    Preceded by "b": caulking
+    Followed by "b": caulking equipment and supplies patents
+    From: b21451175 United States International Trade Commission In the matter
+    of certain caulking guns : investigations no. 337-TA-139
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 9:50:56 AM
+    Catalog Date: Nov 13, 1994
+
+ 
+
+83. Headings used for the first time
+    Field: d650 0|aCaulking|xEquipment and supplies|xPatents
+    Indexed as SUBJECT: caulking equipment and supplies patents
+    Preceded by "b": caulking equipment and supplies design and construction
+    Followed by "b": caulking research pennsylvania philadelphia
+    From: b21451175 United States International Trade Commission In the matter
+    of certain caulking guns : investigations no. 337-TA-139
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 9:50:56 AM
+    Catalog Date: Nov 13, 1994
+
+ 
+
+84. Headings used for the first time
+    Field: d650 0|aCaulking|xResearch|zPennsylvania|zPhiladelphia
+    Indexed as SUBJECT: caulking research pennsylvania philadelphia
+    Preceded by "b": caulking equipment and supplies patents
+    Followed by "b": caulobacter crescentus
+    From: b22261540 Edwards, Harry W. (Harry Wallace), 1939- Waste minimization
+    assessment for manufacturer of caulk / Harry W. Edwards, Michael F.
+    Kostrzewa, and Gwen P. Looby
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 9:50:56 AM
+    Catalog Date: Mar 8, 1995
+
+ 
+
+85. Headings used for the first time
+    Field: d650 0|aCrystalline rocks|xAnalysis
+    Indexed as SUBJECT: crystalline rocks analysis
+    Preceded by "b": crystalline rocks
+    Followed by "b": crystalline rocks california central valley valley
+    computer programs
+    From: b34438373  Petrophysical properties of crystalline rocks / edited by
+    P.K. Harvey ... [et al.]
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:01:45 AM
+    Catalog Date: May 4, 2006
+
+ 
+
+
+                                    Page 19
+86. Headings used for the first time
+    Field: d650 0|aCrystalline rocks|zCalifornia|zCentral Valley
+    (Valley)|xComputer programs
+    Indexed as SUBJECT: crystalline rocks california central valley valley
+    computer programs
+    Preceded by "b": crystalline rocks analysis
+    Followed by "b": crystalline rocks colorado strawberry lake region grand
+    county
+    From: b26221950  The surface of crystalline basement, Great Valley and
+    Sierra Nevada, California [microform] : a digital map database / by Carl M.
+    Wentworth ... [et al.]
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:01:46 AM
+    Catalog Date: Jun 19, 1998
+
+ 
+
+87. Headings used for the first time
+    Field: d650 0|aCrystalline rocks|zColorado|zStrawberry Lake Region (Grand
+    County)
+    Indexed as SUBJECT: crystalline rocks colorado strawberry lake region grand
+    county
+    Preceded by "b": crystalline rocks california central valley valley
+    computer programs
+    Followed by "b": crystalline rocks congresses
+    From: b22885717 Young, Edward J. (Edward Joseph), 1923- Crystalline rocks
+    of the Strawberry Lake area, Front Range, Colorado [microform] / by Edward
+    J. Young
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:01:46 AM
+    Catalog Date: Aug 30, 1995
+
+ 
+
+88. Headings used for the first time
+    Field: d650 0|aCrystalline rocks|vCongresses
+    Indexed as SUBJECT: crystalline rocks congresses
+    Preceded by "b": crystalline rocks colorado strawberry lake region grand
+    county
+    Followed by "b": crystalline rocks maine meddybemps region
+    From: b27606041  Hydrogeology of crystalline rocks / edited by Ingrid
+    Stober and Kurt Bucher
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:01:45 AM
+    Catalog Date: Apr 6, 2000
+
+ 
+
+89. Headings used for the first time
+    Field: d650 0|aCrystalline rocks|zMaine|zMeddybemps Region
+    Indexed as SUBJECT: crystalline rocks maine meddybemps region
+    Preceded by "b": crystalline rocks congresses
+    Followed by "b": crystalline rocks massachusetts
+    From: b27122396 Hansen, Bruce P Characteristics of fractures in crystalline
+    bedrock determined by surface and borehole geophysical surveys, Eastern
+    Surplus Superfund Site, Meddybemps, Maine / by Bruce P. Hansen, Janet
+    Radway Stone, and John W. Lane, Jr. ; prepared in cooperation with the U.S.
+    Environmental Protection Agency, Region 1
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:01:46 AM
+    Catalog Date: Oct 11, 1999
+
+
+                                    Page 20
+ 
+
+90. Headings used for the first time
+    Field: d650 0|aCrystalline rocks|zMassachusetts
+    Indexed as SUBJECT: crystalline rocks massachusetts
+    Preceded by "b": crystalline rocks maine meddybemps region
+    Followed by "b": crystalline rocks new jersey atlantic coast
+    From: b23261882 Hansen, Bruce P Use of surface and borehole geophysical
+    surveys to determine fracture orientation and other site characteristics in
+    crystalline bedrock terrain, Millville and Uxbridge, Massachusetts / by
+    Bruce P. Hansen and John W. Lane ; prepared in cooperation with
+    Massachusetts Department of Environmental Protection, Bureau of Waste Site
+    Cleanup
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:01:46 AM
+    Catalog Date: Feb 12, 1996
+
+ 
+
+91. Headings used for the first time
+    Field: d650 0|aCrystalline rocks|zNew Jersey|zAtlantic Coast
+    Indexed as SUBJECT: crystalline rocks new jersey atlantic coast
+    Preceded by "b": crystalline rocks massachusetts
+    Followed by "b": crystalline rocks testing
+    From: b23876189 Volkert, Richard A Geology, geochemistry, and
+    tectonostratigraphic relations of the crystalline basement beneath the
+    coastal plain of New Jersey and contiguous areas / by Richard A. Volkert,
+    Avery Ala Drake, Jr., and Peter J. Sugarman ; prepared in cooperation with
+    the New Jersey Geological Survey
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:01:46 AM
+    Catalog Date: Feb 19, 1997
+
+ 
+
+92. Headings used for the first time
+    Field: d650 0|aCrystalline rocks|xTesting
+    Indexed as SUBJECT: crystalline rocks testing
+    Preceded by "b": crystalline rocks new jersey atlantic coast
+    Followed by "b": crystalline rocks testing congresses
+    From: b2101453x Waters, Kenneth Harold, 1913- Fracture detection in
+    crystalline rock using ultrasonic shear waves / K. H. Waters and S. P.
+    Palmer, Department of Materials Science and Mineral Engineering, University
+    of California, Berkeley, and W. E. Farrell, Systems, Science, and Software
+    ; prepared by the Lawrence Berkeley Laboratory
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:01:46 AM
+    Catalog Date: Nov 10, 1994
+
+ 
+
+93. Headings used for the first time
+    Field: d650 0|aCrystalline rocks|xTesting|xCongresses
+    Indexed as SUBJECT: crystalline rocks testing congresses
+    Preceded by "b": crystalline rocks testing
+    Followed by "a 4XX": crystalline semiconductors
+    From: b2101470x Geotechnical Assessment and Instrumentation Needs (GAIN)
+    Symposium for Nuclear Waste Isolation in Crystalline and Argillaceous
+    Rocks, Berkeley, Calif., 1978 Geotechnical assessment and instrumentation
+    needs for nuclear waste isolation in crystalline and argillaceous rocks :
+    symposium proceedings, July 16-20, 1978 ; prepared for Battelle Memorial
+
+                                    Page 21
+    Institute, Office of Nuclear Waste Isolation and U.S. Department of Energy
+    Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:01:46 AM
+    Catalog Date: Nov 10, 1994
+
+ 
+
+94. Headings used for the first time
+    Field: d651 0|aCuritiba (Brazil)|vMaps
+    Indexed as SUBJECT: curitiba brazil maps
+    Preceded by "b": curitiba brazil environmental conditions
+    Followed by "b": curitiba brazil politics and government
+    From: b41243444 Quatro Rodas (Firm) Sul : mapa rodovi{u00E1}rio / Guia
+    Quatro Rodas ; Abril
+    Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 4:07:45 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+95. Headings used for the first time
+    Field: d60010|aDe Chirico, Giorgio,|d1888-1978|xAesthetics
+    Indexed as SUBJECT: de chirico giorgio 1888 1978 aesthetics
+    Preceded by "b": de chirico giorgio 1888 1978
+    Followed by "b": de chirico giorgio 1888 1978 catalogs
+    From: b2618669x Baldacci, Paolo De Chirico : the metaphysical period,
+    1888-1919 / Paolo Baldacci ; [translation, Jeffrey Jennings]
+    Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 9:26:29 AM
+    Catalog Date: Aug 19, 1998
+
+ 
+
+96. Headings used for the first time
+    Field: d60010|aDe Chirico, Giorgio,|d1888-1978|xCatalogs
+    Indexed as SUBJECT: de chirico giorgio 1888 1978 catalogs
+    Preceded by "b": de chirico giorgio 1888 1978 aesthetics
+    Followed by "b": de chirico giorgio 1888 1978 criticism and interpretation
+    From: b2618669x Baldacci, Paolo De Chirico : the metaphysical period,
+    1888-1919 / Paolo Baldacci ; [translation, Jeffrey Jennings]
+    Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 9:26:29 AM
+    Catalog Date: Aug 19, 1998
+
+ 
+
+97. Headings used for the first time
+    Field: d60010|aDe Chirico, Giorgio,|d1888-1978|xCriticism and interpretation
+    Indexed as SUBJECT: de chirico giorgio 1888 1978 criticism and
+    interpretation
+    Preceded by "b": de chirico giorgio 1888 1978 catalogs
+    Followed by "b": de chirico giorgio 1888 1978 exhibitions
+    From: b2618669x Baldacci, Paolo De Chirico : the metaphysical period,
+    1888-1919 / Paolo Baldacci ; [translation, Jeffrey Jennings]
+    Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 9:26:29 AM
+    Catalog Date: Aug 19, 1998
+
+ 
+
+98. Headings used for the first time
+    Field: d650 0|aEarly childhood teachers|xCertification
+    Indexed as SUBJECT: early childhood teachers certification
+
+                                    Page 22
+    Preceded by "b": early childhood teachers attitudes
+    Followed by "b": early childhood teachers certification standards united
+    states
+    From: b41243201  Study guide for the Praxis Education of Young Children
+    tests
+    Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 2:09:27 PM
+    Catalog Date: Aug 11, 2010
+
+ 
+
+99. Headings used for the first time
+    Field: d650 0|aEconomic development|xSocieties, etc.|vDirectories
+    Indexed as SUBJECT: economic development societies etc directories
+    Preceded by "a 5XX": economic development societies etc
+    Followed by "b": economic development societies etc periodicals
+    From: b24461477 Schraepler, Hans-Albrecht Organisations internationales et
+    europ{u00E9}ennes. English
+    Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 8:44:41 AM
+    Catalog Date: Nov 25, 1997
+
+ 
+
+100. Headings used for the first time
+     Field: d650 0|aEthnology|zSweden
+     Indexed as SUBJECT: ethnology sweden
+     Preceded by "a 5XX": ethnology swaziland
+     Followed by "a 5XX": ethnology switzerland
+     From: b41243390 Nordstrom, Byron J Culture and customs of Sweden / Byron
+     J. Nordstrom
+     Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 3:48:45 PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+101. Headings used for the first time
+     Field: d650 0|aExpress highways|zUnited States|xFinance|xHistory
+     Indexed as SUBJECT: express highways united states finance history
+     Preceded by "b": express highways united states finance congresses
+     Followed by "b": express highways united states historiography
+     From: b41243298 Karnes, Thomas L Asphalt and politics : a history of the
+     American highway system / Thomas L. Karnes
+     Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 3:01:11 PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+102. Headings used for the first time
+     Field: d651 0|aFlorian{u00F3}polis (Santa Catarina, Brazil)|vMaps
+     Indexed as SUBJECT: florianopolis santa catarina brazil maps
+     Preceded by "a 4XX": florez wenceslao fernandez
+     Followed by "a": floriculture
+     From: b41243444 Quatro Rodas (Firm) Sul : mapa rodovi{u00E1}rio / Guia
+     Quatro Rodas ; Abril
+     Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 4:07:45
+     PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+                                    Page 23
+
+103. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zAlaska
+     Indexed as SUBJECT: igneous rocks alaska
+     Preceded by "b": igneous rocks
+     Followed by "b": igneous rocks alaska alaska peninsula region maps
+     From: b2446742x Lunt, Amy Susanne A reconnaissance study of mafic to
+     intermediate intra-arc volcanism in the western Wrangell Volcanic Field,
+     Alaska / by Amy Susanne Lunt
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Nov 19, 1997
+
+ 
+
+104. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zAlaska|zAlaska Peninsula Region|vMaps
+     Indexed as SUBJECT: igneous rocks alaska alaska peninsula region maps
+     Preceded by "b": igneous rocks alaska
+     Followed by "b": igneous rocks alaska nelchina river region
+     From: b22511301 Geological Survey (U.S.) Map showing potassium-argon ages
+     from the Mount Katmai and adjacent parts of the Naknek and Afognak
+     quadrangles, Alaska Peninsula, Alaska / U.S. Department of the Interior,
+     U.S. Geological Survey ; by Nora Shew and M.A. Lanphere
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+105. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zAlaska|zNelchina River Region
+     Indexed as SUBJECT: igneous rocks alaska nelchina river region
+     Preceded by "b": igneous rocks alaska alaska peninsula region maps
+     Followed by "b": igneous rocks alaska talkeetna mountains
+     From: b2347578x Burns, L. E Geology of part of the Nelchina River
+     gabbronorite and associated rocks, south-central Alaska / by Laurel E.
+     Burns ; prepared in cooperation with the Alaska Division of Geological and
+     Geophysical Surveys
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Jun 10, 1996
+
+ 
+
+106. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zAlaska|zTalkeetna Mountains
+     Indexed as SUBJECT: igneous rocks alaska talkeetna mountains
+     Preceded by "b": igneous rocks alaska nelchina river region
+     Followed by "b": igneous rocks alaska taylor mountains
+     From: b36714380 Draut, Amy E Field-trip guide to volcanic and
+     volcaniclastic deposits of the Lower Jurassic Talkeetna Formation, Sheep
+     Mountain, south-central Alaska [electronic resource] / Amy E. Draut, Peter
+     D. Clift, Robert B. Blodgett
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Oct 12, 2007
+
+
+                                    Page 24
+ 
+
+107. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zAlaska|zTaylor Mountains
+     Indexed as SUBJECT: igneous rocks alaska taylor mountains
+     Preceded by "b": igneous rocks alaska talkeetna mountains
+     Followed by "b": igneous rocks alaska taylor mountains composition
+     databases
+     From: b38200752 Klimasauskas, Ed Major- and trace-element concentrations
+     in rock samples collected in 2006 from the Taylor Mountains
+     1:250,000-scale quadrangle, Alaska, [electronic resource] / by Edward P.
+     Klimasauskas, Marti L. Miller, and Dwight C. Bradley
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Feb 6, 2008
+
+ 
+
+108. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zAlaska|zTaylor
+     Mountains|xComposition|vDatabases
+     Indexed as SUBJECT: igneous rocks alaska taylor mountains composition
+     databases
+     Preceded by "b": igneous rocks alaska taylor mountains
+     Followed by "a 4XX": igneous rocks alkaline
+     From: b38200752 Klimasauskas, Ed Major- and trace-element concentrations
+     in rock samples collected in 2006 from the Taylor Mountains
+     1:250,000-scale quadrangle, Alaska, [electronic resource] / by Edward P.
+     Klimasauskas, Marti L. Miller, and Dwight C. Bradley
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Feb 6, 2008
+
+ 
+
+109. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xAnalysis
+     Indexed as SUBJECT: igneous rocks analysis
+     Preceded by "a 4XX": igneous rocks alkaline
+     Followed by "b": igneous rocks appalachian region
+     From: b14930286 Ragland, Paul C., 1936- Basic analytical petrology / Paul
+     C. Ragland
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:22
+     AM
+     Catalog Date: Nov 18, 1994
+
+ 
+
+110. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zAppalachian Region
+     Indexed as SUBJECT: igneous rocks appalachian region
+     Preceded by "b": igneous rocks analysis
+     Followed by "b": igneous rocks arizona apache county maps
+     From: b24274835  The Nature of magmatism in the Appalachian orogen /
+     edited by A. Krishna Sinha, Joseph B. Whalen, and John P. Hogan
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Aug 1, 1997
+
+                                    Page 25
+
+ 
+
+111. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zArizona|zApache County|vMaps
+     Indexed as SUBJECT: igneous rocks arizona apache county maps
+     Preceded by "b": igneous rocks appalachian region
+     Followed by "b": igneous rocks arizona maps
+     From: b27322452 Geological Survey (U.S.) Lithologic, age group,
+     magnetopolarity, and geochemical maps of the Springerville volcanic field,
+     east-central Arizona / U.S. Department of the Interior, U.S. Geological
+     Survey ; by Christopher D. Condit, Larry S. Crumpler, and Jayne C. Aubele
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Jan 17, 2000
+
+ 
+
+112. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zArizona|vMaps
+     Indexed as SUBJECT: igneous rocks arizona maps
+     Preceded by "b": igneous rocks arizona apache county maps
+     Followed by "b": igneous rocks arizona navajo county maps
+     From: b22523479 Geological Survey (U.S.) Petrochemistry of igneous rocks,
+     Silver City 1{u00B0}?x 2{u00B0}?quadrangle, New Mexico and Arizona /
+     Department of the Interior, U.S. Geological Survey ; by William N. Sharp
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+113. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zArizona|zNavajo County|vMaps
+     Indexed as SUBJECT: igneous rocks arizona navajo county maps
+     Preceded by "b": igneous rocks arizona maps
+     Followed by "b": igneous rocks arkansas benton
+     From: b27322452 Geological Survey (U.S.) Lithologic, age group,
+     magnetopolarity, and geochemical maps of the Springerville volcanic field,
+     east-central Arizona / U.S. Department of the Interior, U.S. Geological
+     Survey ; by Christopher D. Condit, Larry S. Crumpler, and Jayne C. Aubele
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Jan 17, 2000
+
+ 
+
+114. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zArkansas|zBenton
+     Indexed as SUBJECT: igneous rocks arkansas benton
+     Preceded by "b": igneous rocks arizona navajo county maps
+     Followed by "b": igneous rocks atlases
+     From: b23288450 Flohr, Marta J. K Geochemical data of drill core samples
+     of carbonatites and associated igneous rocks, Benton, Arkansas [microform]
+     / by Marta J.K. Flohr and J. Michael Howard
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Feb 16, 1996
+
+                                    Page 26
+
+ 
+
+115. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xAtlases
+     Indexed as SUBJECT: igneous rocks atlases
+     Preceded by "b": igneous rocks arkansas benton
+     Followed by "b": igneous rocks bolivia maps
+     From: b10906605 MacKenzie, W. S Atlas of igneous rocks and their textures
+     / W.S. MacKenzie, C.H. Donaldson, and C. Guilford
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:22
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+116. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zBolivia|vMaps
+     Indexed as SUBJECT: igneous rocks bolivia maps
+     Preceded by "b": igneous rocks atlases
+     Followed by "b": igneous rocks california
+     From: b22527564 Geological Survey (U.S.) Reconnaissance geologic map of
+     the Morococala volcanic field, Bolivia / Department of the Interior, U.S.
+     Geological Survey ; by Robert G. Luedke ... [et al.] ; prepared in
+     cooperation with Servicio Geol{u00F3}gico de Bolivia
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Apr 1, 1995
+
+ 
+
+117. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zCalifornia
+     Indexed as SUBJECT: igneous rocks california
+     Preceded by "b": igneous rocks bolivia maps
+     Followed by "b": igneous rocks california bibliography
+     From: b29230937 McCulloh, Thane Hubert, 1926- Mountain Meadows dacite :
+     Oligocene intrusive complex that welds together the Los Angeles Basin,
+     northwestern Peninsular Ranges, and central Transverse Ranges, California
+     / by Thane H. McCulloh, Larry A. Beyer, and Ronald W. Morin
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Feb 22, 2002
+
+ 
+
+118. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zCalifornia|xBibliography
+     Indexed as SUBJECT: igneous rocks california bibliography
+     Preceded by "b": igneous rocks california
+     Followed by "b": igneous rocks california databases
+     From: b22280315 Beardslee, Vern Bibliography for Triassic and Jurassic
+     magmatic arc, western Nevada and eastern California [microform] / by Vern
+     Beardslee and Howard McCarthy
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Mar 12, 1995
+
+
+                                    Page 27
+ 
+
+119. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zCalifornia|vDatabases
+     Indexed as SUBJECT: igneous rocks california databases
+     Preceded by "b": igneous rocks california bibliography
+     Followed by "b": igneous rocks california del norte county
+     From: b40236742  Geochemical database for igneous rocks of the ancestral
+     Cascades arc--southern segment, California and Nevada [electronic
+     resource] / by Edward A. du Bray ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Jun 11, 2009
+
+ 
+
+120. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zCalifornia|zDel Norte County
+     Indexed as SUBJECT: igneous rocks california del norte county
+     Preceded by "b": igneous rocks california databases
+     Followed by "b": igneous rocks california los angeles region
+     From: b1874932x Page, Norman J Petrology, mineralogy, and geochemistry of
+     the Lower Coon Mountain pluton, northern California, with respect of the
+     distribution of platinum-group elements / by Norman J Page, Floyd Gray,
+     and Andrew Griscom
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Nov 21, 1994
+
+ 
+
+121. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zCalifornia|zLos Angeles Region
+     Indexed as SUBJECT: igneous rocks california los angeles region
+     Preceded by "b": igneous rocks california del norte county
+     Followed by "b": igneous rocks california santa maria basin
+     From: b29813943  Age and tectonic significance of volcanic rocks in the
+     northern Los Angeles Basin, California / by Thane H. McCulloh ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Mar 3, 2003
+
+ 
+
+122. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zCalifornia|zSanta Maria Basin
+     Indexed as SUBJECT: igneous rocks california santa maria basin
+     Preceded by "b": igneous rocks california los angeles region
+     Followed by "b": igneous rocks california southern
+     From: b26184357 Cole, Ronald B Volcanic rocks of the Santa Maria Province,
+     California / by Ronald B. Cole and Richard G. Stanley. Age and tectonic
+     inferences from a condensed(?) succession of Upper Cretaceous, Paleocene,
+     and Eocene strata, Big Pine Mountain area, Santa Barbara County,
+     California / by John G. Vedder ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Jun 10, 1998
+
+
+                                    Page 28
+ 
+
+123. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zCalifornia, Southern
+     Indexed as SUBJECT: igneous rocks california southern
+     Preceded by "b": igneous rocks california santa maria basin
+     Followed by "b": igneous rocks cascade range databases
+     From: b23365250 Bohrson, Wendy A {u2074}{u00B0}Ar/{u00B3}{u2079}Ar ages of
+     volcanic rocks from offshore southern and peninsular California and the
+     southern California Borderland [microform] / by Wendy A. Bohrson and
+     Alic{u00E9} S. Davis
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Jun 11, 1996
+
+ 
+
+124. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zCascade Range|vDatabases
+     Indexed as SUBJECT: igneous rocks cascade range databases
+     Preceded by "b": igneous rocks california southern
+     Followed by "b": igneous rocks classification
+     From: b34499283 Du Bray, E. A Geochemical database for volcanic rocks of
+     the Western Cascades, Washington, Oregon, and California [electronic
+     resource] / by Edward A. du Bray ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Sep 8, 2006
+
+ 
+
+125. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xClassification
+     Indexed as SUBJECT: igneous rocks classification
+     Preceded by "b": igneous rocks cascade range databases
+     Followed by "b": igneous rocks colorado
+     From: b17861937 Shelley, David Igneous and metamorphic rocks under the
+     microscope : classfication, textures, microstructures, and mineral
+     preferred-orientations / David Shelley
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:22
+     AM
+     Catalog Date: Nov 20, 1994
+
+ 
+
+126. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zColorado
+     Indexed as SUBJECT: igneous rocks colorado
+     Preceded by "b": igneous rocks classification
+     Followed by "b": igneous rocks colorado san juan county
+     From: b22168515  Ages of selected intrusive rocks and associated ore
+     deposits in the Colorado Mineral Belt / by Charles G. Cunningham ... [et
+     al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Jan 19, 1995
+
+ 
+
+                                    Page 29
+
+127. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zColorado|zSan Juan County
+     Indexed as SUBJECT: igneous rocks colorado san juan county
+     Preceded by "b": igneous rocks colorado
+     Followed by "b": igneous rocks colorado strawberry lake region grand county
+     From: b29257724 Desborough, George A Acid-neutralizing potential of
+     igneous bedrocks in the Animas River headwaters, San Juan County, Colorado
+     [microform] / by George A. Desborough and Douglas B. Yager
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Apr 11, 2002
+
+ 
+
+128. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zColorado|zStrawberry Lake Region (Grand
+     County)
+     Indexed as SUBJECT: igneous rocks colorado strawberry lake region grand
+     county
+     Preceded by "b": igneous rocks colorado san juan county
+     Followed by "b": igneous rocks congresses
+     From: b22885717 Young, Edward J. (Edward Joseph), 1923- Crystalline rocks
+     of the Strawberry Lake area, Front Range, Colorado [microform] / by Edward
+     J. Young
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Aug 30, 1995
+
+ 
+
+129. Headings used for the first time
+     Field: d650 0|aIgneous rocks|vCongresses
+     Indexed as SUBJECT: igneous rocks congresses
+     Preceded by "b": igneous rocks colorado strawberry lake region grand county
+     Followed by "b": igneous rocks dictionaries
+     From: b39987796  Dynamics of crustal magma transfer, storage and
+     differentiation / edited by Catherine Annen and George F. Zellmer
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:22
+     AM
+     Catalog Date: Apr 3, 2009
+
+ 
+
+130. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xDictionaries
+     Indexed as SUBJECT: igneous rocks dictionaries
+     Preceded by "b": igneous rocks congresses
+     Followed by "b": igneous rocks early works to 1800
+     From: b15731200  The Encyclopedia of igneous and metamorphic petrology /
+     edited by Donald R. Bowes
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:22
+     AM
+     Catalog Date: Nov 18, 1994
+
+ 
+
+131. Headings used for the first time
+
+                                    Page 30
+     Field: d650 0|aIgneous rocks|xEarly works to 1800
+     Indexed as SUBJECT: igneous rocks early works to 1800
+     Preceded by "b": igneous rocks dictionaries
+     Followed by "b": igneous rocks east u s maps
+     From: b26035145 Humboldt, Alexander von, 1769-1859 Mineralogische
+     Beobachtungen {u00FC}ber einige Basalte am Rhein [microform] : mit
+     vorangeschickten, zerstreuten Bemerkungen {u00FC}ber den Basalt der
+     {u00E4}ltern und neuern Schriftsteller
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:22
+     AM
+     Catalog Date: Apr 1, 1998
+
+ 
+
+132. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zEast (U.S.)|vMaps
+     Indexed as SUBJECT: igneous rocks east u s maps
+     Preceded by "b": igneous rocks early works to 1800
+     Followed by "b": igneous rocks eritrea
+     From: b22512780 Geological Survey (U.S.) Map showing the relationship of
+     selected mafic and ultramafic bodies in the crust of the eastern United
+     States to seismically active areas / Department of the Interior, U.S.
+     Geological Survey ; by Lucy McCartan, Stephen L. Snyder, and Carl W. Stover
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+133. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zEritrea
+     Indexed as SUBJECT: igneous rocks eritrea
+     Preceded by "b": igneous rocks east u s maps
+     Followed by "b": igneous rocks greenland congresses
+     From: b26777265 Marini, Angelo Alid Volcano in the colony of Eritrea
+     [microform] (translation of Angelo Marini's "Il Vulcano Alid nella colonia
+     Eritrea") / edited and translated by Jacob B. Lowenstern and Francesco
+     Villa
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Aug 26, 1999
+
+ 
+
+134. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zGreenland|xCongresses
+     Indexed as SUBJECT: igneous rocks greenland congresses
+     Preceded by "b": igneous rocks eritrea
+     Followed by "b": igneous rocks hawaii kilauea volcano
+     From: b14842336 NATO Advanced Research Workshop on Origins of Igneous
+     Layering (1986 : Narsarssuak, Greenland) Origins of igneous layering /
+     edited by Ian Parsons
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:22
+     AM
+     Catalog Date: Nov 18, 1994
+
+ 
+
+
+                                    Page 31
+135. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zHawaii|zKilauea Volcano
+     Indexed as SUBJECT: igneous rocks hawaii kilauea volcano
+     Preceded by "b": igneous rocks greenland congresses
+     Followed by "b": igneous rocks hawaii mauna kea
+     From: b27178080 Helz, Rosalind Tuthill Compositions of glasses from the
+     Pu'u O'o-Kupaianaha eruption of Kilauea Volcano, Hawaii, January 1983
+     through December 1994 [microform] / by Rosalind Tuthill Helz, B. Carter
+     Hearn, Jr
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Nov 11, 1999
+
+ 
+
+136. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zHawaii|zMauna Kea
+     Indexed as SUBJECT: igneous rocks hawaii mauna kea
+     Preceded by "b": igneous rocks hawaii kilauea volcano
+     Followed by "b": igneous rocks identification
+     From: b24441053 Wolfe, Edward W The geology and petrology of Mauna Kea
+     volcano, Hawaii : a study of postshield volcanism / by Edward W. Wolfe,
+     William S. Wise, and G. Brent Dalrymple
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Feb 23, 1998
+
+ 
+
+137. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xIdentification
+     Indexed as SUBJECT: igneous rocks identification
+     Preceded by "b": igneous rocks hawaii mauna kea
+     Followed by "b": igneous rocks illinois hardin county
+     From: b10266331 Thorpe, R. S The field description of igneous rocks / R.S.
+     Thorpe and G.C. Brown
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+138. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zIllinois|zHardin County
+     Indexed as SUBJECT: igneous rocks illinois hardin county
+     Preceded by "b": igneous rocks identification
+     Followed by "a": igneous rocks inclusions
+     From: b24672245 Reynolds, Richard L Paleomagnetic and
+     {u2074}{u00B0}Ar/{u00B3}{u2079}Ar results from the Grant intrusive breccia
+     and comparison to the Permian Downeys Bluff sill--evidence for Permian
+     igneous activity at Hicks Dome, southern Illinois Basin / by Richard L.
+     Reynolds, Martin B. Goldhaber, and Lawrence W. Snee
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Mar 4, 1998
+
+ 
+
+
+                                    Page 32
+139. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xInclusions|zCalifornia|zSan Bernardino County
+     Indexed as SUBJECT: igneous rocks inclusions california san bernardino
+     county
+     Preceded by "b": igneous rocks inclusions
+     Followed by "b": igneous rocks inclusions congresses
+     From: b26776558 Wilshire, Howard Gordon, 1926- Whole-rock and mineral
+     chemical compositional data for lower crustal and upper mantle xenoliths
+     from the Cima volcanic field, San Bernardino County, California
+     [microform] / by H.G. Wilshire and S.B. Mukasa
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Jun 16, 1999
+
+ 
+
+140. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xInclusions|vCongresses
+     Indexed as SUBJECT: igneous rocks inclusions congresses
+     Preceded by "b": igneous rocks inclusions california san bernardino county
+     Followed by "b": igneous rocks italy
+     From: b30592628  Melt inclusions in volcanic systems : methods,
+     applications and problems / edited by Benedetto De Vivo and Robert J.
+     Bodnar
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Dec 30, 2003
+
+ 
+
+141. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zItaly
+     Indexed as SUBJECT: igneous rocks italy
+     Preceded by "b": igneous rocks inclusions congresses
+     Followed by "b": igneous rocks measurement
+     From: b26056677 Strange, John, 1732-1799 De' monti colonnari e d'altri
+     fenemeni vulcanici dello stato veneto [microform] / memoria di Giovanni
+     Strange
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Apr 1, 1998
+
+ 
+
+142. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xMeasurement
+     Indexed as SUBJECT: igneous rocks measurement
+     Preceded by "b": igneous rocks italy
+     Followed by "b": igneous rocks minnesota
+     From: b21045094 Douglas, Albert C Total intensity magnetometer logging as
+     a stratigraphic tool in Tertiary volcanic rock / Albert C. Douglas, Melvyn
+     R. Millett
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Nov 10, 1994
+
+ 
+
+
+                                    Page 33
+143. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zMinnesota
+     Indexed as SUBJECT: igneous rocks minnesota
+     Preceded by "b": igneous rocks measurement
+     Followed by "b": igneous rocks mississippi
+     From: b22021942 Friedel, Michael J Delineation of fractures in igneous
+     rock masses using common offset radar reflection [microform] / by Michael
+     J. Friedel, James A. Jessop, and Richard E. Thill
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Nov 30, 1994
+
+ 
+
+144. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zMississippi
+     Indexed as SUBJECT: igneous rocks mississippi
+     Preceded by "b": igneous rocks minnesota
+     Followed by "b": igneous rocks montana
+     From: b34439419 Saunders, James A Preliminary evaluation of the mineral
+     resource potential of the Jackson Dome [microform] : final report / by
+     James A. Saunders
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Apr 25, 2006
+
+ 
+
+145. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zMontana
+     Indexed as SUBJECT: igneous rocks montana
+     Preceded by "b": igneous rocks mississippi
+     Followed by "b": igneous rocks nevada
+     From: b2358306x M'Gonigle, John W {u2074}{u00B0}Ar/{u00B3}{u2079}Ar ages
+     of some Challis Volcanic Group rocks and the initiation of Tertiary
+     sedimentary basins in southwestern Montana / by John W. M'Gonigle and G.
+     Brent Dalrymple
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Sep 4, 1996
+
+ 
+
+146. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada
+     Indexed as SUBJECT: igneous rocks nevada
+     Preceded by "b": igneous rocks montana
+     Followed by "b": igneous rocks nevada bibliography
+     From: b23538624 Brooks, William E Timing and effect of detachment-related
+     potassium metasomatism on {u2074}{u00B0}Ar/{u00B3}{u2079}Ar ages from the
+     Windous Butte Formation, Grant Range, Nevada / by William E. Brooks and
+     Lawrence W. Snee
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Jul 9, 1996
+
+ 
+
+
+                                    Page 34
+147. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada|xBibliography
+     Indexed as SUBJECT: igneous rocks nevada bibliography
+     Preceded by "b": igneous rocks nevada
+     Followed by "b": igneous rocks nevada composition
+     From: b22280315 Beardslee, Vern Bibliography for Triassic and Jurassic
+     magmatic arc, western Nevada and eastern California [microform] / by Vern
+     Beardslee and Howard McCarthy
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Mar 12, 1995
+
+ 
+
+148. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada|xComposition
+     Indexed as SUBJECT: igneous rocks nevada composition
+     Preceded by "b": igneous rocks nevada bibliography
+     Followed by "b": igneous rocks nevada databases
+     From: b23239864  Summary of chemical analyses and
+     {u2074}{u00B0}Ar/{u00B3}{u2079}Ar age-spectra data for Eocene volcanic
+     rocks from the central part of the northeast Nevada volcanic field / by
+     William E. Brooks ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Feb 2, 1996
+
+ 
+
+149. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada|vDatabases
+     Indexed as SUBJECT: igneous rocks nevada databases
+     Preceded by "b": igneous rocks nevada composition
+     Followed by "b": igneous rocks nevada goshute mountains
+     From: b40236742  Geochemical database for igneous rocks of the ancestral
+     Cascades arc--southern segment, California and Nevada [electronic
+     resource] / by Edward A. du Bray ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Jun 11, 2009
+
+ 
+
+150. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada|zGoshute Mountains
+     Indexed as SUBJECT: igneous rocks nevada goshute mountains
+     Preceded by "b": igneous rocks nevada databases
+     Followed by "b": igneous rocks nevada lincoln county
+     From: b25698321  An outline of tectonic, igneous, and metamorphic events
+     in the Goshute-Toano range between Silver Zone Pass and White Horse Pass,
+     Elko County, Nevada : a history of superposed contractional and
+     extensional deformation / by Keith B. Ketner ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Aug 14, 1998
+
+ 
+
+
+                                    Page 35
+151. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada|zLincoln County
+     Indexed as SUBJECT: igneous rocks nevada lincoln county
+     Preceded by "b": igneous rocks nevada goshute mountains
+     Followed by "b": igneous rocks nevada maps
+     From: b22291933 Page, William R Modal analyses of selected Tertiary
+     volcanic rocks from Nye and Lincoln counties, Nevada [microform] / by
+     William R. Page and Gary L. Dixon
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Mar 12, 1995
+
+ 
+
+152. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada|vMaps
+     Indexed as SUBJECT: igneous rocks nevada maps
+     Preceded by "b": igneous rocks nevada lincoln county
+     Followed by "b": igneous rocks nevada nye county
+     From: b22509586 Geological Survey (U.S.) Sample locality map and
+     potassium-argon ages and data for Cenozoic igneous rocks in the Tonopah
+     1{u00B0} x 2{u00B0} quadrangle, central Nevada / Department of the
+     Interior, U.S. Geological Survey ; by Edwin H. McKee and David A. John
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+153. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada|zNye County
+     Indexed as SUBJECT: igneous rocks nevada nye county
+     Preceded by "b": igneous rocks nevada maps
+     Followed by "b": igneous rocks nevada toano range
+     From: b22291933 Page, William R Modal analyses of selected Tertiary
+     volcanic rocks from Nye and Lincoln counties, Nevada [microform] / by
+     William R. Page and Gary L. Dixon
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Mar 12, 1995
+
+ 
+
+154. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada|zToano Range
+     Indexed as SUBJECT: igneous rocks nevada toano range
+     Preceded by "b": igneous rocks nevada nye county
+     Followed by "b": igneous rocks nevada yucca mountain
+     From: b25698321  An outline of tectonic, igneous, and metamorphic events
+     in the Goshute-Toano range between Silver Zone Pass and White Horse Pass,
+     Elko County, Nevada : a history of superposed contractional and
+     extensional deformation / by Keith B. Ketner ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:26
+     AM
+     Catalog Date: Aug 14, 1998
+
+ 
+
+
+                                    Page 36
+155. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNevada|zYucca Mountain
+     Indexed as SUBJECT: igneous rocks nevada yucca mountain
+     Preceded by "b": igneous rocks nevada toano range
+     Followed by "b": igneous rocks new mexico silver city region maps
+     From: b24112616 LeCain, Gary D Air-injection testing in vertical boreholes
+     in welded and nonwelded tuff, Yucca Mountain, Nevada / by Gary D. LeCain ;
+     prepared in cooperation with the Nevada Operations Office, U.S. Department
+     of Energy
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Jun 3, 1997
+
+ 
+
+156. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zNew Mexico|zSilver City Region|vMaps
+     Indexed as SUBJECT: igneous rocks new mexico silver city region maps
+     Preceded by "b": igneous rocks nevada yucca mountain
+     Followed by "b": igneous rocks nomenclature
+     From: b22523479 Geological Survey (U.S.) Petrochemistry of igneous rocks,
+     Silver City 1{u00B0}?x 2{u00B0}?quadrangle, New Mexico and Arizona /
+     Department of the Interior, U.S. Geological Survey ; by William N. Sharp
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:24
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+157. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xNomenclature
+     Indexed as SUBJECT: igneous rocks nomenclature
+     Preceded by "b": igneous rocks new mexico silver city region maps
+     Followed by "b": igneous rocks oregon
+     From: b17861937 Shelley, David Igneous and metamorphic rocks under the
+     microscope : classfication, textures, microstructures, and mineral
+     preferred-orientations / David Shelley
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:22
+     AM
+     Catalog Date: Nov 20, 1994
+
+ 
+
+158. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zOregon
+     Indexed as SUBJECT: igneous rocks oregon
+     Preceded by "b": igneous rocks nomenclature
+     Followed by "b": igneous rocks pacific states databases
+     From: b26176117 Oscarson, Robert L Electron microprobe analyses of zeolite
+     minerals from Neogene volcanic rocks in the Breitenbush-Austin Hot Springs
+     area, Oregon [microform] / by Robert L. Oscarson and Keith E. Bargar
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: May 26, 1998
+
+ 
+
+159. Headings used for the first time
+
+                                    Page 37
+     Field: d650 0|aIgneous rocks|zPacific States|vDatabases
+     Indexed as SUBJECT: igneous rocks pacific states databases
+     Preceded by "b": igneous rocks oregon
+     Followed by "b": igneous rocks permeability testing
+     From: b34499283 Du Bray, E. A Geochemical database for volcanic rocks of
+     the Western Cascades, Washington, Oregon, and California [electronic
+     resource] / by Edward A. du Bray ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:25
+     AM
+     Catalog Date: Sep 8, 2006
+
+ 
+
+160. Headings used for the first time
+     Field: d650 0|aIgneous rocks|xPermeability|xTesting
+     Indexed as SUBJECT: igneous rocks permeability testing
+     Preceded by "b": igneous rocks pacific states databases
+     Followed by "b": igneous rocks sierra nevada calif and nev
+     From: b24112616 LeCain, Gary D Air-injection testing in vertical boreholes
+     in welded and nonwelded tuff, Yucca Mountain, Nevada / by Gary D. LeCain ;
+     prepared in cooperation with the Nevada Operations Office, U.S. Department
+     of Energy
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:23
+     AM
+     Catalog Date: Jun 3, 1997
+
+ 
+
+161. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zSierra Nevada (Calif. and Nev.)
+     Indexed as SUBJECT: igneous rocks sierra nevada calif and nev
+     Preceded by "b": igneous rocks permeability testing
+     Followed by "b": igneous rocks south atlantic states maps
+     From: b1584075x Ross, Donald Clarence, 1924- The metamorphic and plutonic
+     rocks of the southernmost Sierra Nevada, California, and their tectonic
+     framework / by Donald C. Ross
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Nov 19, 1994
+
+ 
+
+162. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zSouth Atlantic States|xMaps
+     Indexed as SUBJECT: igneous rocks south atlantic states maps
+     Preceded by "b": igneous rocks sierra nevada calif and nev
+     Followed by "b": igneous rocks texas big bend national park
+     From: b2497724x Geological Survey (U.S.) Mineral resource assessment of
+     mafic and ultramafic rocks in the Greenville 1{u00B0} x 2{u00B0}
+     quadrangle, South Carolina, Georgia, and North Carolina / U.S. Department
+     of the Interior, U.S. Geological Survey ; by Frank G. Lesure, John P.
+     D'Agostino, and David Gottfried
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Feb 25, 1998
+
+ 
+
+
+                                    Page 38
+163. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zTexas|zBig Bend National Park
+     Indexed as SUBJECT: igneous rocks texas big bend national park
+     Preceded by "b": igneous rocks south atlantic states maps
+     Followed by "b": igneous rocks trans pecos tex and n m
+     From: b39072356  Integrated geologic, geochemical, and geophysical studies
+     of Big Bend National Park, Texas [electronic resource] / [by John E. Gray
+     ... et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Aug 5, 2008
+
+ 
+
+164. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zTrans-Pecos (Tex. and N.M.)
+     Indexed as SUBJECT: igneous rocks trans pecos tex and n m
+     Preceded by "b": igneous rocks texas big bend national park
+     Followed by "b": igneous rocks utah emery county maps
+     From: b10607134  Igneous geology of Trans-Pecos Texas : field trip guide
+     and research articles / Jonathan G. Price ... [et al.], field trip leaders
+     and guidebook editors
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+165. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zUtah|zEmery County|vMaps
+     Indexed as SUBJECT: igneous rocks utah emery county maps
+     Preceded by "b": igneous rocks trans pecos tex and n m
+     Followed by "b": igneous rocks utah marysvale region
+     From: b2251157x Geological Survey (U.S.) Geologic map showing a late
+     Cenozoic basaltic intrusive complex, Emery, Sevier, and Wayne counties,
+     Utah / Department of the Interior, U.S. Geological Survey ; by Anne E.
+     Gartner and Paul T. Delaney
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+166. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zUtah|zMarysvale Region
+     Indexed as SUBJECT: igneous rocks utah marysvale region
+     Preceded by "b": igneous rocks utah emery county maps
+     Followed by "b": igneous rocks utah sevier county maps
+     From: b20030915  Isotopic ages and stratigraphy of Cenozoic rocks of the
+     Marysvale volcanic field and adjacent areas, west-central Utah / by Peter
+     D. Rowley ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Jul 11, 1994
+
+ 
+
+167. Headings used for the first time
+
+                                    Page 39
+     Field: d650 0|aIgneous rocks|zUtah|zSevier County|vMaps
+     Indexed as SUBJECT: igneous rocks utah sevier county maps
+     Preceded by "b": igneous rocks utah marysvale region
+     Followed by "b": igneous rocks utah tushar mountains
+     From: b2251157x Geological Survey (U.S.) Geologic map showing a late
+     Cenozoic basaltic intrusive complex, Emery, Sevier, and Wayne counties,
+     Utah / Department of the Interior, U.S. Geological Survey ; by Anne E.
+     Gartner and Paul T. Delaney
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+168. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zUtah|zTushar Mountains
+     Indexed as SUBJECT: igneous rocks utah tushar mountains
+     Preceded by "b": igneous rocks utah sevier county maps
+     Followed by "b": igneous rocks utah wah wah mountains
+     From: b10098021  Igneous activity and related ore deposits in the western
+     and southern Tushar Mountains, Marysvale Volcanic Field, west-central Utah
+     / Thomas A. Steven, editor
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+169. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zUtah|zWah Wah Mountains
+     Indexed as SUBJECT: igneous rocks utah wah wah mountains
+     Preceded by "b": igneous rocks utah tushar mountains
+     Followed by "b": igneous rocks utah wayne county maps
+     From: b23288073  Major-element, trace-element, and volatile concentrations
+     in silicate melt inclusions from the tuff of Pine Grove, Wah Wah
+     Mountains, Utah [microform] / by Jacob B. Lowenstern ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Feb 16, 1996
+
+ 
+
+170. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zUtah|zWayne County|vMaps
+     Indexed as SUBJECT: igneous rocks utah wayne county maps
+     Preceded by "b": igneous rocks utah wah wah mountains
+     Followed by "b": igneous rocks virginia
+     From: b2251157x Geological Survey (U.S.) Geologic map showing a late
+     Cenozoic basaltic intrusive complex, Emery, Sevier, and Wayne counties,
+     Utah / Department of the Interior, U.S. Geological Survey ; by Anne E.
+     Gartner and Paul T. Delaney
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+171. Headings used for the first time
+
+                                    Page 40
+     Field: d650 0|aIgneous rocks|zVirginia
+     Indexed as SUBJECT: igneous rocks virginia
+     Preceded by "b": igneous rocks utah wayne county maps
+     Followed by "b": igneous rocks washington state spirit lake
+     From: b18719880 De Witt, Wallace, 1920- Principal oil and gas plays in the
+     Appalachian Basin (Province 131) / by Wallace de Witt, Jr. Middle Eocene
+     intrusive igneous rocks of the Central Appalachian Valley and Ridge
+     province-setting, chemistry, and implications for crustal structure / by
+     C. Scott Southworth, Karen J. Gray, and John F. Sutter
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Nov 21, 1994
+
+ 
+
+172. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zWashington (State)|zSpirit Lake
+     Indexed as SUBJECT: igneous rocks washington state spirit lake
+     Preceded by "b": igneous rocks virginia
+     Followed by "b": igneous rocks west u s inclusions
+     From: b23284948 Evarts, Russell C Chemical data for Tertiary volcanic and
+     intrusive rocks of the Spirit Lake 15-minute quadrangle, southern
+     Washington Cascade Range [microform] / by Russell C. Evarts and Kenneth R.
+     Bishop ; prepared in cooperation with the Washington Department of Natural
+     Resources, Division of Geology and Earth Resources
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:28
+     AM
+     Catalog Date: Feb 16, 1996
+
+ 
+
+173. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zWest (U.S.)|xInclusions
+     Indexed as SUBJECT: igneous rocks west u s inclusions
+     Preceded by "b": igneous rocks washington state spirit lake
+     Followed by "b": igneous rocks west virginia
+     From: b10805904  Mafic and ultramafic xenoliths from volcanic rocks of the
+     western United States / by H.G. Wilshire ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:28
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+174. Headings used for the first time
+     Field: d650 0|aIgneous rocks|zWest Virginia
+     Indexed as SUBJECT: igneous rocks west virginia
+     Preceded by "b": igneous rocks west u s inclusions
+     Followed by "a 4XX": ignez de castro d 1355
+     From: b18719880 De Witt, Wallace, 1920- Principal oil and gas plays in the
+     Appalachian Basin (Province 131) / by Wallace de Witt, Jr. Middle Eocene
+     intrusive igneous rocks of the Central Appalachian Valley and Ridge
+     province-setting, chemistry, and implications for crustal structure / by
+     C. Scott Southworth, Karen J. Gray, and John F. Sutter
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:49:27
+     AM
+     Catalog Date: Nov 21, 1994
+
+
+                                    Page 41
+ 
+
+175. Headings used for the first time
+     Field: d650 0|aIllustrated books|zEngland|xHistory|y19th century
+     Indexed as SUBJECT: illustrated books england history   19th century
+     Preceded by "b": illustrated books england history   16th century
+     bibliography catalogs
+     Followed by "b": illustrated books england history   20th century
+     From: b4124333x Crane, Walter, 1845-1915 Mrs. Mundi at home : the
+     terrestrial ball, R.S.V.P. / lines and outlines by Walter Crane
+     Function: oclc  Group: 0  Initials: cak  Entry Date: Aug 11, 2010 3:11:20
+     PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+176. Headings used for the first time
+     Field: d650 0|aInternational economic integration|xSoceties,
+     etc.|vDirectories
+     Indexed as SUBJECT: international economic integration soceties etc
+     directories
+     Preceded by "b": international economic integration political aspects
+     Followed by "b": international economic integration social aspects
+     From: b24461477 Schraepler, Hans-Albrecht Organisations internationales et
+     europ{u00E9}ennes. English
+     Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 8:44:41
+     AM
+     Catalog Date: Nov 25, 1997
+
+ 
+
+177. Headings used for the first time
+     Field: d650 0|aInternational economic relations|xSocieties,
+     etc.|vDirectories
+     Indexed as SUBJECT: international economic relations societies etc
+     directories
+     Preceded by "b": international economic relations social aspects
+     Followed by "b": international economic relations soviet union congresses
+     From: b24461477 Schraepler, Hans-Albrecht Organisations internationales et
+     europ{u00E9}ennes. English
+     Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 8:44:41
+     AM
+     Catalog Date: Nov 25, 1997
+
+ 
+
+178. Headings used for the first time
+     Field: y752  |aIreland|dBelfast
+     Indexed as SUBJECT: ireland belfast
+     Preceded by "b": ireland beer taxation
+     Followed by "b": ireland benefices ecclesiastical
+     From: b4124333x Crane, Walter, 1845-1915 Mrs. Mundi at home : the
+     terrestrial ball, R.S.V.P. / lines and outlines by Walter Crane
+     Function: oclc  Group: 0  Initials: cak  Entry Date: Aug 11, 2010 3:11:20
+     PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+                                    Page 42
+
+179. Headings used for the first time
+     Field: d650 0|aLand use|zGreat Britain|vBibliography
+     Indexed as SUBJECT: land use great britain bibliography
+     Preceded by "b": land use great britain
+     Followed by "b": land use great britain classification
+     From: b29863569 Denman, Donald R Bibliography of rural land economy and
+     landownership, 1900-1957 : a full list of works relating to the British
+     Isles and selected works from the United States and Western Europe / by
+     D.R. Denman, J.F.Q. Switzer and O.H.M. Sawyer
+     Function: a2b  Group: 0  Initials:   Entry Date: Aug 12, 2010 12:00:03 AM
+     Catalog Date: Mar 17, 2003
+
+ 
+
+180. Headings used for the first time
+     Field: d650 0|aLand use|zPakistan|zIndus Valley
+     Indexed as SUBJECT: land use pakistan indus valley
+     Preceded by "b": land use ozark mountains
+     Followed by "b": land use pakistan maps
+     From: b31065259 United States. Panel on Waterlogging and Salinity in West
+     Pakistan Report on land and water development in the Indus Plain
+     Function: a2b  Group: 0  Initials:   Entry Date: Aug 12, 2010 12:00:03 AM
+     Catalog Date: Apr 29, 2004
+
+ 
+
+181. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zAlaska
+     Indexed as SUBJECT: metamorphic rocks alaska
+     Preceded by "b": metamorphic rocks
+     Followed by "b": metamorphic rocks alaska juneau region
+     From: b14998622  Distribution, facies, ages, and proposed tectonic
+     associations of regionally metamorphosed rocks in northern Alaska / by
+     Cynthia Dusel-Bacon ... [et al.] ; prepared in cooperation with the Alaska
+     Department of Natural Resources, Division of Geological and Geophysical
+     Surveys
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:32
+     AM
+     Catalog Date: Nov 18, 1994
+
+ 
+
+182. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zAlaska|zJuneau Region
+     Indexed as SUBJECT: metamorphic rocks alaska juneau region
+     Preceded by "b": metamorphic rocks alaska
+     Followed by "b": metamorphic rocks atlases
+     From: b20007097 Himmelberg, Glen R Petrologic characterization of peletic
+     schists in the western metamorphic belt, coast plutonic-metamorphic
+     complex, near Juneau, southeastern Alaska / by Glen R. Himmelberg, David
+     A. Brew, and Arthur B. Ford
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: Jun 27, 1994
+
+ 
+
+
+                                    Page 43
+183. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|xAtlases
+     Indexed as SUBJECT: metamorphic rocks atlases
+     Preceded by "b": metamorphic rocks alaska juneau region
+     Followed by "b": metamorphic rocks australia
+     From: b16071268 Yardley, B. W. D Atlas of metamorphic rocks and their
+     textures / B.W.D. Yardley, W.S. MacKenzie, and C. Guilford
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:32
+     AM
+     Catalog Date: Nov 19, 1994
+
+ 
+
+184. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zAustralia
+     Indexed as SUBJECT: metamorphic rocks australia
+     Preceded by "b": metamorphic rocks atlases
+     Followed by "b": metamorphic rocks china maps
+     From: b1829201x Joplin, Germaine A A petrography of Australian metamorphic
+     rocks [by] Germaine A. Joplin
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: Nov 21, 1994
+
+ 
+
+185. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zChina|vMaps
+     Indexed as SUBJECT: metamorphic rocks china maps
+     Preceded by "b": metamorphic rocks australia
+     Followed by "b": metamorphic rocks classification
+     From: b27255128  Geologic atlas of China / edited by Kenneth J. Hs{u00FC}
+     and Chen Haihong ; assisted by Sun Shu, Wang Qingchen, and Li Jiliang
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: Dec 17, 1999
+
+ 
+
+186. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|xClassification
+     Indexed as SUBJECT: metamorphic rocks classification
+     Preceded by "b": metamorphic rocks china maps
+     Followed by "b": metamorphic rocks congresses
+     From: b36737203  Metamorphic rocks : a classification and glossary of
+     terms : recommendations of the International Union of Geological Sciences
+     Subcommission on the Systematics of Metamorphic Rocks / editors D. Fettes
+     and J. Desmons ; contributing authors P. {u00C1}rkai ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:32
+     AM
+     Catalog Date: Nov 7, 2007
+
+ 
+
+187. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|vCongresses
+     Indexed as SUBJECT: metamorphic rocks congresses
+     Preceded by "b": metamorphic rocks classification
+
+                                    Page 44
+     Followed by "b": metamorphic rocks dictionaries
+     From: b40606235  Metamorphic conditions along convergent plate junctions :
+     mineralogy, petrology, geochemistry, and tectonics : the J.G. Liou volume
+     / W.G. Ernst and Douglas Rumble, III, editors
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:32
+     AM
+     Catalog Date: Nov 18, 2009
+
+ 
+
+188. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|xDictionaries
+     Indexed as SUBJECT: metamorphic rocks dictionaries
+     Preceded by "b": metamorphic rocks congresses
+     Followed by "b": metamorphic rocks front range colo and wyo
+     From: b15731200  The Encyclopedia of igneous and metamorphic petrology /
+     edited by Donald R. Bowes
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:32
+     AM
+     Catalog Date: Nov 18, 1994
+
+ 
+
+189. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zFront Range (Colo. and Wyo.)
+     Indexed as SUBJECT: metamorphic rocks front range colo and wyo
+     Preceded by "b": metamorphic rocks dictionaries
+     Followed by "b": metamorphic rocks handbooks manuals etc
+     From: b25555819 Gable, Dolores J., 1922- Mineralogy, geochemistry,
+     metamorphism, and provenance of the early Proterozoic metamorphic rocks of
+     the central Front Range, Colorado [microform] / by Dolores J. Gable ;
+     edited by William D. Johnson, Jr
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: May 26, 1998
+
+ 
+
+190. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|vHandbooks, manuals, etc
+     Indexed as SUBJECT: metamorphic rocks handbooks manuals etc
+     Preceded by "b": metamorphic rocks front range colo and wyo
+     Followed by "b": metamorphic rocks medicine bow mountains colo and wyo
+     From: b14494024 Fry, Norman The field description of metamorphic rocks /
+     Norman Fry
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:32
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+191. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zMedicine Bow Mountains (Colo. and Wyo.)
+     Indexed as SUBJECT: metamorphic rocks medicine bow mountains colo and wyo
+     Preceded by "b": metamorphic rocks handbooks manuals etc
+     Followed by "b": metamorphic rocks nevada goshute mountains
+     From: b17784530  New stratigraphic subdivisions and redefinition of
+     subdivisions of late Archean and early Proterozoic metasedimentary and
+
+                                    Page 45
+     metavolcanic rocks of the Sierra Madre and Medicine Bow Mountains,
+     southern Wyoming / by Robert S. Houston ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: Nov 20, 1994
+
+ 
+
+192. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zNevada|zGoshute Mountains
+     Indexed as SUBJECT: metamorphic rocks nevada goshute mountains
+     Preceded by "b": metamorphic rocks medicine bow mountains colo and wyo
+     Followed by "b": metamorphic rocks nevada toano range
+     From: b25698321  An outline of tectonic, igneous, and metamorphic events
+     in the Goshute-Toano range between Silver Zone Pass and White Horse Pass,
+     Elko County, Nevada : a history of superposed contractional and
+     extensional deformation / by Keith B. Ketner ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: Aug 14, 1998
+
+ 
+
+193. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zNevada|zToano Range
+     Indexed as SUBJECT: metamorphic rocks nevada toano range
+     Preceded by "b": metamorphic rocks nevada goshute mountains
+     Followed by "b": metamorphic rocks nomenclature
+     From: b25698321  An outline of tectonic, igneous, and metamorphic events
+     in the Goshute-Toano range between Silver Zone Pass and White Horse Pass,
+     Elko County, Nevada : a history of superposed contractional and
+     extensional deformation / by Keith B. Ketner ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: Aug 14, 1998
+
+ 
+
+194. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|xNomenclature
+     Indexed as SUBJECT: metamorphic rocks nomenclature
+     Preceded by "b": metamorphic rocks nevada toano range
+     Followed by "b": metamorphic rocks north carolina snow camp
+     From: b17861937 Shelley, David Igneous and metamorphic rocks under the
+     microscope : classfication, textures, microstructures, and mineral
+     preferred-orientations / David Shelley
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:32
+     AM
+     Catalog Date: Nov 20, 1994
+
+ 
+
+195. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zNorth Carolina|zSnow Camp
+     Indexed as SUBJECT: metamorphic rocks north carolina snow camp
+     Preceded by "b": metamorphic rocks nomenclature
+     Followed by "b": metamorphic rocks scotland highlands
+     From: b36715153 Schmidt, Robert Gordon, 1924- Geology and mineral deposits
+
+                                    Page 46
+     of the Snow Camp-Saxapahaw area, central North Carolina [electronic
+     resource] / by Robert G. Schmidt, Pablo Gumiel, and Alba Pay{u00E1}s
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: Oct 12, 2007
+
+ 
+
+196. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zScotland|zHighlands
+     Indexed as SUBJECT: metamorphic rocks scotland highlands
+     Preceded by "b": metamorphic rocks north carolina snow camp
+     Followed by "b": metamorphic rocks sierra madre wyo and colo
+     From: b17054047  Equilibrium and kinetics in contact metamorphism: the
+     Ballachulish Igneous Complex and its aureole / G. Voll ... [et al.], eds
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: Nov 19, 1994
+
+ 
+
+197. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zSierra Madre (Wyo. and Colo.)
+     Indexed as SUBJECT: metamorphic rocks sierra madre wyo and colo
+     Preceded by "b": metamorphic rocks scotland highlands
+     Followed by "b": metamorphic rocks sierra nevada calif and nev
+     From: b17784530  New stratigraphic subdivisions and redefinition of
+     subdivisions of late Archean and early Proterozoic metasedimentary and
+     metavolcanic rocks of the Sierra Madre and Medicine Bow Mountains,
+     southern Wyoming / by Robert S. Houston ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:33
+     AM
+     Catalog Date: Nov 20, 1994
+
+ 
+
+198. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zSierra Nevada (Calif. and Nev.)
+     Indexed as SUBJECT: metamorphic rocks sierra nevada calif and nev
+     Preceded by "b": metamorphic rocks sierra madre wyo and colo
+     Followed by "b": metamorphic rocks terminology
+     From: b1584075x Ross, Donald Clarence, 1924- The metamorphic and plutonic
+     rocks of the southernmost Sierra Nevada, California, and their tectonic
+     framework / by Donald C. Ross
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:34
+     AM
+     Catalog Date: Nov 19, 1994
+
+ 
+
+199. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|vTerminology
+     Indexed as SUBJECT: metamorphic rocks terminology
+     Preceded by "b": metamorphic rocks sierra nevada calif and nev
+     Followed by "b": metamorphic rocks united states
+     From: b36737203  Metamorphic rocks : a classification and glossary of
+     terms : recommendations of the International Union of Geological Sciences
+     Subcommission on the Systematics of Metamorphic Rocks / editors D. Fettes
+
+                                    Page 47
+     and J. Desmons ; contributing authors P. {u00C1}rkai ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:32
+     AM
+     Catalog Date: Nov 7, 2007
+
+ 
+
+200. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zUnited States
+     Indexed as SUBJECT: metamorphic rocks united states
+     Preceded by "b": metamorphic rocks terminology
+     Followed by "b": metamorphic rocks virginia
+     From: b18291727  Igneous and metamorphic geology; a volume in honor of
+     Arie Poldervaart. Leonard H. Larsen, editor. Martin Prinz and Vincent
+     Manson, co-editors
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:34
+     AM
+     Catalog Date: Nov 21, 1994
+
+ 
+
+201. Headings used for the first time
+     Field: d650 0|aMetamorphic rocks|zVirginia
+     Indexed as SUBJECT: metamorphic rocks virginia
+     Preceded by "b": metamorphic rocks united states
+     Followed by "a": metamorphism geology
+     From: b29243142 Kunk, Michael J 40Ar/39 Ar age-spectrum data for
+     amphibole, muscovite, biotite, and K-feldspar samples from metamorphic
+     rocks in the Blue Ridge anticlinorium, northern Virginia [microform] / by
+     Michael J. Kunk and William C. Burton
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:53:34
+     AM
+     Catalog Date: Mar 7, 2002
+
+ 
+
+202. Headings used for the first time
+     Field: d650 0|aMountain yellow-legged frog|zCalifornia|zCoachella Valley
+     Indexed as SUBJECT: mountain yellow legged frog california coachella valley
+     Preceded by "a": mountain yellow legged frog
+     Followed by "b": mountainburg school bus accidents arkansas
+     From: b30954204 Backlin, Adam California red-legged frog (Rana aurora
+     draytonii) and mountain yellow-legged frog (Rana muscosa) surveys for the
+     Coachella Valley Association of Governments (CVAG), 2003 : final report /
+     by Adam Backlin, Cindy Hitchcock and Robert Fisher
+     Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 10:58:50
+     AM
+     Catalog Date: Jun 7, 2004
+
+ 
+
+203. Headings used for the first time
+     Field: d650 0|aMountaineering|zColorado|vDrama
+     Indexed as SUBJECT: mountaineering colorado drama
+     Preceded by "b": mountaineering china tibet
+     Followed by "b": mountaineering colorado longs peak
+     From: b41242981  Cliffhanger [videorecording] / TriStar Pictures ; a
+     Carolco/Le Studio Canal+/Pioneer production in association with RCS Video
+
+                                    Page 48
+     ; directed by Renny Harlin
+     Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 11:09:27 AM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+204. Headings used for the first time
+     Field: d650 0|aMountaineering|xSearch and rescue
+     operations|zColorado|vDrama
+     Indexed as SUBJECT: mountaineering search and rescue operations colorado
+     drama
+     Preceded by "b": mountaineering scotland drama
+     Followed by "b": mountaineering social aspects
+     From: b41242981  Cliffhanger [videorecording] / TriStar Pictures ; a
+     Carolco/Le Studio Canal+/Pioneer production in association with RCS Video
+     ; directed by Renny Harlin
+     Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 11:09:27 AM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+205. Headings used for the first time
+     Field: d61020|aPalazzo Strozzi (Florence, Italy)i
+     Indexed as SUBJECT: palazzo strozzi florence italy i
+     Preceded by "b": palazzo strozzi florence italy
+     Followed by "a 4XX": palazzo vaticano vatican city
+     From: b10238888 Pampaloni, Guido Palazzo Strozzi / di Guido Pampaloni ; il
+     restauro dell'edificio, di Gino Cipriani ; introduzione di Mario Salmi
+     Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 9:16:55
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+206. Headings used for the first time
+     Field: d650 0|aPetroleum reserves|xGovernment policy
+     Indexed as SUBJECT: petroleum reserves government policy
+     Preceded by "b": petroleum reserves former soviet republics
+     Followed by "b": petroleum reserves government policy united states
+     From: b34940145 Heinberg, Richard The oil depletion protocol : a plan to
+     avert oil wars, terrorism, and economic collapse / Richard Heinberg
+     Function: oclc  Group: 0  Initials:   Entry Date: Aug 11, 2010 1:03:11 PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+207. Headings used for the first time
+     Field: d651 0|aPorto Alegre (Rio Grande do Sul, Brazil)|vMaps
+     Indexed as SUBJECT: porto alegre rio grande do sul brazil maps
+     Preceded by "a": porto alegre rio grande do sul brazil
+     Followed by "b": porto alegre rio grande do sul brazil social conditions
+     From: b41243444 Quatro Rodas (Firm) Sul : mapa rodovi{u00E1}rio / Guia
+     Quatro Rodas ; Abril
+     Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 4:07:45
+     PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+                                    Page 49
+
+208. Headings used for the first time
+     Field: d61020|aProject 100,000 (United States)|xHistory
+     Indexed as SUBJECT: project 100000 united states history
+     Preceded by "b": project 100000 united states
+     Followed by "b": project 2061 american association for the advancement of
+     science
+     From: b1686718x Laurence, Janice H Low-aptitude men in the military : who
+     profits, who pays? / Janice H. Laurence and Peter F. Ramsberger ; foreword
+     by W.S. Sellman
+     Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 10:56:35
+     AM
+     Catalog Date: Nov 24, 1994
+
+ 
+
+209. Headings used for the first time
+     Field: d650 0|aRoads|zBrazil|zS{u00E3}o Paulo (State)|vMaps
+     Indexed as SUBJECT: roads brazil sao paulo state maps
+     Preceded by "b": roads brazil piaui maps
+     Followed by "b": roads brazil south maps
+     From: b41243353 Quatro Rodas (Firm) Sudeste : escala de 1:2.000.000 :
+     fam{u00ED}lia rodovi{u00E1}rio, uso tur{u00ED}stico e profissional / Guia
+     Quatro Rodas ; Abril
+     Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 3:25:54
+     PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+210. Headings used for the first time
+     Field: d650 0|aRoads|zBrazil, South|vMaps
+     Indexed as SUBJECT: roads brazil south maps
+     Preceded by "b": roads brazil sao paulo state maps
+     Followed by "b": roads brazil southeast maps
+     From: b41243444 Quatro Rodas (Firm) Sul : mapa rodovi{u00E1}rio / Guia
+     Quatro Rodas ; Abril
+     Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 4:07:45
+     PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+211. Headings used for the first time
+     Field: d650 0|aRoads|zBrazil, Southeast|vMaps
+     Indexed as SUBJECT: roads brazil southeast maps
+     Preceded by "b": roads brazil south maps
+     Followed by "a 5XX": roads british columbia
+     From: b41243353 Quatro Rodas (Firm) Sudeste : escala de 1:2.000.000 :
+     fam{u00ED}lia rodovi{u00E1}rio, uso tur{u00ED}stico e profissional / Guia
+     Quatro Rodas ; Abril
+     Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 3:25:54
+     PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+212. Headings used for the first time
+
+                                    Page 50
+     Field: d651 0|aS{u00E3}o Paulo (Brazil : State)|vMaps, Tourist
+     Indexed as SUBJECT: sao paulo brazil state maps tourist
+     Preceded by "b": sao paulo brazil state history
+     Followed by "b": sao paulo brazil state politics and government
+     From: b41243353 Quatro Rodas (Firm) Sudeste : escala de 1:2.000.000 :
+     fam{u00ED}lia rodovi{u00E1}rio, uso tur{u00ED}stico e profissional / Guia
+     Quatro Rodas ; Abril
+     Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 3:25:54
+     PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+213. Headings used for the first time
+     Field: d650 0|aSaxophone and guitar music|vScores
+     Indexed as SUBJECT: saxophone and guitar music scores
+     Preceded by "b": saxophone and guitar music arranged
+     Followed by "b": saxophone and harpsichord music arranged
+     From: b41243018 Kechley, David In the dragon's garden
+     Function: oclc  Group: 0  Initials: acq  Entry Date: Aug 11, 2010 11:17:33
+     AM
+
+ 
+
+214. Headings used for the first time
+     Field: d650 0|aSchool recess breaks|xSocial aspects|zGreat Britain
+     Indexed as SUBJECT: school recess breaks social aspects great britain
+     Preceded by "b": school recess breaks
+     Followed by "b": school recess breaks social aspects united states
+     From: b28469173  Play today in the primary school playground : life,
+     learning, and creativity / edited by Julia C. Bishop and Mavis Curtis ;
+     with a foreword by Iona Opie
+     Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:45:55
+     AM
+     Catalog Date: Jun 21, 2001
+
+ 
+
+215. Headings used for the first time
+     Field: d650 0|aSchool recess breaks|xSocial aspects|zUnited States
+     Indexed as SUBJECT: school recess breaks social aspects united states
+     Preceded by "b": school recess breaks social aspects great britain
+     Followed by "a 4XX": school recesses
+     From: b34981998 Hinson, Curt, 1959- 6-steps to a trouble-free playground /
+     Curt Hinson
+     Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:46:01
+     AM
+     Catalog Date: Nov 30, 2006
+
+ 
+
+216. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xAbstracts|vPeriodicals
+     Indexed as SUBJECT: sedimentary rocks abstracts periodicals
+     Preceded by "b": sedimentary rocks
+     Followed by "b": sedimentary rocks analysis
+     From: b14830784  Geographical abstracts. E, Sedimentology
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:32
+
+                                    Page 51
+     AM
+     Catalog Date: Nov 18, 1994
+
+ 
+
+217. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xAnalysis
+     Indexed as SUBJECT: sedimentary rocks analysis
+     Preceded by "b": sedimentary rocks abstracts periodicals
+     Followed by "b": sedimentary rocks analysis case studies
+     From: b1088886x Hill, Thelma P., 1917- Chemical composition of sedimentary
+     rocks in California and Hawaii / compiled by Thelma P. Hill
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:32
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+218. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xAnalysis|vCase studies
+     Indexed as SUBJECT: sedimentary rocks analysis case studies
+     Preceded by "b": sedimentary rocks analysis
+     Followed by "b": sedimentary rocks appalachian region guidebooks
+     From: b30922446 Carroll, J. (JoLynn), 1960- Sedimentary processes :
+     quantification using radionuclides / J. Carroll and I. Lerche
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:33
+     AM
+     Catalog Date: Apr 5, 2004
+
+ 
+
+219. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zAppalachian Region|xGuidebooks
+     Indexed as SUBJECT: sedimentary rocks appalachian region guidebooks
+     Preceded by "b": sedimentary rocks analysis case studies
+     Followed by "b": sedimentary rocks atlases
+     From: b27178171  Allocyclic controls on Paleozoic sedimentation in the
+     central Appalachian basin [microform] / trip leaders, C. Blaine Cecil,
+     David K. Brezinski, Frank T. Dulong ; with contributions by, John
+     Pepetski, Cortland Eble, Nick Fedorko
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:33
+     AM
+     Catalog Date: Nov 11, 1999
+
+ 
+
+220. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xAtlases
+     Indexed as SUBJECT: sedimentary rocks atlases
+     Preceded by "b": sedimentary rocks appalachian region guidebooks
+     Followed by "b": sedimentary rocks bibliography
+     From: b14484341 Adams, A. E Atlas of sedimentary rocks under the
+     microscope / A.E. Adams, W.S. MacKenzie, and C. Guilford
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:33
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+                                    Page 52
+
+221. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xBibliography
+     Indexed as SUBJECT: sedimentary rocks bibliography
+     Preceded by "b": sedimentary rocks atlases
+     Followed by "b": sedimentary rocks california san emigdio mountains
+     From: b10220628 Fisher, W. L. (William Lawrence), 1932- Clastic
+     depositional systems : a genetic approach to facies analysis : annotated
+     outline and bibliography / by W. L. Fisher and L.F. Brown, Jr
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:25
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+222. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zCalifornia|zSan Emigdio Mountains
+     Indexed as SUBJECT: sedimentary rocks california san emigdio mountains
+     Preceded by "b": sedimentary rocks bibliography
+     Followed by "b": sedimentary rocks california tehachapi mountains
+     From: b1000144x Nilsen, Tor Helge Stratigraphy and sedimentology of the
+     Eocene Tejon Formation, Western Tehachapi and San Emigdio mountains,
+     California / by Tor H. Nilsen
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+223. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zCalifornia|zTehachapi Mountains
+     Indexed as SUBJECT: sedimentary rocks california tehachapi mountains
+     Preceded by "b": sedimentary rocks california san emigdio mountains
+     Followed by "b": sedimentary rocks congresses
+     From: b1000144x Nilsen, Tor Helge Stratigraphy and sedimentology of the
+     Eocene Tejon Formation, Western Tehachapi and San Emigdio mountains,
+     California / by Tor H. Nilsen
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+224. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xCongresses
+     Indexed as SUBJECT: sedimentary rocks congresses
+     Preceded by "b": sedimentary rocks california tehachapi mountains
+     Followed by "b": sedimentary rocks denver basin permeability maps
+     From: b12959741  Deltas : models for exploration / editor, Martha Lou
+     Broussard
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:33
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+225. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zDenver Basin|xPermeability|vMaps
+
+                                    Page 53
+     Indexed as SUBJECT: sedimentary rocks denver basin permeability maps
+     Preceded by "b": sedimentary rocks congresses
+     Followed by "b": sedimentary rocks early works to 1800
+     From: b22509069 Geological Survey (U.S.) Median-permeability contour maps
+     of the J sandstone, Dakota Group, in the Denver Basin, Colorado, Nebraska,
+     and Wyoming / Department of the Interior, U.S. Geological Survey ; by
+     Debra K. Higley and Donald L. Gautier
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+226. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xEarly works to 1800
+     Indexed as SUBJECT: sedimentary rocks early works to 1800
+     Preceded by "b": sedimentary rocks denver basin permeability maps
+     Followed by "b": sedimentary rocks east u s maps
+     From: b26025656 Becker, Wilhelm Gottlob Ernst, d. 1836 Ueber die
+     Fl{u00F6}tzgebirge im s{u00FC}dlichen Polen [microform] : besonders in
+     Hinsicht auf Steinsalz und Soole / von Wilhelm Gottlob Ernst Becker
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:33
+     AM
+     Catalog Date: Apr 1, 1998
+
+ 
+
+227. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zEast (U.S.)|vMaps
+     Indexed as SUBJECT: sedimentary rocks east u s maps
+     Preceded by "b": sedimentary rocks early works to 1800
+     Followed by "b": sedimentary rocks encyclopedia
+     From: b34615490 Geological Survey (U.S.) Metallogenic map of zinc, lead,
+     and barium deposits and occurrences in Paleozoic sedimentary rocks,
+     east-central United States, 1987 / Department of the Interior, U.S.
+     Geological Survey ; by Sandra H.B. Clark
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Oct 2, 2006
+
+ 
+
+228. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|vEncyclopedia
+     Indexed as SUBJECT: sedimentary rocks encyclopedia
+     Preceded by "b": sedimentary rocks east u s maps
+     Followed by "b": sedimentary rocks europe congresses
+     From: b30613164  Encyclopedia of sediments and sedimentary rocks / edited
+     by Gerard V. Middleton ; with associate editors Michael J. Church ... [et
+     al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:31
+     AM
+     Catalog Date: Dec 10, 2003
+
+ 
+
+229. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zEurope|xCongresses
+
+                                    Page 54
+     Indexed as SUBJECT: sedimentary rocks europe congresses
+     Preceded by "b": sedimentary rocks encyclopedia
+     Followed by "b": sedimentary rocks germany west congresses
+     From: b10387444  Sedimentary and evolutionary cycles / edited by Ulf Bayer
+     and Adolf Seilacher
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+230. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zGermany (West)|xCongresses
+     Indexed as SUBJECT: sedimentary rocks germany west congresses
+     Preceded by "b": sedimentary rocks europe congresses
+     Followed by "b": sedimentary rocks great plains
+     From: b10387444  Sedimentary and evolutionary cycles / edited by Ulf Bayer
+     and Adolf Seilacher
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+231. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zGreat Plains
+     Indexed as SUBJECT: sedimentary rocks great plains
+     Preceded by "b": sedimentary rocks germany west congresses
+     Followed by "b": sedimentary rocks guidebooks
+     From: b22525221 Geological Survey (U.S.) Divisions of potential fracture
+     permeability, based on distribution of structures and linear features in
+     sedimentary rocks, northern Great Plains--Rocky Mountains region of North
+     Dakota, South Dakota, Wyoming, and northern Nebraska / Department of the
+     Interior, U.S. Geological Survey ; by Maurice E. Cooley
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Apr 1, 1995
+
+ 
+
+232. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xGuidebooks
+     Indexed as SUBJECT: sedimentary rocks guidebooks
+     Preceded by "b": sedimentary rocks great plains
+     Followed by "b": sedimentary rocks idaho montpelier canyon analysis
+     From: b10284059 Young, Grant M Field guidebook to the sedimentary
+     environments and regional tectonic setting of the Huronian supergroup,
+     North Shore of Lake Huron, Ontario, Canada / by Grant M. Young
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:33
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+233. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zIdaho|zMontpelier Canyon|xAnalysis
+     Indexed as SUBJECT: sedimentary rocks idaho montpelier canyon analysis
+     Preceded by "b": sedimentary rocks guidebooks
+
+                                    Page 55
+     Followed by "b": sedimentary rocks italy apennines
+     From: b17553891 Medrano, M. D A normative-calculation procedure used to
+     determine mineral abundances in rocks from the Montpelier Canyon section
+     of the Phosphoria Formation, Idaho : a tool in deciphering the
+     minor-element geochemistry of sedimentary rocks / by M.D. Medrano and D.Z.
+     Piper
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Nov 20, 1994
+
+ 
+
+234. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zItaly|zApennines
+     Indexed as SUBJECT: sedimentary rocks italy apennines
+     Preceded by "b": sedimentary rocks idaho montpelier canyon analysis
+     Followed by "b": sedimentary rocks italy calabria region
+     From: b27130150 Pini, Gian Andrea, 1957- Tectonosomes and olistostromes in
+     the argille scagliose of the northern Apennines, Italy / Gian Andrea Pini
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Sep 24, 1999
+
+ 
+
+235. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zItaly|zCalabria Region
+     Indexed as SUBJECT: sedimentary rocks italy calabria region
+     Preceded by "b": sedimentary rocks italy apennines
+     Followed by "b": sedimentary rocks laboratory manuals
+     From: b16930897 Ibbeken, H. (Hillert), 1935- Source and sediment : a case
+     study of provenance and mass balance at an active plate margin (Calabria,
+     Southern Italy) / H. Ibbeken, R. Schleyer with a contribution by R.
+     Valloni ; supported by research of P. Ergenzinger, G. Mezzadri, J. Mouton,
+     and J. Rumohr
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Nov 19, 1994
+
+ 
+
+236. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xLaboratory manuals
+     Indexed as SUBJECT: sedimentary rocks laboratory manuals
+     Preceded by "b": sedimentary rocks italy calabria region
+     Followed by "b": sedimentary rocks middle west
+     From: b12792779 Anstey, Robert L Environments through time : a laboratory
+     manual in the interpretation of ancient sediments and organisms / Robert
+     L. Anstey, Terry L. Chase
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:33
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+237. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zMiddle West
+     Indexed as SUBJECT: sedimentary rocks middle west
+
+                                    Page 56
+     Preceded by "b": sedimentary rocks laboratory manuals
+     Followed by "b": sedimentary rocks models congresses
+     From: b18768283 Berendsen, Pieter Petrography and correlation of
+     Precambrian clastic sedimentary rocks associated with the Midcontinent
+     Rift System / by Pieter Berendsen and Andrzej Barczuk ; Warren C. Day and
+     Diane E. Lane, editors
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Nov 21, 1994
+
+ 
+
+238. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|xModels|xCongresses
+     Indexed as SUBJECT: sedimentary rocks models congresses
+     Preceded by "b": sedimentary rocks middle west
+     Followed by "b": sedimentary rocks montana
+     From: b10669474  Thermal modeling in sedimentary basins : [proceedings]
+     1st IFP Exploration Research Conference held Carcans, France, June 3-7,
+     1985 / edited by Jean Burrus
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:33
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+239. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zMontana
+     Indexed as SUBJECT: sedimentary rocks montana
+     Preceded by "b": sedimentary rocks models congresses
+     Followed by "b": sedimentary rocks montana anaconda deer lodge county
+     From: b27809249 Condon, Steven M Stratigraphic framework of Lower and
+     Upper Cretaceous rocks in central and eastern Montana [electronic
+     resource] / by Steven M. Condon
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Dec 16, 2005
+
+ 
+
+240. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zMontana|zAnaconda-Deer Lodge County
+     Indexed as SUBJECT: sedimentary rocks montana anaconda deer lodge county
+     Preceded by "b": sedimentary rocks montana
+     Followed by "b": sedimentary rocks montana granite county
+     From: b18121056 Lidke, David J Rocks and structure of the north-central
+     part of the Anaconda Range, Deer Lodge and Granite counties, Montana / by
+     David J. Lidke and Chester A. Wallace
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Nov 20, 1994
+
+ 
+
+241. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zMontana|zGranite County
+     Indexed as SUBJECT: sedimentary rocks montana granite county
+     Preceded by "b": sedimentary rocks montana anaconda deer lodge county
+
+                                    Page 57
+     Followed by "b": sedimentary rocks nevada churchill county
+     From: b18121056 Lidke, David J Rocks and structure of the north-central
+     part of the Anaconda Range, Deer Lodge and Granite counties, Montana / by
+     David J. Lidke and Chester A. Wallace
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Nov 20, 1994
+
+ 
+
+242. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zNevada|zChurchill County
+     Indexed as SUBJECT: sedimentary rocks nevada churchill county
+     Preceded by "b": sedimentary rocks montana granite county
+     Followed by "b": sedimentary rocks nevada gabbs valley
+     From: b2767132x  Stratigraphy, tephrochronology, and structural setting of
+     Miocene sedimentary rocks in the Middlegate area, west-central Nevada
+     [microform] / by John H. Stewart ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Nov 30, 2000
+
+ 
+
+243. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zNevada|zGabbs Valley
+     Indexed as SUBJECT: sedimentary rocks nevada gabbs valley
+     Preceded by "b": sedimentary rocks nevada churchill county
+     Followed by "b": sedimentary rocks new mexico
+     From: b27671331  Stratigraphy, tephrochronology, and structural setting of
+     Miocene sedimentary rocks in the Cobble Cuesta area, west-central Nevada
+     [microform] / by John H. Stewart ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Nov 30, 2000
+
+ 
+
+244. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zNew Mexico
+     Indexed as SUBJECT: sedimentary rocks new mexico
+     Preceded by "b": sedimentary rocks nevada gabbs valley
+     Followed by "b": sedimentary rocks newark basin permeability
+     From: b22885638 Dubiel, Russell F Depositional environments of the Upper
+     Triassic Chinle Formation in the eastern San Juan Basin and vicinity, New
+     Mexico [microform] / by Russell F. Dubiel. Trace fossils and mollusks from
+     the upper member of the Wanaka Formation, Chama Basin, New Mexico :
+     evidence for a lacustrine origin / by Jennie L. Ridgley. Stratigraphy,
+     facies, and paleotectonic history of Mississippian rocks in the San Juan
+     Basin of northwestern New Mexico and adjacent areas / by Augustus K.
+     Armstrong and Lee D. Holcomb
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Aug 30, 1995
+
+ 
+
+245. Headings used for the first time
+
+                                    Page 58
+     Field: d650 0|aSedimentary rocks|zNewark Basin|xPermeability
+     Indexed as SUBJECT: sedimentary rocks newark basin permeability
+     Preceded by "b": sedimentary rocks new mexico
+     Followed by "b": sedimentary rocks north america pictorial works
+     From: b26869494 Carleton, Glen B Design and analysis of tracer tests to
+     determine effective porosity and dispersivity in fractured sedimentary
+     rocks, Newark Basin, New Jersey / by Glen B. Carleton, Claire Welty, and
+     Herbert T. Buxton ; prepared in cooperation with the New Jersey Department
+     of Environmental Protection
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Aug 2, 1999
+
+ 
+
+246. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zNorth America|vPictorial works
+     Indexed as SUBJECT: sedimentary rocks north america pictorial works
+     Preceded by "b": sedimentary rocks newark basin permeability
+     Followed by "b": sedimentary rocks north carolina durham region testing
+     From: b10353732 Biederman, Edwin W Atlas of selected oil and gas reservoir
+     rocks from North America : a color guidebook to the petrology of selected
+     oil and gas reservoir rocks from the United States and Canada / Edwin W.
+     Biederman, Jr
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+247. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zNorth Carolina|zDurham Region|xTesting
+     Indexed as SUBJECT: sedimentary rocks north carolina durham region testing
+     Preceded by "b": sedimentary rocks north america pictorial works
+     Followed by "b": sedimentary rocks ohio
+     From: b14818863 Brown, Charles E Determination of rock properties by
+     borehole-geophysical and physical-testing techniques and ground-water
+     quality and movement in the Durham Tirassic basin, North Carolina / by
+     Charles E. Brown
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Nov 18, 1994
+
+ 
+
+248. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zOhio
+     Indexed as SUBJECT: sedimentary rocks ohio
+     Preceded by "b": sedimentary rocks north carolina durham region testing
+     Followed by "b": sedimentary rocks ohio athens county
+     From: b17333143  The Rocks and minerals of Ohio [videorecording] /
+     Instructional Video
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Nov 20, 1994
+
+ 
+
+
+                                    Page 59
+249. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zOhio|zAthens County
+     Indexed as SUBJECT: sedimentary rocks ohio athens county
+     Preceded by "b": sedimentary rocks ohio
+     Followed by "b": sedimentary rocks oregon harney county
+     From: b27674472 Nadon, Greg Sedimentology and provenance of Carboniferous
+     and Permian rocks of Athens County, southeastern Ohio / by Gregory C.
+     Nadon, Elizabeth H. Gierlowski-Kordesch, and Joseph P. Smith ; originally
+     prepared for the 1998 North-Central Section meeting of the Geological
+     Society of America
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: May 19, 2000
+
+ 
+
+250. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zOregon|zHarney County
+     Indexed as SUBJECT: sedimentary rocks oregon harney county
+     Preceded by "b": sedimentary rocks ohio athens county
+     Followed by "b": sedimentary rocks periodicals
+     From: b22246769 Sheppard, Richard A Zeolitic diagenesis of tuffs in
+     Miocene lacustrine rocks near Harney Lake, Harney County, Oregon / by
+     Richard A. Sheppard
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Mar 6, 1995
+
+ 
+
+251. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|vPeriodicals
+     Indexed as SUBJECT: sedimentary rocks periodicals
+     Preceded by "b": sedimentary rocks oregon harney county
+     Followed by "b": sedimentary rocks powder river basin wyo and mont
+     From: b10604777  Carbonates and evaporites
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:32
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+252. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zPowder River Basin (Wyo. and Mont.)
+     Indexed as SUBJECT: sedimentary rocks powder river basin wyo and mont
+     Preceded by "b": sedimentary rocks periodicals
+     Followed by "b": sedimentary rocks rocky mountains drawings
+     From: b17295920 Johnson, Edward A. (Edward Allison), 1940- Depositional
+     history of Jurassic rocks in the area of the Powder River Basin,
+     northeastern Wyoming and southeastern Montana / by Edward A. Johnson
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Nov 19, 1994
+
+ 
+
+253. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zRocky Mountains|xDrawings
+
+                                    Page 60
+     Indexed as SUBJECT: sedimentary rocks rocky mountains drawings
+     Preceded by "b": sedimentary rocks powder river basin wyo and mont
+     Followed by "b": sedimentary rocks rocky mountains region
+     From: b22528775 Geological Survey (U.S.) Composite measured section
+     showing nonopaque heavy minerals in sedimentary rocks of middle
+     Proterozoic to late Tertiary age in the central Rocky Mountains, southwest
+     Wyoming and northwest Colorado / Department of the Interior, U.S.
+     Geological Survey ; by Henry W. Roehler, Wayne A. Chisholm, and Gary B.
+     Schneider
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:35
+     AM
+     Catalog Date: Apr 1, 1995
+
+ 
+
+254. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zRocky Mountains region
+     Indexed as SUBJECT: sedimentary rocks rocky mountains region
+     Preceded by "b": sedimentary rocks rocky mountains drawings
+     Followed by "b": sedimentary rocks south america
+     From: b22525221 Geological Survey (U.S.) Divisions of potential fracture
+     permeability, based on distribution of structures and linear features in
+     sedimentary rocks, northern Great Plains--Rocky Mountains region of North
+     Dakota, South Dakota, Wyoming, and northern Nebraska / Department of the
+     Interior, U.S. Geological Survey ; by Maurice E. Cooley
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:34
+     AM
+     Catalog Date: Apr 1, 1995
+
+ 
+
+255. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zSouth America
+     Indexed as SUBJECT: sedimentary rocks south america
+     Preceded by "b": sedimentary rocks rocky mountains region
+     Followed by "b": sedimentary rocks south carolina dorchester county
+     databases
+     From: b27309435 Keller, Martin, 1958- Argentine precordillera :
+     sedimentary and plate tectonic history of a Laurentian crustal fragment in
+     South America / Martin Keller
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:36
+     AM
+     Catalog Date: Jan 11, 2000
+
+ 
+
+256. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zSouth Carolina|zDorchester
+     County|vDatabases
+     Indexed as SUBJECT: sedimentary rocks south carolina dorchester county
+     databases
+     Preceded by "b": sedimentary rocks south america
+     Followed by "b": sedimentary rocks south china sea
+     From: b27855752  Preliminary stratigraphic database for the subsurface
+     Tertiary and uppermost Cretaceous sediments of Dorchester County, South
+     Carolina [electronic resource] / by Gregory S. Gohn and Lucy E. Edwards,
+     compilers ; prepared in cooperation with the South Carolina Department of
+     Natural Resources
+
+                                    Page 61
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:36
+     AM
+     Catalog Date: Nov 30, 2000
+
+ 
+
+257. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zSouth China Sea
+     Indexed as SUBJECT: sedimentary rocks south china sea
+     Preceded by "b": sedimentary rocks south carolina dorchester county
+     databases
+     Followed by "b": sedimentary rocks tennessee knox county maps
+     From: b40840268  The South China Sea [electronic resource] :
+     paleoceanography and sedimentology / edited by Pinxian Wang, Qianyu Li
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:36
+     AM
+     Catalog Date: Jan 26, 2010
+
+ 
+
+258. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zTennessee|zKnox County|vMaps
+     Indexed as SUBJECT: sedimentary rocks tennessee knox county maps
+     Preceded by "b": sedimentary rocks south china sea
+     Followed by "b": sedimentary rocks truckee river region calif and nev
+     From: b34246800 Harris, Leonard D Distribution of sedimentary rocks in
+     Knox County, Tennessee / by Leonard D. Harris, 1972
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:36
+     AM
+     Catalog Date: Dec 8, 2005
+
+ 
+
+259. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zTruckee River Region (Calif. and Nev.)
+     Indexed as SUBJECT: sedimentary rocks truckee river region calif and nev
+     Preceded by "b": sedimentary rocks tennessee knox county maps
+     Followed by "b": sedimentary rocks virginia
+     From: b22279647 Smoot, Joseph P Field trip guide [microform] :
+     Quaternary-Holocene lacustrine sediments of Lake Lahontan, Truckee River
+     Canyon north of Wadsworth, Nevada / by Joseph P. Smoot
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:36
+     AM
+     Catalog Date: Mar 12, 1995
+
+ 
+
+260. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zVirginia
+     Indexed as SUBJECT: sedimentary rocks virginia
+     Preceded by "b": sedimentary rocks truckee river region calif and nev
+     Followed by "b": sedimentary rocks west u s
+     From: b18223242 Rankin, Douglas W The volcanogenic Mount Rogers formation
+     and the overlying glaciogenic Konnarock formation : two late Proterozoic
+     units in southwestern Virginia / by Douglas W. Rankin
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:36
+     AM
+     Catalog Date: Nov 20, 1994
+
+                                    Page 62
+
+ 
+
+261. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zWest (U.S.)
+     Indexed as SUBJECT: sedimentary rocks west u s
+     Preceded by "b": sedimentary rocks virginia
+     Followed by "b": sedimentary rocks wyoming albany county maps
+     From: b26161746 Sheppard, Richard A Occurrences of erionite in sedimentary
+     rocks of western United States [microform] / by Richard A. Sheppard
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:36
+     AM
+     Catalog Date: May 19, 1998
+
+ 
+
+262. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zWyoming|zAlbany County|vMaps
+     Indexed as SUBJECT: sedimentary rocks wyoming albany county maps
+     Preceded by "b": sedimentary rocks west u s
+     Followed by "b": sedimentary rocks wyoming carbon county maps
+     From: b22529731 Geological Survey (U.S.) Geologic map of Precambrian
+     metasedimentary rocks of the Medicine Bow Mountains, Albany and Carbon
+     counties, Wyoming / U.S. Department of the Interior, U.S. Geological
+     Survey ; by R.S. Houston and K.E. Karlstrom
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:36
+     AM
+     Catalog Date: Apr 1, 1995
+
+ 
+
+263. Headings used for the first time
+     Field: d650 0|aSedimentary rocks|zWyoming|zCarbon County|vMaps
+     Indexed as SUBJECT: sedimentary rocks wyoming carbon county maps
+     Preceded by "b": sedimentary rocks wyoming albany county maps
+     Followed by "a": sedimentary structures
+     From: b22529731 Geological Survey (U.S.) Geologic map of Precambrian
+     metasedimentary rocks of the Medicine Bow Mountains, Albany and Carbon
+     counties, Wyoming / U.S. Department of the Interior, U.S. Geological
+     Survey ; by R.S. Houston and K.E. Karlstrom
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:03:36
+     AM
+     Catalog Date: Apr 1, 1995
+
+ 
+
+264. Headings used for the first time
+     Field: d650 0|aSiliceous rocks|xAnalysis
+     Indexed as SUBJECT: siliceous rocks analysis
+     Preceded by "b": siliceous rocks
+     Followed by "b": siliceous rocks congresses
+     From: b10472952 Potts, P. J A handbook of silicate rock analysis / P.J.
+     Potts
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:04:29
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+                                    Page 63
+
+265. Headings used for the first time
+     Field: d650 0|aSiliceous rocks|xCongresses
+     Indexed as SUBJECT: siliceous rocks congresses
+     Preceded by "b": siliceous rocks analysis
+     Followed by "b": siliceous rocks maps
+     From: b11004587 SEPM Research Symposium (1981 : San Francisco, Calif.) The
+     Monterey Formation and related siliceous rocks of California : proceedings
+     of an SEPM Research Symposium dedicated to examine the paleontology,
+     sedimentology, depositional environments, and diagenesis of the Monterey
+     Formation / edited by Robert E. Garrison and Robert G. Douglas with
+     contributing editors, K.E. Pisciotto, Caroline M. Isaacs, James C. Ingle
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:04:29
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+266. Headings used for the first time
+     Field: d650 0|aSiliceous rocks|vMaps
+     Indexed as SUBJECT: siliceous rocks maps
+     Preceded by "b": siliceous rocks congresses
+     Followed by "a": silicides
+     From: b22508788 Geological Survey (U.S.) Preliminary map showing the
+     occurrence of siliceous rocks in dentral North Carolina derived from
+     enhanced principal component Landsat images / Department of the Interior,
+     U.S. Geological Survey ; by R.G. Schmidt and M.H. Koslow
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:04:29
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+267. Headings used for the first time
+     Field: d650 0|aSpitfire (Fighter plane)|vDrama
+     Indexed as SUBJECT: spitfire fighter plane drama
+     Preceded by "b": spitfire fighter plane
+     Followed by "a 4XX": spitfire fighter planes
+     From: b40256832  Spitfire [videorecording] / an RKO Radio picture ;
+     original story by Henry C. James & Kay Strueby ; screen play by Miles
+     Malleson and Anatole DeGrunwald ; produced and directed by Leslie Howard
+     Function: mcat  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:10:04
+     AM
+     Catalog Date: Jun 29, 2009
+
+ 
+
+268. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zAlaska
+     Indexed as SUBJECT: ultrabasic rocks alaska
+     Preceded by "b": ultrabasic rocks
+     Followed by "b": ultrabasic rocks atlantic states maps
+     From: b23159960 Himmelberg, Glen R Characteristics and petrogenesis of
+     Alaskan-type ultramafic-mafic intrusions, southeastern Alaska / by Glen R.
+     Himmelberg and Robert A. Loney
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:38
+     AM
+     Catalog Date: Dec 13, 1995
+
+                                    Page 64
+
+ 
+
+269. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zAtlantic States|vMaps
+     Indexed as SUBJECT: ultrabasic rocks atlantic states maps
+     Preceded by "b": ultrabasic rocks alaska
+     Followed by "b": ultrabasic rocks california
+     From: b31160104 Larrabee, David M. (David Marcel), 1909- Map showing
+     distribution of ultramafic and intrusive mafic rocks from northern New
+     Jersey to eastern Alabama / by David M. Larrabee ; Department of the
+     Interior, United States Geological Survey
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:38
+     AM
+     Catalog Date: Jun 9, 2004
+
+ 
+
+270. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zCalifornia
+     Indexed as SUBJECT: ultrabasic rocks california
+     Preceded by "b": ultrabasic rocks atlantic states maps
+     Followed by "b": ultrabasic rocks maryland
+     From: b14532001 Kruckeberg, Arthur R California serpentines : flora,
+     vegetation, geology, soils, and management problems / Arthur R. Kruckeberg
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:38
+     AM
+     Catalog Date: Apr 23, 1990
+
+ 
+
+271. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zMaryland
+     Indexed as SUBJECT: ultrabasic rocks maryland
+     Preceded by "b": ultrabasic rocks california
+     Followed by "b": ultrabasic rocks new england maps
+     From: b22168424 Drake, Avery Ala, 1927- Stratigraphic notes, 1993 / by
+     Avery Ala Drake, Jr., and Louis Pavlides
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:38
+     AM
+     Catalog Date: Jan 23, 1995
+
+ 
+
+272. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zNew England|vMaps
+     Indexed as SUBJECT: ultrabasic rocks new england maps
+     Preceded by "b": ultrabasic rocks maryland
+     Followed by "b": ultrabasic rocks northeastern states maps
+     From: b34171733 Larrabee, David M. (David Marcel), 1909- Map showing
+     distribution of ultramafic and intrusive mafic rocks from New York to
+     Maine / by David M. Larrabee, 1971
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:39
+     AM
+     Catalog Date: Nov 11, 2005
+
+ 
+
+
+                                    Page 65
+273. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zNortheastern States|vMaps
+     Indexed as SUBJECT: ultrabasic rocks northeastern states maps
+     Preceded by "b": ultrabasic rocks new england maps
+     Followed by "b": ultrabasic rocks northwest canadian
+     From: b34171733 Larrabee, David M. (David Marcel), 1909- Map showing
+     distribution of ultramafic and intrusive mafic rocks from New York to
+     Maine / by David M. Larrabee, 1971
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:39
+     AM
+     Catalog Date: Nov 11, 2005
+
+ 
+
+274. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zNorthwest, Canadian
+     Indexed as SUBJECT: ultrabasic rocks northwest canadian
+     Preceded by "b": ultrabasic rocks northeastern states maps
+     Followed by "b": ultrabasic rocks russia siberia maps
+     From: b35051991  Serpentine geoecology of western North America : geology,
+     soils, and vegetation / E.B. Alexander ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:39
+     AM
+     Catalog Date: Jan 11, 2007
+
+ 
+
+275. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zRussia|zSiberia|vMaps
+     Indexed as SUBJECT: ultrabasic rocks russia siberia maps
+     Preceded by "b": ultrabasic rocks northwest canadian
+     Followed by "b": ultrabasic rocks saudi arabia maps
+     From: b22287449 Geological Survey (U.S.) Geologic map of ophiolite
+     complexes and associated volcanic arc and metamorphic terranes of
+     northeastern Russia [microform] / U.S. Department of the Interior, U.S.
+     Geological Survey ; by A.I. Khanchuk, S.A. Palandzjan, and I.V. Panchenko
+     ; in cooperation with Far East Branch of Russian Academy of Sciences
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:39
+     AM
+     Catalog Date: Mar 12, 1995
+
+ 
+
+276. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zSaudi Arabia|vMaps
+     Indexed as SUBJECT: ultrabasic rocks saudi arabia maps
+     Preceded by "b": ultrabasic rocks russia siberia maps
+     Followed by "b": ultrabasic rocks south atlantic states maps
+     From: b22512512 Geological Survey (U.S.) Geologic map of Harrat Hutaymah,
+     with petrologic classification and distribution of ultramafic inclusions,
+     Saudi Arabia / Department of the Interior, U.S. Geological Survey ; by
+     Carl R. Thornber ; prepared in cooperation with the Saudi Arabian Deputy
+     Ministry for Petroleum and Mineral Resources
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:39
+     AM
+     Catalog Date: Mar 31, 1995
+
+ 
+
+                                    Page 66
+
+277. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zSouth Atlantic States|xMaps
+     Indexed as SUBJECT: ultrabasic rocks south atlantic states maps
+     Preceded by "b": ultrabasic rocks saudi arabia maps
+     Followed by "b": ultrabasic rocks united states
+     From: b2497724x Geological Survey (U.S.) Mineral resource assessment of
+     mafic and ultramafic rocks in the Greenville 1{u00B0} x 2{u00B0}
+     quadrangle, South Carolina, Georgia, and North Carolina / U.S. Department
+     of the Interior, U.S. Geological Survey ; by Frank G. Lesure, John P.
+     D'Agostino, and David Gottfried
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:39
+     AM
+     Catalog Date: Feb 25, 1998
+
+ 
+
+278. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zUnited States
+     Indexed as SUBJECT: ultrabasic rocks united states
+     Preceded by "b": ultrabasic rocks south atlantic states maps
+     Followed by "b": ultrabasic rocks west u s
+     From: b40773838  Geophysical delineation of Mg-rich ultramafic rocks for
+     mineral carbon sequestration [electronic resource] / by A.E. McCafferty
+     ... [et al.] ; prepared in cooperation with the Earth Institute of
+     Columbia University, New York City
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:39
+     AM
+     Catalog Date: Jan 11, 2010
+
+ 
+
+279. Headings used for the first time
+     Field: d650 0|aUltrabasic rocks|zWest (U.S.)
+     Indexed as SUBJECT: ultrabasic rocks west u s
+     Preceded by "b": ultrabasic rocks united states
+     Followed by "a 4XX": ultracapacitors
+     From: b35051991  Serpentine geoecology of western North America : geology,
+     soils, and vegetation / E.B. Alexander ... [et al.]
+     Function: mcu  Group: 0  Initials: sjn  Entry Date: Aug 11, 2010 11:54:39
+     AM
+     Catalog Date: Jan 11, 2007
+
+ 
+
+280. Headings used for the first time
+     Field: d651 0|aVit{u00F3}ria (Esp{u00ED}rito Santo, Brazil)|vMaps
+     Indexed as SUBJECT: vitoria espirito santo brazil maps
+     Preceded by "b": vitoni ventura 1442 1522 exhibitions
+     Followed by "b": vitoria francisco de 1486 1546
+     From: b41243353 Quatro Rodas (Firm) Sudeste : escala de 1:2.000.000 :
+     fam{u00ED}lia rodovi{u00E1}rio, uso tur{u00ED}stico e profissional / Guia
+     Quatro Rodas ; Abril
+     Function: oclc  Group: 0  Initials: kag  Entry Date: Aug 11, 2010 3:25:54
+     PM
+     Catalog Date: Aug 11, 2010
+
+ 
+
+                                    Page 67
+
+281. Headings used for the first time
+     Field: d650 0|aWoodwind quartets (Clarinets (2), saxophones (2)),
+     Arranged|vScores and parts
+     Indexed as SUBJECT: woodwind quartets clarinets    2 saxophones    2
+     arranged scores and parts
+     Preceded by "b": woodwind quartets bassoons    4 scores and parts
+     Followed by "b": woodwind quartets clarinets    3 saxophone arranged
+     scores and parts
+     From: b41243067 Wiberny, Heiner Ulla in Africa; arr
+     Function: oclc  Group: 0  Initials: acq  Entry Date: Aug 11, 2010 11:35:05
+     AM
+
+ 
+
+282. Headings used for the first time
+     Field: d650 0|aWoodwind quartets (Clarinets (3), saxophone),
+     Arranged|vScores and parts
+     Indexed as SUBJECT: woodwind quartets clarinets    3 saxophone arranged
+     scores and parts
+     Preceded by "b": woodwind quartets clarinets    2 saxophones    2 arranged
+     scores and parts
+     Followed by "a": woodwind quartets clarinets    4
+     From: b41243067 Wiberny, Heiner Ulla in Africa; arr
+     Function: oclc  Group: 0  Initials: acq  Entry Date: Aug 11, 2010 11:35:05
+     AM
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Page 68
