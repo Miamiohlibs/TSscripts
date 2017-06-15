@@ -35,7 +35,7 @@
 #ce ----------------------------------------------------------------------------
 
 ;######### INCLUDES AND OPTIONS #########
-
+#Include <TSCustomFunction.au3>
 AutoItSetOption("WinTitleMatchMode", 4)
 Opt("WinSearchChildren", 1)
 AutoItSetOption("MustDeclareVars", 1)
@@ -55,8 +55,8 @@ EndIf
 _ClearBuffer()
 
 ;focus on main search screen
-If WinExists("[TITLE:Millennium Cataloging; CLASS:SunAwtFrame]") Then
-	WinActivate("[TITLE:Millennium Cataloging; CLASS:SunAwtFrame]")
+If WinExists("[TITLE:Sierra; CLASS:SunAwtFrame]") Then
+	WinActivate("[TITLE:Sierra; CLASS:SunAwtFrame]")
 Else
 	MsgBox(64, "nope", "Please log into Millennium.")
 	Exit
