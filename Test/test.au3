@@ -58,7 +58,7 @@ _ClearBuffer()
 If WinExists("[TITLE:Sierra; CLASS:SunAwtFrame]") Then
 	WinActivate("[TITLE:Sierra; CLASS:SunAwtFrame]")
 Else
-	MsgBox(64, "nope", "Please log into Millennium.")
+	MsgBox(64, "nope", "Please log into Sierra.")
 	Exit
 EndIf
 
