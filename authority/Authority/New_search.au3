@@ -60,7 +60,6 @@ dim $radio1, $radio2, $radio3, $radio4, $radio5, $radio6, $search, $tab
 
 ;################################ MAIN ROUTINE #################################
 _ClearBuffer()
-
 WinActivate("Microsoft Word")
 WinWaitActive("Microsoft Word")
 
