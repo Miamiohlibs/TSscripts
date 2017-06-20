@@ -1,43 +1,43 @@
 #cs ----------------------------------------------------------------------------
 
-	AutoIt Version: 3.3.6.1
-	Author: Becky Yoose, Bibliographic Systems Librarian, Miami University
-	yoosebj@muohio.edu OR b.yoose@gmail.com
+ AutoIt Version: 3.3.6.1
+ Author: Becky Yoose, Bibliographic Systems Librarian, Miami University
+		 yoosebj@muohio.edu OR b.yoose@gmail.com
 
-	Name of script: ebook
-	Script set: Order (order)
+ Name of script: ebook
+ Script set: Order (order)
 
-	Script Function:
+ Script Function:
 
 
 	##### NOTE ##### The user must highlight and copy the entire GOBI record
 	before starting the script. Copy everything, including the yellow box
 	area for notes.
 
-	Programs used: GOBI 3
-	(Script tested in Firefox 3+ and IE 7+)
-	Millennium Acquisitions Module JRE v 1.6.0_02
-	(Main search screen open)
+ Programs used: GOBI 3
+					(Script tested in Firefox 3+ and IE 7+)
+				Millennium Acquisitions Module JRE v 1.6.0_02
+					(Main search screen open)
 
 
-	Last revised:
+ Last revised:
 
-	PLEASE NOTE - This script uses a custom UDF library called TSCustomFunction.
-	The script will not run properly (if launched from .au3 file)
-	if that file is not included in the include folder in the
-	AutoIt directory.
+ PLEASE NOTE - This script uses a custom UDF library called TSCustomFunction.
+			   The script will not run properly (if launched from .au3 file)
+			   if that file is not included in the include folder in the
+			   AutoIt directory.
 
-	Copyright (C): 2009 by Miami University Libraries.  Libraries
-	may freely use and adapt this macro with due credit.  Commercial use
-	prohibited without written permission.
+ Copyright (C): 2009 by Miami University Libraries.  Libraries
+ may freely use and adapt this macro with due credit.  Commercial use
+ prohibited without written permission.
 
-	For more information about the functions/commands below, please see the online
-	AutoIt help file at http://www.autoitscript.com/autoit3/docs/
+ For more information about the functions/commands below, please see the online
+ AutoIt help file at http://www.autoitscript.com/autoit3/docs/
 
 #ce ----------------------------------------------------------------------------
 
 ;######### INCLUDES AND OPTIONS #########
-#include <TSCustomFunction.au3>
+#Include <TSCustomFunction.au3>
 #include <IE.au3>
 #include <date.au3>
 #include <GUIConstantsEx.au3>
@@ -84,7 +84,7 @@ $BROWSER = StringInStr($WIN_TITLE, "Mozilla Firefox")
 
 ;grab gobi info from clipboard and parse out into array
 $GOBI_INFO = ClipGet()
-$GOBI_INFO_PREP = StringRegExpReplace($GOBI_INFO, "[\r\n\t]+", "fnord")
+$GOBI_INFO_PREP = StringRegExpReplace ($GOBI_INFO, "[\r\n\t]+", "fnord")
 $GOBI_INFO_ARRAY_MASTER = StringSplit($GOBI_INFO_PREP, "fnord", 1)
 _ArrayDisplay($GOBI_INFO_ARRAY_MASTER)
 
@@ -150,7 +150,7 @@ $SUPO = StringInStr($COST_L, "SUPO")
 Select
 	Case $SUPO > 0
 		$ORD_NOTE = "s"
-	Case Else
+	CASE Else
 		MsgBox(64, "SUPO not available", "The ebook does not have a SUPO option listed. The script will now exit.")
 		Exit
 EndSelect
@@ -158,11 +158,11 @@ EndSelect
 ;multiple funds check. Multiple funds in GOBI should be separated with a /
 $FUND_S = StringInStr($FUND, "/")
 $FUND_C = StringInStr($FUND, "/")
-If $FUND_S > 0 Or $FUND_C > 0 Then
-	$multi = 1
-	_StoreVar("$multi")
-Else
-	$multi = 0
+If $FUND_S > 0 or $FUND_C > 0 Then
+ $multi = 1
+ _StoreVar("$multi")
+ Else
+	 $multi = 0
 EndIf
 
 
@@ -224,8 +224,8 @@ If $win = 1 Then
 EndIf
 
 #cs
-	input box asks user if they want to search by title, isbn, series, call number, or go straight to OCLC
-	hitting cancel button shuts down the script when existing records are found in system
+input box asks user if they want to search by title, isbn, series, call number, or go straight to OCLC
+hitting cancel button shuts down the script when existing records are found in system
 #ce
 
 While $win = 0
@@ -252,26 +252,26 @@ _createRecord()
 
 ;~ ########### local functions ##############
 Func choice()
-	$decide = InputBox("Search options", "What search do you want to perform next? Type in the corresponding letter." & @CR & "C: Call #" & @CR & "I: ISBN" & @CR & "S: Series" & @CR & "T: Title" & @CR & "O: Create BIB/ORDER records" & @CR & "R: Record Diff Ed. call #", "", "", 200, 230)
+	$decide = InputBox("Search options", "What search do you want to perform next? Type in the corresponding letter." & @CR & "C: Call #"& @CR & "I: ISBN" & @CR & "S: Series" & @CR & "T: Title"  & @CR & "O: Create BIB/ORDER records" & @CR & "R: Record Diff Ed. call #", "", "", 200, 230)
 	$decide = StringUpper($decide)
-EndFunc   ;==>choice
+EndFunc
 
-Func search($x, $y)
+Func search ($x, $y)
 	If $x <> "" Then
-		WinActivate("[TITLE:Millennium Acquisitions; CLASS:SunAwtFrame]")
-		WinWaitActive("[TITLE:Millennium Acquisitions; CLASS:SunAwtFrame]")
-		Sleep(0100)
-		_SendEx("!n")
-		Sleep(0100)
-		_SendEx("!n")
-		Sleep(0100)
-		_SendEx($y)
-		Sleep(0100)
-		_SendEx($x)
-		Sleep(0100)
-		_SendEx("{ENTER}")
-		Sleep(1100)
-		$win = WinExists("[REGEXPTITLE:\A[bo][0-9ax]{7,8}; CLASS:SunAwtFrame]")
+	WinActivate("[TITLE:Millennium Acquisitions; CLASS:SunAwtFrame]")
+	WinWaitActive("[TITLE:Millennium Acquisitions; CLASS:SunAwtFrame]")
+	Sleep(0100)
+	_SendEx("!n")
+	Sleep(0100)
+	_SendEx("!n")
+	Sleep(0100)
+	_SendEx($y)
+	Sleep(0100)
+	_SendEx($x)
+	Sleep(0100)
+	_SendEx("{ENTER}")
+	Sleep(1100)
+	$win = WinExists("[REGEXPTITLE:\A[bo][0-9ax]{7,8}; CLASS:SunAwtFrame]")
 		If $win = 1 And $y = "c" Then
 			$decide = MsgBox(68, "Different edition?", "Is this a different edition?")
 			Switch $decide
@@ -281,21 +281,21 @@ Func search($x, $y)
 					WinClose("[REGEXPTITLE:\A[bo][0-9ax]{7,8}; CLASS:SunAwtFrame]")
 					WinWaitClose("[REGEXPTITLE:\A[bo][0-9ax]{7,8}; CLASS:SunAwtFrame]")
 					$win = 0
-			EndSwitch
+				EndSwitch
 			$win = 0
-		ElseIf $win = 1 And $y <> "c" Then
+		elseif $win = 1 and $y <>"c" Then
 			$decide = MsgBox(68, "Added copy/volume?", "Is this an added copy/volume?")
-			Switch $decide
-				Case 6
-					Exit
-				Case 7
-			EndSwitch
+				Switch $decide
+					Case 6
+						Exit
+					Case 7
+				EndSwitch
 		EndIf
 		$win = 0
 	Else
 		MsgBox(64, "Nothing to search", "GOBI did not supply the information needed to perform this search.")
 	EndIf
-EndFunc   ;==>search
+EndFunc
 
 
 Func _createRecord()
@@ -339,7 +339,7 @@ Func _createRecord()
 	WinActivate("[TITLE:New ORDER; CLASS:SunAwtFrame]", "")
 	WinWaitActive("[TITLE:New ORDER; CLASS:SunAwtFrame]", "")
 	_SendEx("{DOWN}")
-	$VENDOR = InputBox("Vendor", "Enter vendor code for item", "ybp")
+	$VENDOR = InputBox ("Vendor", "Enter vendor code for item", "ybp")
 	WinActivate("[TITLE:New ORDER; CLASS:SunAwtFrame]", "")
 	WinWaitActive("[TITLE:New ORDER; CLASS:SunAwtFrame]", "")
 	_SendEx("onlbk")
@@ -381,4 +381,4 @@ Func _createRecord()
 	_SendEx("b")
 	Sleep(0100)
 	Exit
-EndFunc   ;==>_createRecord
+EndFunc
