@@ -72,14 +72,14 @@ EndIf
 
 _ClearBuffer()
 
-If WinExists("[TITLE:Millennium Cataloging; CLASS:SunAwtFrame]") Then
-	WinActivate("[TITLE:Millennium Cataloging; CLASS:SunAwtFrame]")
+If WinExists("[TITLE:Sierra; CLASS:SunAwtFrame]") Then
+	WinActivate("[TITLE:Sierra; CLASS:SunAwtFrame]")
 Else
-	MsgBox(64, "nope", "Please log into Millennium.")
+	MsgBox(64, "nope", "Please log into Sierra.")
 	Exit
 EndIf
 
-WinWaitActive("[TITLE:Millennium Cataloging; CLASSS:SunAwtFrame]")
+WinWaitActive("[TITLE:Sierra; CLASSS:SunAwtFrame]")
 
 ;scan in library barcode, searches catalog by barcode
 $barcode = InputBox("Barcode", "Scan the item's barcode", "")

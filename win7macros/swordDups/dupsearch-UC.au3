@@ -103,7 +103,7 @@ Switch $decide
 		Exit
 EndSwitch
 
-_IEErrorHandlerRegister ()
+
 
 $oIE_1 = _IECreateEmbedded ()
 $oIE_2 = _IECreateEmbedded ()

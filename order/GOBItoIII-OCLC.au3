@@ -271,7 +271,6 @@ $ISBN = StringStripWS($ISBN, 8)
 ;~ $ISBN = "9780765680785" ;Marketplace test - no new books
 
 ;~ ##### GUI FOR AMAZON API SEARCH #####
-_IEErrorHandlerRegister ()
 $oIE = _IECreateEmbedded ()
 GUICreate("Embedded Web control Test", 200, 200, _
 		(@DesktopWidth - 640) / 2, (@DesktopHeight - 580) / 2)

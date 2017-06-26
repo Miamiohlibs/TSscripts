@@ -6,7 +6,7 @@ AutoItSetOption("MustDeclareVars", 1)
 
 #include <Array.au3>
 #Include <Misc.au3>
-#include <IE.au3> 
+#include <IE.au3>
 #include <date.au3>
 #include <GUIConstantsEx.au3>
 #include <WindowsConstants.au3>
@@ -67,7 +67,7 @@ If $DISCOUNT > -1  And $UK > -1 Then
 Else
 	$COST = arrayItemString($GOBI_INFO_ARRAY_MASTER, "US List:")
 	$COST = StringTrimLeft($COST, 8)
-	
+
 	; START FIGURING 20% OR 16% DISCOUNT
 
 	$PROFILE = arrayItemString($GOBI_INFO_ARRAY_MASTER, "Handled On Approval YBP:")
@@ -100,7 +100,7 @@ StoreVar("$COST")
 
 ;stupid IE workaround - cut and pasting text from IE different than in FF
 
-If $BROWSER = 0 Then 
+If $BROWSER = 0 Then
 	$ISBN_N = StringInStr($ISBN, "ISBN:")
 	$ISBN = StringMid($ISBN, $ISBN_N, 18)
 	$ISBN = StringTrimLeft($ISBN, 5)
@@ -222,7 +222,7 @@ $ISBN = StringStripWS($ISBN, 8)
 ;~ $ISBN = "0380711648" ;Marketplace test
 
 ;~ ####################### GUI TOOL #############################
-_IEErrorHandlerRegister ()
+
 
 $oIE = _IECreateEmbedded ()
 GUICreate("Embedded Web control Test", 200, 200, _
@@ -253,12 +253,12 @@ If $DIFF > 0 Then
 		$AMAZON_L = "Amazon Marketplace"
 		$AMAZON_SEARCH = 1
 ;~ 		$close = MsgBox (0, "", "Amazon Marketplace is cheaper")
-	Else	
+	Else
 ;~ 		$close= MsgBox (0, "", "Amazon's cheaper")
 		$AMAZON_L = "Amazon.com"
 		$AMAZON_SEARCH = 1
 	EndIf
-ElseIf $DIFF <= 0 Then 
+ElseIf $DIFF <= 0 Then
 ;~ 	$close = MsgBox (0, "", "YBP's cheaper")
 	$close = 1
 EndIf
@@ -298,7 +298,7 @@ GUIDelete()
 ;start search in III
 If WinExists("[TITLE:Millennium Acquisitions; CLASS:com.iii.milmainpanel$3]") Then
 	WinActivate("[TITLE:Millennium Acquisitions; CLASS:com.iii.milmainpanel$3]")
-Else 
+Else
 	MsgBox(64, "nope", "Please log into Millennium.")
 	Exit
 
@@ -324,7 +324,7 @@ If $win = 1 Then
 	EndSwitch
 	$decide = MsgBox(68, "Different edition?", "Is this a different edition?")
 	Switch $decide
-		Case 6 
+		Case 6
 			$DIFF_ED = InputBox("Call number", "Please enter the diff ed. call number.", $CALL_N)
 		Case 7
 	EndSwitch
@@ -354,12 +354,12 @@ While $win = 0
 		Case @error ;el cancel button
 			Exit
 	EndSwitch
-WEnd	
+WEnd
 
 
 If WinExists("OCLC Connexion") Then
 	WinActivate("OCLC Connexion")
-Else 
+Else
 	MsgBox(64, "nope", "Please open and log into Connexion. Click ok when you are logged in")
 EndIf
 WinWaitActive("OCLC Connexion")
@@ -379,7 +379,7 @@ StoreVar("$DIFF_ED")
 ;~ ########### functions ##############
 
 Func arrayItemString($y, $x)
-	
+
 	Local $z
 	Local $w
 	$w = _ArraySearch($y, $x, 0, 0, 0, 1)
@@ -387,7 +387,7 @@ Func arrayItemString($y, $x)
 		$z = _ArrayToString($y, @TAB, $w, $w)
 		Return $z
 	EndIf
-	
+
 EndFunc
 
 
@@ -396,13 +396,13 @@ Func choice()
 
 	$decide = InputBox("Search options", "What search do you want to perform next? Type in the corresponding letter." & @CR & "C: Call #"& @CR & "I: ISBN" & @CR & "S: Series" & @CR & "T: Title"  & @CR & "O: OCLC" & @CR & "R: Record Diff Ed. call #", "", "", 200, 230)
 	$decide = StringUpper($decide)
-			
+
 EndFunc
-	
+
 
 
 Func search ($x, $y)
-	If $x <> "" Then	
+	If $x <> "" Then
 	WinActivate("[TITLE:Millennium Acquisitions; CLASS:com.iii.milmainpanel$3]")
 	WinWaitActive("[TITLE:Millennium Acquisitions; CLASS:com.iii.milmainpanel$3]")
 	Sleep(0100)
@@ -420,7 +420,7 @@ Func search ($x, $y)
 		If $win = 1 And $y = "c" Then
 			$decide = MsgBox(68, "Different edition?", "Is this a different edition?")
 			Switch $decide
-				Case 6 
+				Case 6
 					$DIFF_ED = InputBox("Call number", "Please enter the diff ed. call number.", $CALL_N)
 				Case 7
 					WinClose("[REGEXPTITLE:[bo]; CLASS:com.iii.ShowRecord$2]")
@@ -429,14 +429,14 @@ Func search ($x, $y)
 			EndSwitch
 		EndIf
 	Else
-		MsgBox(64, "Nothing to search", "GOBI did not supply the information needed to perform this search.") 
+		MsgBox(64, "Nothing to search", "GOBI did not supply the information needed to perform this search.")
 	EndIf
 EndFunc
 
 ;########### fuction to fix sticking mod keys #############
 Func _SendEx($ss)
     Local $iT = TimerInit()
-    
+
     While _IsPressed("10") Or _IsPressed("11") Or _IsPressed("12")
         If TimerDiff($iT) > 1000 Then
             MsgBox(262144, "Warning", "Shift, Ctrl and Alt Keys need to be released to proceed!" & @CR & "Click OK to release keys.")
@@ -446,7 +446,7 @@ Func _SendEx($ss)
 		EndIf
     WEnd
     Send($ss)
-    
+
 EndFunc ;==>_SendEx
 
 ;############## end function to fix sticking mod keys #########

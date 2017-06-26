@@ -96,7 +96,7 @@ Switch $decide
 EndSwitch
 
 
-_IEErrorHandlerRegister ()
+
 
 $oIE_1 = _IECreateEmbedded ()
 $oIE_2 = _IECreateEmbedded ()
@@ -125,7 +125,6 @@ $decide = MsgBox(4, "Search Ohiolink?", "Do you want to search Ohiolink?")
 
 Switch $decide
 	Case 6
-		_IEErrorHandlerRegister ()
 
 		$oIE_1 = _IECreateEmbedded ()
 		GUICreate("SWORD Book Search", 800, 600,0,0, $WS_OVERLAPPEDWINDOW + $WS_VISIBLE + $WS_CLIPSIBLINGS + $WS_CLIPCHILDREN)

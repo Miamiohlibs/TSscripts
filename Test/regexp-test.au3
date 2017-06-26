@@ -1,0 +1,17 @@
+#Include <TSCustomFunction.au3>
+
+Dim $BIB_NUM
+
+
+$BIB_NUM = WinGetTitle("[REGEXPTITLE:\A[b][0-9ax]{8}; CLASS:SunAwtFrame]")
+
+;focus on Notepad: toggle with code above to testing purposes
+WinActivate("Untitled")
+WinWaitActive("Untitled")
+
+;send 949 line
+_SendEx("^{END}")
+Sleep(0100)
+_SendEx("{ENTER}949{SPACE 2}*recs-b;b3--;ov-." & $BIB_NUM)
+
+_ClearBuffer

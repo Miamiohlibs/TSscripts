@@ -44,11 +44,19 @@ Dim $PG_NUM, $INDEX
 
 ;################################ MAIN ROUTINE #################################
 ;focus on Connexion screen
-If WinExists("OCLC Connexion") Then
-	WinActivate("OCLC Connexion")
+;~ If WinExists("OCLC Connexion") Then
+;~ 	WinActivate("OCLC Connexion")
+;~ Else
+;~ 	MsgBox(64, "nope", "Please open and log into Connexion. Click ok when you are logged in")
+;~ EndIf
+
+;testing script for the code block above
+If WinExists("Untitled") Then
+	WinActivate("Untitled")
 Else
-	MsgBox(64, "nope", "Please open and log into Connexion. Click ok when you are logged in")
-EndIf
+	MsgBox(64, "nope", "please open connexion and log in")
+	EndIf
+
 
 ;Start prompts for information about page numbers and index
 $PG_NUM = InputBox("Page Numbers?", "Enter page number(s) of bibliography, if appropriate.", "")

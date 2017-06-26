@@ -8,7 +8,7 @@
 ;########### fuction to fix sticking mod keys #############
 Func _SendEx($ss)
     Local $iT = TimerInit()
-    
+
     While _IsPressed("10") Or _IsPressed("11") Or _IsPressed("12")
         If TimerDiff($iT) > 1000 Then
             MsgBox(262144, "Warning", "Shift, Ctrl and Alt Keys need to be released to proceed!" & @CR & "Click OK to release keys.")
@@ -18,7 +18,7 @@ Func _SendEx($ss)
 		EndIf
     WEnd
     Send($ss)
-    
+
 EndFunc ;==>_SendEx
 
 ;############## end function to fix sticking mod keys #########
@@ -70,7 +70,7 @@ EndIf
 ;~ $OCLC_NUM = "45487059"
 
 
-_IEErrorHandlerRegister ()
+
 
 $oIE_1 = _IECreateEmbedded ()
 $oIE_2 = _IECreateEmbedded ()
