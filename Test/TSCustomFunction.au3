@@ -6,7 +6,7 @@
  AutoIt Version: 3.4.4
  Authors:
  Martin Patrick, Academic Resident Librarian, Miami University
-		patricm@miamioh.edu OR martinpatrick@outlook.com
+		patricm@miamioh.edu OR martinipatrick@gmail.com
  Jason Paul Michel, User Experience Librarian, Miami University
 		micheljp@miamioh.edu
  Becky Yoose, Bibliographic Systems Librarian, Miami University
