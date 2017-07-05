@@ -109,12 +109,70 @@ from time import sleep
 # for i in range(0, len(number)):
 #     print(number[i])
 
+# #6.5
+# number = "9,223,372,036,854,775,807"
+# cleanedNumber = ''
+#
+# for i in range(0, len(number)):
+#     if number[i] in '0123456789':
+#         cleanedNumber = cleanedNumber + number[i]
+#
+# newNumber = int(cleanedNumber)
+# print("the number is {}".format(newNumber))
+
+#6.6
+# number = "9,223,372,036,854,775,807"
+# cleanedNumber = ''
+#
+# for char in number:
+#     if char in '0123456789':
+#         cleanedNumber = cleanedNumber + char
+#
+# newNumber = int(cleanedNumber)
+# print("the number is {}".format(newNumber))
+#
+# for state in ["not pinin'", "no more", "a stiff","bereft of life"]:
+#     print("this parrot is"+state)
+#     #print("this parrot is {}".format(state))
+#
+# for i in range(0,100,5):
+#     print("i is {}".format(i))
+#
+# for i in range(1,13):
+#     for j in range(1,13):
+#         print("{1} times {0} is {2}".format(i,j, i*j), end='\t')
+#     print('')
+
+
+#6.7
+# shopping_list = ["milk","pasta","eggs","spam","bread","rice"]
+# for item in shopping_list:
+#     if item == 'spam': #if loop takes spam out of the output list; skips it
+#         print("i am ignoring "+ item)
+#         #continue
+#         break #breaks out of the loop when condition is met
+#     print("buy " + item)
+
+#below code breaks the for loop prior to printing, to save processing if condition is met
+# meal = ["egg", "bacon","spam","sausages"]
+#
+# nasty_food_item = ''
+# for item in meal:
+#     if item == 'spam':
+#         nasty_food_item = item
+#         break
+# else:
+#     print("i'll have a plate of that, then please.")
+# if nasty_food_item:
+#     print("can't I have anything without spam in it? ")
+
+#6.8
 number = "9,223,372,036,854,775,807"
 cleanedNumber = ''
 
 for i in range(0, len(number)):
     if number[i] in '0123456789':
-        cleanedNumber = cleanedNumber + number[i]
+        cleanedNumber += number[i]
 
 newNumber = int(cleanedNumber)
 print("the number is {}".format(newNumber))
