@@ -204,6 +204,8 @@ Switch $var
 	    $C_INI = "js"
     Case "cliftks"
 	    $C_INI = "kc"
+	Case "bomanca"
+		$C_INI = "cb"
 	case Else
 		$C_INI = "999"
 EndSwitch
