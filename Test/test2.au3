@@ -103,9 +103,9 @@ _ClearBuffer()
 ;~ $HTMLSource = $oHTTP.Responsetext
 
 
-$ISBN = "9780838914144"
+;~ $ISBN = "9780838914144"
 ;~ $ISBN = InputBox("Barcode", "Please scan barcode")
-Local $oIE =_IECreate("https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&unfiltered=1&field-keywords=&field-author=&field-title=&field-isbn=" & $ISBN)
+;~ Local $oIE =_IECreate("https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&unfiltered=1&field-keywords=&field-author=&field-title=&field-isbn=" & $ISBN)
 
 
 ;~ Local $oIE = _IECreate("www.autoitscript.com")
@@ -121,16 +121,55 @@ Local $oIE =_IECreate("https://www.amazon.com/gp/search/ref=sr_adv_b/?search-ali
 ;~ $oShell.MinimizeAll
 
 
-;~ ShellExecute("notepad","","")
-;~ sleep(100)
-;~ WinActivate("Untitled")
-;~ send("Hellow World.")
-;~ sleep(1000)
-;~ send("{enter}")
-;~ send("This is a test.")
-;~ Sleep(1000)
-;~ send("!{F4}")
-;~ send("{RIGHT}{ENTER}")
+;Get user initials based on username to put into 947 field
+Local $var = EnvGet("TEMP")
+$C_INI = _LoadVar("$C_INI")
+
+$var = StringTrimLeft($var, 9)
+$var = StringTrimRight($var, 19)
+
+Switch $var
+	Case "alexanpk"
+		$C_INI = "pk"
+	Case "barbouh2"
+		$C_INI = "hlb"
+	Case "patricm"
+		$C_INI = "mp"
+	Case "spencert"
+		$C_INI = "rts"
+	Case "keyessl"
+		$C_INI = "sk"
+	Case "stepanm"
+		$C_INI = "ms"
+    Case "bazelejw"
+		$C_INI = "jwb"
+    Case "abneymd"
+		$C_INI = "ma"
+    Case "smithjl9"
+	    $C_INI = "js"
+    Case "cliftks"
+	    $C_INI = "kc"
+	Case "bomanca"
+		$C_INI = "cb"
+	case Else
+		$C_INI = "999"
+EndSwitch
+
+
+
+ShellExecute("notepad","","")
+sleep(100)
+WinActivate("Untitled")
+send($C_INI)
+sleep(1000)
+send("{enter}")
+send("This is a test.")
+Sleep(1000)
+send("!{F4}")
+send("{RIGHT}{ENTER}")
+
+
+
 
 _ClearBuffer()
 
