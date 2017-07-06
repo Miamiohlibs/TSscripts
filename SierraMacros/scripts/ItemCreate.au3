@@ -1,12 +1,14 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Icon=images\autoiticon.ico
-#AutoIt3Wrapper_UseX64=n
-#AutoIt3Wrapper_Res_requestedExecutionLevel=asInvoker
+#AutoIt3Wrapper_Outfile_x64=ItemCreate.exe
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_Run_Au3Stripper=n
 #cs ----------------------------------------------------------------------------
 
  AutoIt Version: 3.4.4
  Authors:
+ Craig Boman, Discovery Services Librarian, Miami University
+		craig.boman@gmail.com
  Martin Patrick, Academic Resident Librarian, Miami University
 		patricm@miamioh.edu OR martinpatrick@outlook.com
  Jason Paul Michel, User Experience Librarian, Miami University
@@ -188,8 +190,6 @@ Switch $var
 		$C_INI = "pk"
 	Case "barbouh2"
 		$C_INI = "hlb"
-	Case "patricm"
-		$C_INI = "mp"
 	Case "spencert"
 		$C_INI = "rts"
 	Case "keyessl"
@@ -198,8 +198,6 @@ Switch $var
 		$C_INI = "ms"
     Case "bazelejw"
 		$C_INI = "jwb"
-    Case "abneymd"
-		$C_INI = "ma"
     Case "smithjl9"
 	    $C_INI = "js"
     Case "cliftks"
