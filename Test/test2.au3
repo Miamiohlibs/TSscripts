@@ -123,7 +123,7 @@ _ClearBuffer()
 
 ;Get user initials based on username to put into 947 field
 Local $var = EnvGet("TEMP")
-$C_INI = _LoadVar("$C_INI")
+local $C_INI = _LoadVar("$C_INI")
 
 $var = StringTrimLeft($var, 9)
 $var = StringTrimRight($var, 19)
