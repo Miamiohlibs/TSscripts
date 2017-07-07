@@ -629,7 +629,7 @@ if $SF_NAME <> 0 Then
 
 
 ;enter bib location code and 947
-;C_INI = _Initial()
+;$C_INI = _Initial()
 
 sleep(0400)
 _SendEx("^{HOME}")

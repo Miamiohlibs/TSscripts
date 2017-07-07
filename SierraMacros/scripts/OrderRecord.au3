@@ -145,7 +145,6 @@ $T87 = ""
 $T88 = ""
 
 
-
 ;Set focus on order record / Emily /
 ;If WinExists("[REGEXPTITLE:\A[o][0-9ax]{7,8}; CLASS:SunAwtFrame]") Then
 ;	WinActivate("[REGEXPTITLE:\A[o][0-9ax]{7,8}; CLASS:SunAwtFrame]")
@@ -155,9 +154,9 @@ $T88 = ""
 ;	Exit
 ;EndIf
 
-;click on order record data fields
-;$winsize = WinGetPos("[REGEXPTITLE:\A[o][0-9ax]{7,8}; CLASS:SunAwtFrame]")
-;_WinClick($winsize)
+;~ click on order record data fields
+;~ $winsize = WinGetPos("[REGEXPTITLE:\A[o][0-9ax]{7,8}; CLASS:SunAwtFrame]")
+;~ _WinClick($winsize)
 
 
 If WinExists("[REGEXPTITLE:[o][0-9ax]{7,8}; CLASS:SunAwtFrame]") Then

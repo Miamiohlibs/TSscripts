@@ -134,7 +134,15 @@ Func kill()
 		ProcessClose("SpecialFundNote.exe")
 		ProcessClose("ItemCreate.exe")
 		ProcessClose("OrderRecord.exe")
+		ProcessClose("FindRecord.au3")
+		ProcessClose("OCLCRec.au3")
+		ProcessClose("504.au3")
+		ProcessClose("949.au3")
+		ProcessClose("SpecialFundNote.au3")
+		ProcessClose("ItemCreate.au3")
+		ProcessClose("OrderRecord.au3")
 EndFunc
+
 
 Func CLOSEClicked()
   Exit
