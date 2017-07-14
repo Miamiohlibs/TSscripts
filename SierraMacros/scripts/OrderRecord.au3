@@ -131,6 +131,7 @@ $ICODE1 = _LoadVar("$ICODE1")
 ;MsgBox(0, "copycat", $copycat)
 ;################################ MAIN ROUTINE #################################
 $C_INI = _Initial()
+_HotKeyPressed()
 
 ;BEGIN LOADING VARS from isbnToTitle script
 $300_E = _LoadVar("$300_E")

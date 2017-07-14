@@ -106,7 +106,7 @@ Func _DataCopy()
 EndFunc
 ;########### end function to copy window contents #############
 
-#cs
+
 ;########### start script killer #############
 ; Press Esc to terminate script, Pause/Break to "pause"
 
@@ -115,15 +115,16 @@ EndFunc
 
 Global $g_bPaused = False
 
-HotKeySet("{PAUSE}", "HotKeyPressed")
-HotKeySet("{ESC}", "HotKeyPressed")
-HotKeySet("+!d", "HotKeyPressed") ; Shift-Alt-d
+_HotKeySet("{PAUSE}", "HotKeyPressed")
+_HotKeySet("{ESC}", "HotKeyPressed")
+_HotKeySet("+!d", "HotKeyPressed") ; Shift-Alt-d
+
 
 While 1
     Sleep(100)
 WEnd
 
-Func HotKeyPressed()
+Func _HotKeyPressed()
     Switch @HotKeyPressed ; The last hotkey pressed.
         Case "{PAUSE}" ; String is the {PAUSE} hotkey.
             $g_bPaused = Not $g_bPaused
@@ -141,8 +142,9 @@ Func HotKeyPressed()
 
     EndSwitch
 EndFunc   ;==>HotKeyPressed
+
 ;########### end script killer #############
-#ce
+
 
 
 ;########### function to turn array elements into strings #############
