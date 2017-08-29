@@ -832,13 +832,13 @@ WinWaitActive("[REGEXPTITLE:[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
 
 ;start item record data entry
 Sleep(0100)
-_SendEx("^a")
+_SendEx("^a") ;probably don't to select all here, recommend deletion - CB 8/28/17
 Sleep(0200)
 _SendEx("^{HOME}")
 Sleep(0300)
 _SendEx("{RIGHT 4}")
 Sleep(0100)
-_SendEx($LOCATION)
+_SendEx($LOCATION) ;edit location code here
 Sleep(0400)
 _SendEx("{TAB 2}")
 Sleep(0400)
