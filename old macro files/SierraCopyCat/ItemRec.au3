@@ -836,25 +836,25 @@ _SendEx("^a") ;probably don't to select all here, recommend deletion - CB 8/28/1
 Sleep(0200)
 _SendEx("^{HOME}")
 Sleep(0300)
-_SendEx("{RIGHT 4}")
-Sleep(0100)
-_SendEx($LOCATION) ;edit location code here
+_SendEx("{TAB}")
 Sleep(0400)
-_SendEx("{TAB 2}")
-Sleep(0400)
-If $ICODE1 = 83 Then
+If $ICODE1 = 83 Then ;still not sure what's going on here.
 	_SendEx("{DEL 2}")
 	Sleep(0300)
 Else
-	_SendEx("{DEL}")
+	;_SendEx("{DEL}")
 	Sleep(0300)
 EndIf
-_SendEx("{DEL 2}")
+_SendEx("{RIGHT 1}")
 Sleep(0300)
 _SendEx($ICODE1) ;enters second (or third for middletown)
 Sleep(0100)
 _SendEx("3")
 Sleep(0300)
+
+_SendEx($LOCATION) ;edit location code here
+Sleep(0400)
+
 _SendEx("{DOWN}")
 Sleep(0600)
 _SendEx("{TAB}")
