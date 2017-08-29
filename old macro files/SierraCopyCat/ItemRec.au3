@@ -119,6 +119,7 @@ $SF_FIB = _LoadVar("$SF_FIB")
 $OLOCATION = _LoadVar("$OLOCATION")
 $ACCOMP = _LoadVar("$ACCOMP")
 ;################################ MAIN ROUTINE #################################
+_Initial()
 ;focus on Millennium bib record
 ;If WinExists("[REGEXPTITLE:\A[b][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 ;	WinActivate("[REGEXPTITLE:\A[b][0-9ax]{8}; CLASS:SunAwtFrame]")
@@ -524,7 +525,8 @@ EndIf
 
 
 ;get user initials, enter 947 field
-$C_INI = _Initial()
+;$C_INI = _Initial()
+
 $UPD = _LoadVar("$UPD") ;declared in barcodetorecord
 Sleep(0400)
 _SendEx("^{HOME}")
