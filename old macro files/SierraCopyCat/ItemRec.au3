@@ -525,7 +525,7 @@ EndIf
 
 
 ;get user initials, enter 947 field
-;$C_INI = _Initial()
+$C_INI = _Initial()
 
 $UPD = _LoadVar("$UPD") ;declared in barcodetorecord
 Sleep(0400)
