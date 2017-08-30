@@ -117,24 +117,18 @@ Func _Initial()
 	$var = StringTrimRight($var, 19)
 
 	Switch $var
-		Case "spencert"
-			$C_INI = "rts"
-		Case "abneymd"
-			$C_INI = "ma"
 		Case "alexanpk"
 			$C_INI = "pka"
 		Case "barbouh2"
 			$C_INI = "hlb"
 		Case "keyessl"
 			$C_INI = "slk"
-		Case "micheljp"
-			$C_INI = "jpm"
 		Case "stepanm"
 			$C_INI = "mls"
-		Case "patricm"
-			$C_INI = "mp"
 		Case "barbouh2"
 			$C_INI = "hlb"
+	    Case "marlinsa"
+			$C_INI = "sab"
 		Case "bomanca"
 			$C_INI = "cb"
 		case Else
