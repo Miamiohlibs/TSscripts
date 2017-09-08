@@ -233,7 +233,7 @@ EndIf
 
    ;start $ITYPE EDIT
 Sleep(0100)
-_SendEx("{TAB 2}")
+_SendEx("{TAB 4}")
 Sleep(0100)
 _SendEx($ITYPE)
 Sleep(0100)
