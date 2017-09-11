@@ -157,6 +157,7 @@ $VOL = "1"
 $ACCOMP = "in pocket"
 $300_E = "atlas"
 $BARCODE = "N"
+$ITYPE = "26"
 
 
 
@@ -237,6 +238,14 @@ _SendEx("{TAB 4}")
 Sleep(0100)
 _SendEx($ITYPE)
 Sleep(0100)
+
+
+   ;start Location edit
+Sleep(0100)
+_SendEx("{TAB 7}")
+_SendEx($LOCATION)
+Sleep(0400)
+
 
 #cs
 _SendEx("^{END}")
@@ -398,11 +407,6 @@ EndIf
 If $dean = 1 Then
 	MsgBox(0, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
  EndIf
-
-
-;start location edits
-_SendEx($LOCATION)
-Sleep(0400)
 
  #ce
 
