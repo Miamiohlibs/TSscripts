@@ -159,149 +159,153 @@ $300_E = "atlas"
 $BARCODE = "N"
 $ITYPE = "26"
 
+Func _itemEdits()
 
+   ;~ ##### start fixed data setting #####
 
-;~ ##### start fixed data setting #####
+   ;wait for item record focus
+   ;WinWaitActive("[REGEXPTITLE:\A[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
+   ;/Emily/
+   WinWaitActive("[REGEXPTITLE:[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
 
-;wait for item record focus
-;WinWaitActive("[REGEXPTITLE:\A[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
-;/Emily/
-WinWaitActive("[REGEXPTITLE:[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
+   ;start item record data entry
+	  ;start icode1 edits
+   Sleep(0100)
+   _SendEx("^a") ;probably don't need to select all here, recommend deletion - CB 8/28/17
+   Sleep(0200)
+   _SendEx("^{HOME}")
+   Sleep(0300)
+   _SendEx("{TAB}")
+   Sleep(0400)
+   If $ICODE1 = 83 Then ;still not sure what's going on here.
+	   _SendEx("{DEL 2}")
+	   Sleep(0300)
+   Else
+	   _SendEx("{DEL}")
+	   Sleep(0300)
+	EndIf
 
-;start item record data entry
-   ;start icode1 edits
-Sleep(0100)
-_SendEx("^a") ;probably don't need to select all here, recommend deletion - CB 8/28/17
-Sleep(0200)
-_SendEx("^{HOME}")
-Sleep(0300)
-_SendEx("{TAB}")
-Sleep(0400)
-If $ICODE1 = 83 Then ;still not sure what's going on here.
-	_SendEx("{DEL 2}")
-	Sleep(0300)
-Else
-	_SendEx("{DEL}")
-	Sleep(0300)
- EndIf
+   Sleep(0300)
+   _SendEx($ICODE1) ;enters second (or third for middletown)
 
-Sleep(0300)
-_SendEx($ICODE1) ;enters second (or third for middletown)
+   Sleep(0100)
+   _SendEx("3")
+   Sleep(0300)
+   _SendEx("{TAB}")
 
-Sleep(0100)
-_SendEx("3")
-Sleep(0300)
-_SendEx("{TAB}")
+	  ;status update
+   Sleep(0600)
+   If $ICODE1 = 83 Then ;middletown
+	   _SendEx("l")
+   ElseIf $dean = 1 Then
+	   _SendEx("k")
 
-   ;status update
-Sleep(0600)
-If $ICODE1 = 83 Then ;middletown
-	_SendEx("l")
-ElseIf $dean = 1 Then
-	_SendEx("k")
-
-EndIf
-
-
-
-
-;$shelfready = InputBox("Shelf Ready Status", "Is this a shelf-ready item?" & @CR & "y - yes" & @CR & "n - no", "")
-
-;Switch $shelfready
-	;Case "n"
-	$decide = MsgBox(4, "", "Is the item a paperback book?") ;we should not need to ask, add variable
-	If $decide = 6 Then
-			Sleep(0100)
-			_SendEx("{LEFT}r")
-		ElseIf $decide = 7 Then
-			;Sleep(0100)
-			If $REF = 1 Then
-				_SendEx("{LEFT}o")
-			Else
-
-			_SendEx("-")
-			EndIf
-		EndIf
-
-	;EndSwitch
-	;Case "y"
-		;Sleep(0100)
-		;_SendEx("-")
-	;EndSwitch
-
-; shelf ready paperbacks and hardbacks get status - for available
-; non-shelf ready paperbacks get "r" and hardbacks get "l"
+   EndIf
 
 
 
-   ;start $ITYPE EDIT
-Sleep(0100)
-_SendEx("{TAB 4}")
-Sleep(0100)
-_SendEx($ITYPE)
-Sleep(0100)
 
+   ;$shelfready = InputBox("Shelf Ready Status", "Is this a shelf-ready item?" & @CR & "y - yes" & @CR & "n - no", "")
 
-_SendEx("{TAB 3}")
-If $300_E <> "none" And $ACCOMP = -1 Then
-	$300_E = StringUpper($300_E)
-	_SendEx("p") ;update imessage field for check parts message
-	Sleep(0500)
-EndIf
+   ;Switch $shelfready
+	   ;Case "n"
+	   $decide = MsgBox(4, "", "Is the item a paperback book?") ;we should not need to ask, add variable
+	   If $decide = 6 Then
+			   Sleep(0100)
+			   _SendEx("{LEFT}r")
+		   ElseIf $decide = 7 Then
+			   ;Sleep(0100)
+			   If $REF = 1 Then
+				   _SendEx("{LEFT}o")
+			   Else
 
-   ;start Location edit
-Sleep(0100)
-_SendEx("{TAB 4}")
-_SendEx($LOCATION)
-Sleep(0400)
+			   _SendEx("-")
+			   EndIf
+		   EndIf
 
-#cs
+	   ;EndSwitch
+	   ;Case "y"
+		   ;Sleep(0100)
+		   ;_SendEx("-")
+	   ;EndSwitch
 
-
-_SendEx("^{END}")
-Sleep(0300)
-; Enter volume information if needed for item #1 after asking if necessary as sometimes volume info is already present in item record
-If $vol = 1 Then
-
-$decide = MsgBox(4, "Volume Designation", "Does item 1 need volume information?")
-If $decide = 6 Then
-$decide = InputBox("Volume label", "Enter volume designation (e.g., 'v.2' OR 'Suppl.')", "")
-_SendEx("{ENTER}")
-Sleep(0100)
-_SendEx("v{TAB}")
-Sleep(0100)
-_SendEx($decide)
-Sleep(0400)
-EndIf
-EndIf
+   ; shelf ready paperbacks and hardbacks get status - for available
+   ; non-shelf ready paperbacks get "r" and hardbacks get "l"
 
 
 
-   ;add note for delivered to dean's office
-Sleep(0400)
-If $dean = 1 Then
-	_SendEx("{ENTER}")
-	Sleep(0100)
-	_SendEx("x{TAB}")
-	Sleep(0500)
-	_SendEx("Delivered to Dean's Office on item created date." & $C_INI)
- EndIf
+	  ;start $ITYPE EDIT
+   Sleep(0100)
+   _SendEx("{TAB 4}")
+   Sleep(0100)
+   _SendEx($ITYPE)
+   Sleep(0100)
+
+
+   _SendEx("{TAB 3}")
+   If $300_E <> "none" And $ACCOMP = -1 Then
+	   $300_E = StringUpper($300_E)
+	   _SendEx("p") ;update imessage field for check parts message
+	   Sleep(0500)
+   EndIf
+
+	  ;start Location edit
+   Sleep(0100)
+   _SendEx("{TAB 4}")
+   _SendEx($LOCATION)
+   Sleep(0400)
 
 
 
-;save!
-_SendEx("^s")
-;determine if the item needs an accompanying material item note
-If $300_E <> "none" And $ACCOMP = -1 Then
-	$300_E = StringUpper($300_E)
-	_SendEx("{ENTER}")
-	Sleep(0500)
-	_SendEx("m{TAB}")
-	Sleep(0500)
-	_SendEx($300_E & "IN POCKET")
-	Sleep(0500)
-	_SendEx("^s")
- EndIf
+
+   _SendEx("^{END}")
+   Sleep(0300)
+   ; Enter volume information if needed for item #1 after asking if necessary as sometimes volume info is already present in item record
+   If $vol = 1 Then
+
+   $decide = MsgBox(4, "Volume Designation", "Does item 1 need volume information?")
+   If $decide = 6 Then
+   $decide = InputBox("Volume label", "Enter volume designation (e.g., 'v.2' OR 'Suppl.')", "")
+   _SendEx("{ENTER}")
+   Sleep(0100)
+   _SendEx("v{TAB}")
+   Sleep(0100)
+   _SendEx($decide)
+   Sleep(0400)
+   EndIf
+   EndIf
+
+
+
+	  ;add note for delivered to dean's office
+   Sleep(0400)
+   If $dean = 1 Then
+	   _SendEx("{ENTER}")
+	   Sleep(0100)
+	   _SendEx("x{TAB}")
+	   Sleep(0500)
+	   _SendEx("Delivered to Dean's Office on item created date." & $C_INI)
+	EndIf
+
+
+
+   ;save!
+   _SendEx("^s")
+   ;determine if the item needs an accompanying material item note
+   If $300_E <> "none" And $ACCOMP = -1 Then
+	   $300_E = StringUpper($300_E)
+	   _SendEx("{ENTER}")
+	   Sleep(0500)
+	   _SendEx("m{TAB}")
+	   Sleep(0500)
+	   _SendEx($300_E & " IN POCKET")
+	   Sleep(0500)
+	   _SendEx("^s")
+	EndIf
+
+EndFunc
+
+_itemEdits()
 
 
 
@@ -330,78 +334,21 @@ If $VOL = 1 Then
 				Sleep(0400)
 				;WinWaitActive("[TITLE:New ITEM; CLASS:SunAwtFrame]", "")
 				;start item record data entry
-				_SendEx("^{HOME}")
-				Sleep(0100)
-				_SendEx("{TAB}")
-				Sleep(0100)
-				_SendEx($LOCATION)
-				Sleep(0100)
-				_SendEx("{TAB 2}")
-				Sleep(0100)
-				_SendEx("{DEL 2}")
-				Sleep(0100)
-				_SendEx($ICODE1)
-				_SendEx("3")
-				Sleep(0100)
-				_SendEx("{TAB 3}")
-				;$decide = MsgBox(4, "", "Is the item a paperback book?")
-				;Switch $decide
-					;Case 6
-						;Sleep(0100)
-						;_SendEx("r")
-					;Case 7
-						;Sleep(0100)
-						_SendEx("-")
-				;EndSwitch
-				Sleep(0100)
-				_SendEx("{TAB 2}")
-				Sleep(0100)
-				_SendEx($ITYPE)
-				Sleep(0100)
-				_SendEx("^{END}")
-				Sleep(0300)
-				_SendEx("{ENTER}")
-				Sleep(0200)
-				;If $LABELLOC <> "" Then
-					;_SendEx("{ENTER}")
-					;Sleep(0100)
-					;_SendEx("l{TAB}")
-					;Sleep(0100)
-					;_SendEx($LABELLOC)
-				;EndIf
-				Sleep(0400)
-				;volume number designation
-				$decide = InputBox("Volume label", "Enter volume designation (e.g., 'v.2' OR 'Suppl.')", "")
-				_SendEx("{ENTER}")
-				Sleep(0100)
-				_SendEx("v{TAB}")
-				Sleep(0100)
-				_SendEx($decide)
-				Sleep(0400)
-				If $BARCODE = "N" Then
-					_SendEx("^s")
-				Else
-					_SendEx("{ENTER}")
-					Sleep(0100)
-					_SendEx("b{TAB}")
-					Sleep(0400)
-					$decide = InputBox("Barcode", "Scan in Barcode", "")
-					Sleep(0100)
-					_SendEx($decide)
-					Sleep(0100)
-					_SendEx("^s")
-				EndIf
-				Sleep(0400)
+
+				_itemEdits() ;should be able to call the function above in this loop
+
 			Case 7 ;No - ends loop
 				$VOL = 0
 		EndSwitch
 	Until $VOL = 0
-EndIf
+ EndIf
+
+
 
 If $dean = 1 Then
 	MsgBox(0, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
  EndIf
 
- #ce
+
 
 _ClearBuffer()
