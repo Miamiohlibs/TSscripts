@@ -159,7 +159,7 @@ $300_E = "atlas"
 $BARCODE = "N"
 $ITYPE = "26"
 
-#cs
+
 
 ;~ ##### start fixed data setting #####
 
@@ -242,13 +242,20 @@ _SendEx($ITYPE)
 Sleep(0100)
 
 
+_SendEx("{TAB 3}")
+If $300_E <> "none" And $ACCOMP = -1 Then
+	$300_E = StringUpper($300_E)
+	_SendEx("p") ;update imessage field for check parts message
+	Sleep(0500)
+EndIf
 
    ;start Location edit
 Sleep(0100)
-_SendEx("{TAB 7}")
+_SendEx("{TAB 4}")
 _SendEx($LOCATION)
 Sleep(0400)
 
+#cs
 
 
 _SendEx("^{END}")
@@ -280,24 +287,13 @@ If $dean = 1 Then
 	_SendEx("Delivered to Dean's Office on item created date." & $C_INI)
  EndIf
 
-#ce
+
 
 ;save!
 _SendEx("^s")
 ;determine if the item needs an accompanying material item note
 If $300_E <> "none" And $ACCOMP = -1 Then
 	$300_E = StringUpper($300_E)
-	;focus on item window
-	_SendEx("^{HOME}")
-	Sleep(0500)
-	_SendEx("{TAB}")
-	Sleep(0500)
-	_SendEx("{DOWN 5}")
-	Sleep(0500)
-	_SendEx("p")
-	Sleep(0500)
-	_SendEx("^{END}")
-	Sleep(0500)
 	_SendEx("{ENTER}")
 	Sleep(0500)
 	_SendEx("m{TAB}")
@@ -307,7 +303,7 @@ If $300_E <> "none" And $ACCOMP = -1 Then
 	_SendEx("^s")
  EndIf
 
- #cs
+
 
 ;determine if there needs to be more item records created
 If $VOL = 1 Then
