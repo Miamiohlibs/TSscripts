@@ -140,6 +140,7 @@ Else
 EndIf
 #ce
 
+
 If WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
@@ -148,10 +149,18 @@ Else
 	Exit
 EndIf
 
+
+
+Func _windowFocus()
+	WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
+	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
+	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
+EndFunc
+
 ;REMOVE IN PRODUCTION - test variables
 $ICODE1 = "1"
 $LOCATION = "kngli"
-$vol = "1"
+$vol = 1
 $dean = "1"
 $VOL = "1"
 $ACCOMP = -1
@@ -166,7 +175,8 @@ Func _itemEdits()
    ;wait for item record focus
    ;WinWaitActive("[REGEXPTITLE:\A[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
    ;/Emily/
-   WinWaitActive("[REGEXPTITLE:[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
+
+   _windowFocus()
 
    ;start item record data entry
 	  ;start icode1 edits
@@ -262,17 +272,16 @@ Func _itemEdits()
    Sleep(0300)
    ; Enter volume information if needed for item #1 after asking if necessary as sometimes volume info is already present in item record
    If $vol = 1 Then
-
-   $decide = MsgBox(4, "Volume Designation", "Does item 1 need volume information?")
-   If $decide = 6 Then
-   $decide = InputBox("Volume label", "Enter volume designation (e.g., 'v.2' OR 'Suppl.')", "")
-   _SendEx("{ENTER}")
-   Sleep(0100)
-   _SendEx("v{TAB}")
-   Sleep(0100)
-   _SendEx($decide)
-   Sleep(0400)
-   EndIf
+	  $decide = MsgBox(4, "Volume Designation", "Does item 1 need volume information?")
+	  If $decide = 6 Then
+		 $decide = InputBox("Volume label", "Enter volume designation (e.g., 'v.2' OR 'Suppl.')", "")
+		 _SendEx("{ENTER}")
+		 Sleep(0100)
+		 _SendEx("v{TAB}")
+		 Sleep(0100)
+		 _SendEx($decide)
+		 Sleep(0400)
+	  EndIf
    EndIf
 
 
@@ -305,6 +314,27 @@ Func _itemEdits()
 
 EndFunc
 
+
+
+Func _newItem()
+   Sleep(1000)
+	_SendEx("!g")
+	Sleep(0200)
+	_SendEx("o")
+	Sleep(0200)
+	_SendEx("a")
+	Sleep(0500)
+	_SendEx("!w")
+	Sleep(0200)
+	_SendEx("i")
+	Sleep(0200)
+	_SendEx("{TAB}")
+	Sleep(0200)
+	_SendEx("!n")
+	Sleep(0400)
+    _SendEx("^s")
+EndFunc
+
 _itemEdits()
 
 
@@ -317,38 +347,25 @@ If $VOL = 1 Then
 		Switch $decide
 			Case 6 ;Yes answer
 				;create new item record
-				Sleep(1000)
-				_SendEx("!g")
-				Sleep(0200)
-				_SendEx("o")
-				Sleep(0200)
-				_SendEx("a")
-				Sleep(0500)
-				_SendEx("!w")
-				Sleep(0200)
-				_SendEx("i")
-				Sleep(0200)
-				_SendEx("{TAB}")
-				Sleep(0200)
-				_SendEx("!n")
-				Sleep(0400)
-				;WinWaitActive("[TITLE:New ITEM; CLASS:SunAwtFrame]", "")
-				;start item record data entry
+				_windowFocus()
+				Sleep(0100)
+				_newItem()
 
+			   Sleep(0100)
 				_itemEdits() ;should be able to call the function above in this loop
-
+			   Sleep(0100)
 			Case 7 ;No - ends loop
 				$VOL = 0
 		EndSwitch
 	Until $VOL = 0
  EndIf
 
-
+#cs
 
 If $dean = 1 Then
 	MsgBox(0, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
  EndIf
 
-
+#ce
 
 _ClearBuffer()
