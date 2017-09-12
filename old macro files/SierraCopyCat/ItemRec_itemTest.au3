@@ -152,14 +152,14 @@ EndIf
 $ICODE1 = "1"
 $LOCATION = "kngli"
 $vol = "1"
-$dean = "k"
+$dean = "1"
 $VOL = "1"
-$ACCOMP = "in pocket"
+$ACCOMP = -1
 $300_E = "atlas"
 $BARCODE = "N"
 $ITYPE = "26"
 
-
+#cs
 
 ;~ ##### start fixed data setting #####
 
@@ -191,16 +191,17 @@ _SendEx($ICODE1) ;enters second (or third for middletown)
 Sleep(0100)
 _SendEx("3")
 Sleep(0300)
+_SendEx("{TAB}")
 
    ;status update
 Sleep(0600)
-_SendEx("{TAB}")
 If $ICODE1 = 83 Then ;middletown
 	_SendEx("l")
 ElseIf $dean = 1 Then
 	_SendEx("k")
 
 EndIf
+
 
 
 
@@ -211,11 +212,11 @@ EndIf
 	$decide = MsgBox(4, "", "Is the item a paperback book?") ;we should not need to ask, add variable
 	If $decide = 6 Then
 			Sleep(0100)
-			_SendEx("r")
+			_SendEx("{LEFT}r")
 		ElseIf $decide = 7 Then
 			;Sleep(0100)
 			If $REF = 1 Then
-				_SendEx("o")
+				_SendEx("{LEFT}o")
 			Else
 
 			_SendEx("-")
@@ -232,12 +233,14 @@ EndIf
 ; non-shelf ready paperbacks get "r" and hardbacks get "l"
 
 
+
    ;start $ITYPE EDIT
 Sleep(0100)
 _SendEx("{TAB 4}")
 Sleep(0100)
 _SendEx($ITYPE)
 Sleep(0100)
+
 
 
    ;start Location edit
@@ -247,7 +250,7 @@ _SendEx($LOCATION)
 Sleep(0400)
 
 
-#cs
+
 _SendEx("^{END}")
 Sleep(0300)
 ; Enter volume information if needed for item #1 after asking if necessary as sometimes volume info is already present in item record
@@ -266,19 +269,8 @@ EndIf
 EndIf
 
 
-;determine if the item needs a location label
-#cs taking out label loc JPM
-If $LAB_LOC = 1 Then
-	Sleep(0200)
-ElseIf $LAB_LOC = 0 And $LABELLOC <> "" Then
-	_SendEx("{ENTER}")
-	Sleep(0100)
-	_SendEx("l{TAB}")
-	Sleep(0500)
-	_SendEx($LABELLOC)
-	Sleep(0400)
-EndIf
-#ce
+
+   ;add note for delivered to dean's office
 Sleep(0400)
 If $dean = 1 Then
 	_SendEx("{ENTER}")
@@ -286,7 +278,10 @@ If $dean = 1 Then
 	_SendEx("x{TAB}")
 	Sleep(0500)
 	_SendEx("Delivered to Dean's Office on item created date." & $C_INI)
-EndIf
+ EndIf
+
+#ce
+
 ;save!
 _SendEx("^s")
 ;determine if the item needs an accompanying material item note
@@ -310,7 +305,10 @@ If $300_E <> "none" And $ACCOMP = -1 Then
 	_SendEx($300_E & "IN POCKET")
 	Sleep(0500)
 	_SendEx("^s")
-EndIf
+ EndIf
+
+ #cs
+
 ;determine if there needs to be more item records created
 If $VOL = 1 Then
 ;looped - will continue loop until you answer no to the popup asking if you want to create another record
