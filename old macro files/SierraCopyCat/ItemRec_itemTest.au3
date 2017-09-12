@@ -118,8 +118,21 @@ $SF_7XX = _LoadVar("$SF_7XX")
 $SF_FIB = _LoadVar("$SF_FIB")
 $OLOCATION = _LoadVar("$OLOCATION")
 $ACCOMP = _LoadVar("$ACCOMP")
+
+;REMOVE IN PRODUCTION - test variables
+$ICODE1 = "1"
+$LOCATION = "kngli"
+$vol = 1
+$dean = "1"
+$VOL = "1"
+$ACCOMP = -1
+$300_E = "atlas"
+$BARCODE = "N"
+$ITYPE = "26"
+
 ;################################ MAIN ROUTINE #################################
 _Initial()
+
 ;focus on Millennium bib record
 ;If WinExists("[REGEXPTITLE:\A[b][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 ;	WinActivate("[REGEXPTITLE:\A[b][0-9ax]{8}; CLASS:SunAwtFrame]")
@@ -157,16 +170,6 @@ Func _windowFocus()
 	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 EndFunc
 
-;REMOVE IN PRODUCTION - test variables
-$ICODE1 = "1"
-$LOCATION = "kngli"
-$vol = 1
-$dean = "1"
-$VOL = "1"
-$ACCOMP = -1
-$300_E = "atlas"
-$BARCODE = "N"
-$ITYPE = "26"
 
 Func _itemEdits()
 
