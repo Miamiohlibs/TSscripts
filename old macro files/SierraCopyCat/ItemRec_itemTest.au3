@@ -161,7 +161,7 @@ If WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 Else
-	MsgBox(64, "Sierra record", "Please open the item record.")
+	MsgBox(64+65536, "Sierra record", "Please open the item record.")
 	Exit
 EndIf
 
@@ -225,7 +225,7 @@ Func _itemEdits()
 
    ;Switch $shelfready
 	   ;Case "n"
-	   $decide = MsgBox(4, "", "Is the item a paperback book?") ;we should not need to ask, add variable
+	   $decide = MsgBox(4+65536, "", "Is the item a paperback book?") ;we should not need to ask, add variable
 	   If $decide = 6 Then
 			   Sleep(0100)
 			   _SendEx("{LEFT}r")
@@ -278,7 +278,7 @@ Func _itemEdits()
    Sleep(0300)
    ; Enter volume information if needed for item #1 after asking if necessary as sometimes volume info is already present in item record
    If $vol = 1 Then
-	  $decide = MsgBox(4, "Volume Designation", "Does item 1 need volume information?")
+	  $decide = MsgBox(4+65536, "Volume Designation", "Does item 1 need volume information?")
 	  If $decide = 6 Then
 		 $decide = InputBox("Volume label", "Enter volume designation (e.g., 'v.2' OR 'Suppl.')", "")
 		 _SendEx("{ENTER}")
@@ -349,11 +349,11 @@ _itemEdits() ;runs function above
 If $VOL = 1 Then
 ;looped - will continue loop until you answer no to the popup asking if you want to create another record
 	Do
-		$decide = MsgBox(4, "More Volumes", "Do you need to attach another item record?")
+		$decide = MsgBox(4+65536, "More Volumes", "Do you need to attach another item record?")
 		Switch $decide
 			Case 6 ;Yes answer
 				;create new item record
-				_windowFocus()
+				;_windowFocus()
 				Sleep(0100)
 				_newItem() ; creates new item record
 
@@ -369,7 +369,7 @@ If $VOL = 1 Then
 
 
 If $dean = 1 Then
-	MsgBox(0, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
+	MsgBox(0+65536, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
  EndIf
 
 

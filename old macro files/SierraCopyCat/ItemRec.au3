@@ -143,7 +143,7 @@ If WinExists("[REGEXPTITLE:[b][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 	WinActivate("[REGEXPTITLE:[b][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinWaitActive("[REGEXPTITLE:[b][0-9ax]{8}; CLASS:SunAwtFrame]")
 Else
-	MsgBox(64, "Sierra record", "Please open the bib record.")
+	MsgBox(64+65536, "Sierra record", "Please open the bib record.")
 	Exit
 EndIf
 
@@ -157,7 +157,7 @@ $BIB_ARRAY_MASTER = StringSplit($BIB_REC_PREP, "fnord", 1)
 
 ;force cataloger to verify that call number is unique
 
-$decide = MsgBox(48+1, "Verify call number is unique", "Place the cursor in the call number field and type CTRL-G. Ensure call number is unique. Press OK if it is, and press cancel to fix.")
+$decide = MsgBox(48+1+65536, "Verify call number is unique", "Place the cursor in the call number field and type CTRL-G. Ensure call number is unique. Press OK if it is, and press cancel to fix.")
 if $decide = 2 Then
 	Exit
 EndIf
@@ -195,7 +195,7 @@ Else
 EndIf
 If $REF_1 = "0" Then
 	If $BIB_LOC_1 <> $OLOCATION Then
-		$decide = MsgBox(1, "Location mismatch", "The bib loc and the order location do not match.  Press OK to ignore, or cancel to fix.")
+		$decide = MsgBox(1+65536, "Location mismatch", "The bib loc and the order location do not match.  Press OK to ignore, or cancel to fix.")
 		If $decide = 2 Then
 			Exit
 		EndIf
@@ -207,17 +207,17 @@ $049 = _arrayItemString($BIB_ARRAY_MASTER, "MARC	049")
 $049 = StringRight($049, 4)
 If $BIB_LOC_1 = "scl" Then
 	If $049 <> "MIAS" Then
-		MsgBox(0, "049", "The bib location and 049 fields do not match.")
+		MsgBox(0+65536, "049", "The bib location and 049 fields do not match.")
 		Exit
 	EndIf
 	ElseIf $BIB_LOC_1 = "kngl" Then
 	If $049 <> "MIAA" Then
-		MsgBox(0, "049", "The bib location and 049 fields do not match.")
+		MsgBox(0+65536, "049", "The bib location and 049 fields do not match.")
 		Exit
 	EndIf
 	ElseIf $BIB_LOC_1 = "aal" Then
 	If $049 <> "MIAH" Then
-		MsgBox(0, "049", "The bib location and 049 fields do not match.")
+		MsgBox(0+65536, "049", "The bib location and 049 fields do not match.")
 		Exit
 	EndIf
 EndIf
@@ -234,7 +234,7 @@ $vol_300 = _arrayItemString($BIB_ARRAY_MASTER, "DESCRIPT.	300")
 $vol_300_multi = StringInStr($vol_300, "volumes")
 If $vol_300_multi > 2 Then
    $vol = 1
-   ; MsgBox(0, "Volumes", $vol)
+   ; MsgBox(0+65536, "Volumes", $vol)
 Else
    $vol = 0
 EndIf
@@ -246,7 +246,7 @@ If $050_loc = -1 Then ; if the 050 is missing this checks quickly to see if ther
 EndIf
 $050_loc = StringTrimLeft($050_loc, 15)
 _StoreVar("$050_loc")
-;msgbox(0, "050 trim", $050_loc)
+;msgbox(0+65536, "050 trim", $050_loc)
 
 
 ;##### start date check #####
@@ -266,9 +266,9 @@ $050 = StringRight($050, 5)
 $050_array = StringRegExp($050, '(\b[12][^a-zA-Z]{3})', 1)
 If @error == 0 Then
 	$050_B = $050_array[0]
-	;MsgBox(0, "050", $050_B)
+	;MsgBox(0+65536, "050", $050_B)
 Else
-	$decide = MsgBox(1, "Call number?", "There might be a problem with the call number. Click OK to ignore and Cancel to fix.")
+	$decide = MsgBox(1+65536, "Call number?", "There might be a problem with the call number. Click OK to ignore and Cancel to fix.")
 	If $decide == 2 Then
 		Exit
 		EndIf
@@ -276,7 +276,7 @@ EndIf
 
 
 If StringIsDigit($050_B) = 0 Then
-	$decide = MsgBox(1, "Call Number Date", "The call number seems to be missing the date.  Click OK to ignore, or press cancel to fix.")
+	$decide = MsgBox(1+65536, "Call Number Date", "The call number seems to be missing the date.  Click OK to ignore, or press cancel to fix.")
 	If $decide = 2 Then
 		Exit
 	EndIf
@@ -287,30 +287,30 @@ $260_C = StringInStr($260, $050_B, 0, 1, 1); will return 0 if the date from the 
 
 #cs
 $260_fix = StringRegExp($260, "(\[).{5}") ; have to cehck for the date in brackets in imprint field and remove brackets if needed
-;MsgBox(0, "hello", $260_fix)
+;MsgBox(0+65536, "hello", $260_fix)
 If $260_fix = 1 Then
 	$260_C = StringRight($260, 6)
 	$260_C = StringTrimLeft($260_C, 1)
 	$260_C = StringTrimRight($260_C, 1)
-	;msgbox(0, "check", $260_C)
+	;msgbox(0+65536, "check", $260_C)
 Else
 	$260_C = StringRight($260, 4) ;StringRight($260, 4) ;this pulls out a substring that is four characters from the end of the main string
-	;msgbox(0, "check", $260_C)
+	;msgbox(0+65536, "check", $260_C)
 EndIf
 #ce
 
-;msgbox(0, "260", $260_C)
+;msgbox(0+65536, "260", $260_C)
 
 If $260_C = 0 Then
 
 	$264 = _arrayItemString($BIB_ARRAY_MASTER, "IMPRINT	264")
 	$264_C = StringInStr($264, $050_B, 0, 1, 1); returns 0 if 050_B string is not found (i.e., there's no date in an imprint field in this record
 	If $264_C = 0 Then ;if $264_C = 0 we know that $260_C = 0 as well, so there's no date
-	$conf = MsgBox(1, "whoops", "The dates in the 008, Call # and Imprint fields don't match.  If this is a Conference Proceeding or otherwise correct, please click OK to proceed anyway. Click cancel to fix.")
+	$conf = MsgBox(1+65536, "whoops", "The dates in the 008, Call # and Imprint fields don't match.  If this is a Conference Proceeding or otherwise correct, please click OK to proceed anyway. Click cancel to fix.")
 	If $conf = 1 Then
-		MsgBox(0, "OK!", "Moving on...")
+		MsgBox(0+65536, "OK!", "Moving on...")
 	ElseIf $conf == 2 Then
-		MsgBox(0, "Ok!", "Please click OK and adjust the date and re-run the D function.")
+		MsgBox(0+65536, "Ok!", "Please click OK and adjust the date and re-run the D function.")
 			 Exit
 	EndIf
 	Else
@@ -323,15 +323,15 @@ EndIf
 
 #cs
 $264_fix = StringRegExp($264, "(\[).{5}") ; have to cehck for the date in brackets in imprint field and remove brackets if needed
-;MsgBox(0, "hello", $264_fix)
+;MsgBox(0+65536, "hello", $264_fix)
 If $264_fix = 1 Then
 	$264_C = StringRight($264, 6)
 	$264_C = StringTrimLeft($264_C, 1)
 	$264_C = StringTrimRight($264_C, 1)
-	;msgbox(0, "check", $264_C)
+	;msgbox(0+65536, "check", $264_C)
 Else
 	$264_C = StringRight($264, 4) ;this pulls out a substring that is four characters from the end of the main string
-	;msgbox(0, "check", $264_C)
+	;msgbox(0+65536, "check", $264_C)
 EndIf
 
 
@@ -341,9 +341,9 @@ EndIf
 If StringLen($260_C) < 4 Then ;if our program sees taht the $260_C (260 field subfield C) is 0, that means it's empty which hopefully just means that we're dealing with a record with a 264 instead of a 260
    if StringLen($264_C) > 0 Then
 	  if $264_C = $050_B and $050_B = $008_date Then
-		 ;msgBox(0, "success!", "Your dates match!")
+		 ;msgBox(0+65536, "success!", "Your dates match!")
 	  Else
-		 $conf = MsgBox(1, "whoops", "The dates don't match.  If this is a Conference Proceeding or otherwise correct, please click OK to proceed anyway.")
+		 $conf = MsgBox(1+65536, "whoops", "The dates don't match.  If this is a Conference Proceeding or otherwise correct, please click OK to proceed anyway.")
 		 If $conf == 1 Then
 			 MsgBox(0, "Ok!", "OK, we'll keep going!")
 		 ElseIf $conf == 2 Then
@@ -378,7 +378,7 @@ Sleep(0500)
 $300error = _arrayItemString($BIB_ARRAY_MASTER, "DESCRIPT.	300")
 $300errors = StringInStr($300error, ";|c", 1)
 if $300errors < 2 Then
-	$300ok = MsgBox(1, "Check 300 Field", "The 300 field appears to be missing data. Click OK to fix it or Cancel to ignore it.")
+	$300ok = MsgBox(1+65536, "Check 300 Field", "The 300 field appears to be missing data. Click OK to fix it or Cancel to ignore it.")
 	if $300ok == 1 Then
 		Exit
 	EndIf
@@ -398,7 +398,7 @@ $series = $800_A + $810_A + $811_A + $830_A
 ;_ArraySearch yields -1 as the value if there's an error (-1 would indicate that field is missing) so this needs to test to see if any of the 8XX field arrays are more than -1
 
 If $490_A > -1  and $series = -4 Then
-		$decide = msgbox(1, "Series Problem", "The 4XX field does not seem have a corresponding 8XX field. Click OK to ignore it, or cancel to stop and fix it.")
+		$decide = msgbox(1+65536, "Series Problem", "The 4XX field does not seem have a corresponding 8XX field. Click OK to ignore it, or cancel to stop and fix it.")
 		If $decide = 2 Then
 			Exit
 	EndIf
@@ -410,7 +410,7 @@ $subject = _ArraySearch($BIB_ARRAY_MASTER, "SUBJECT	", 0, 0, 0, 1)
 ;$subject_2 = _ArraySearch($BIB_ARRAY_MASTER, "SUBJECT 651", 0, 0, 0, 1)
 ;$subject_p = _ArraySearch($BIB_ARRAY_MASTER, "SUBJECT 600
 If $subject = -1 Then
-	$decide = MsgBox(1, "No subject data", "No subject field found.  If this item needs a subject field, press CANCEL to add one. Otherwise press OK to continue.")
+	$decide = MsgBox(1+65536, "No subject data", "No subject field found.  If this item needs a subject field, press CANCEL to add one. Otherwise press OK to continue.")
 	If $decide = 2 Then
 		Exit
 	EndIf
@@ -419,7 +419,7 @@ EndIf
 ;- #### check for existence of 856 and prompt to delete ####
 $856 = _ArraySearch($BIB_ARRAY_MASTER, "MARC	856", 0, 0, 0, 1)
 If $856 >-1 Then
-	$decide = MsgBox(1, "856 Found", "There's an 856 in this record. Please delete if it's not required and then press OK to continue. Press cancel to stop macro.")
+	$decide = MsgBox(1+65536, "856 Found", "There's an 856 in this record. Please delete if it's not required and then press OK to continue. Press cancel to stop macro.")
 	If $decide = 2 Then
 		Exit
 	EndIf
@@ -575,9 +575,9 @@ If $300_E > 0 Then
 	$300_E = StringLeft($300_E, $300_E_1)
 	$300_E = StringTrimRight($300_E, 1)
 ElseIf $ACCOMP > -1 Then
-	$decide = MsgBox(1, "Missing material?", "The 300 field might be missing subfield E for accompanying material. Press OK to ignore it and cancel to fix it.")
+	$decide = MsgBox(1+65536, "Missing material?", "The 300 field might be missing subfield E for accompanying material. Press OK to ignore it and cancel to fix it.")
 	If $decide = 2 Then
-		MsgBox(0, "Stopping...", "The macro will stop. Please refer to the Wiki for proper coding of subfield E.")
+		MsgBox(0+65536, "Stopping...", "The macro will stop. Please refer to the Wiki for proper coding of subfield E.")
 		Exit
 	Else
 		Sleep(0200)
@@ -595,7 +595,7 @@ Do
 	$008_L = StringMid($008_L, 49, 3)
 	$LANG = StringLeft($LANG, 3) ;III lang code
 	If $LANG <> $008_L Then
-		MsgBox(64, "Mismatch between Language Fields", "Please make sure that the information is correct in the Lang and 008 fields. " & @CR & "Please adjust and click ok to continue.")
+		MsgBox(64+65536, "Mismatch between Language Fields", "Please make sure that the information is correct in the Lang and 008 fields. " & @CR & "Please adjust and click ok to continue.")
 		;following doublechecks to see if fix has been done
 		$BIB_REC = ClipGet()
 		$BIB_REC_PREP = StringRegExpReplace($BIB_REC, "[\r\n]+", "fnord")
@@ -621,7 +621,7 @@ Do
 	$COUNTRY = StringLeft($COUNTRY, 3)
 	$COUNTRY = StringStripWS($COUNTRY, 8) ;III cty code
 	If $COUNTRY <> $008_C Then
-		MsgBox(64, "Mismatch between Country Fields", "Please make sure that the information is correct in the Country and 008 fields. " & @CR & "Please adjust and click ok to continue.")
+		MsgBox(64+65536, "Mismatch between Country Fields", "Please make sure that the information is correct in the Country and 008 fields. " & @CR & "Please adjust and click ok to continue.")
 		$BIB_REC = ClipGet()
 		$BIB_REC_PREP = StringRegExpReplace($BIB_REC, "[\r\n]+", "fnord")
 		$BIB_ARRAY_MASTER = StringSplit($BIB_REC_PREP, "fnord", 1)
@@ -642,7 +642,7 @@ Do
 	$245_2 = _arrayItemString($BIB_ARRAY_MASTER, "TITLE	245")
 	$245_2 = StringMid($245_2, 13, 1)
 	If $SKIP <> $245_2 Then
-		MsgBox(64, "Skip does not match 245 second indicator", "Skip does not match the 245 second indicator." & @CR & "Please adjust and click ok to continue.")
+		MsgBox(64+65536, "Skip does not match 245 second indicator", "Skip does not match the 245 second indicator." & @CR & "Please adjust and click ok to continue.")
 		$BIB_REC = ClipGet()
 		$BIB_REC_PREP = StringRegExpReplace($BIB_REC, "[\r\n]+", "fnord")
 		$BIB_ARRAY_MASTER = StringSplit($BIB_REC_PREP, "fnord", 1)
@@ -799,7 +799,9 @@ If $BCODE2 = "c" Then
 EndIf
 ;~ ##### end bcode2 (score) check #####
 
-MsgBox(0, "variable checks", $LOCATION) ;tag for debugging
+
+;tag for debugging
+;MsgBox(0+65536, "variable checks", $LOCATION)
 
 
 ; SAVE RECORD AND GO INTO ITEM RECORD
@@ -838,7 +840,7 @@ If WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 Else
-	MsgBox(64, "Sierra record", "Please open the item record.")
+	MsgBox(64+65536, "Sierra record", "Please open the item record.")
 	Exit
 EndIf
 
@@ -902,7 +904,7 @@ Func _itemEdits()
 
    ;Switch $shelfready
 	   ;Case "n"
-	   $decide = MsgBox(4, "", "Is the item a paperback book?") ;we should not need to ask, add variable
+	   $decide = MsgBox(4+65536, "", "Is the item a paperback book?") ;we should not need to ask, add variable
 	   If $decide = 6 Then
 			   Sleep(0100)
 			   _SendEx("{LEFT}r")
