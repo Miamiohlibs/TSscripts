@@ -4,7 +4,9 @@
 #cs ----------------------------------------------------------------------------
 
  AutoIt Version: 3.3.6.1
- Author: Becky Yoose, Bibliographic Systems Librarian, Miami University
+ Authors:Craig Boman, Discovery Services Libarian, Miami University
+			bomanca@miamioh.edu OR craig.boman@gmail.com
+		 Becky Yoose, Bibliographic Systems Librarian, Miami University
 		 yoosebj@muohio.edu OR b.yoose@gmail.com
 
  Name of script: ItemRec
@@ -182,7 +184,6 @@ Func _itemEdits()
    _windowFocus()
 
    ;start item record data entry
-	  ;start icode1 edits
    Sleep(0100)
    _SendEx("^a") ;probably don't need to select all here, recommend deletion - CB 8/28/17
    Sleep(0200)
@@ -190,6 +191,7 @@ Func _itemEdits()
    Sleep(0300)
    _SendEx("{TAB}")
    Sleep(0400)
+	  ;start icode1 edits
    If $ICODE1 = 83 Then ;still not sure what's going on here.
 	   _SendEx("{DEL 2}")
 	   Sleep(0300)
@@ -319,7 +321,7 @@ EndFunc
 
 
 
-Func _newItem()
+Func _newItem() ;creates new items
    Sleep(1000)
 	_SendEx("!g")
 	Sleep(0200)
@@ -338,7 +340,7 @@ Func _newItem()
     _SendEx("^s")
 EndFunc
 
-_itemEdits()
+_itemEdits() ;runs function above
 
 
 
@@ -352,7 +354,7 @@ If $VOL = 1 Then
 				;create new item record
 				_windowFocus()
 				Sleep(0100)
-				_newItem()
+				_newItem() ; creates new item record
 
 			   Sleep(0100)
 				_itemEdits() ;should be able to call the function above in this loop
