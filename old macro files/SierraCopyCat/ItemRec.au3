@@ -16,12 +16,12 @@
 	fields. The script then opens the item record and enters the appropriate
 	codes and messages, creating additional item records if necesary.
 
- Programs used: Sierra Cataloging Module JRE v 1.6.0_02
+ Programs used: Millennium Cataloging Module JRE v 1.6.0_02
 					(bib record open)
 					Record view properties - Summary retrieval view, item
 					summary view
 
- Last revised: 8/29/17
+ Last revised: 6/29/10
 			   Updated #Include to include TS custom function library
 			   Updated window controls for JRE version
 
@@ -30,7 +30,7 @@
 			   if that file is not included in the include folder in the
 			   AutoIt directory.
 
- Copyright (C): 2017 by Miami University Libraries.  Libraries
+ Copyright (C): 2009 by Miami University Libraries.  Libraries
  may freely use and adapt this macro with due credit.  Commercial use
  prohibited without written permission.
 
@@ -119,8 +119,6 @@ $SF_FIB = _LoadVar("$SF_FIB")
 $OLOCATION = _LoadVar("$OLOCATION")
 $ACCOMP = _LoadVar("$ACCOMP")
 ;################################ MAIN ROUTINE #################################
-_Initial()
-
 ;focus on Millennium bib record
 ;If WinExists("[REGEXPTITLE:\A[b][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 ;	WinActivate("[REGEXPTITLE:\A[b][0-9ax]{8}; CLASS:SunAwtFrame]")
@@ -132,9 +130,9 @@ _Initial()
 
 ;/Emily/
 #cs
-If WinExists("[REGEXPTITLE:Sierra · Miami University Libraries · .* · [b][0-9ax]{8}; CLASS:SunAwtFrame]") Then
-	WinActivate("[REGEXPTITLE:Sierra · Miami University Libraries · .* · [b][0-9ax]{8}; CLASS:SunAwtFrame]")
-	WinWaitActive("[REGEXPTITLE:Sierra · Miami University Libraries · .* · [b][0-9ax]{8}; CLASS:SunAwtFrame]")
+If WinExists("[REGEXPTITLE:Sierra ? Miami University Libraries ? .* ? [b][0-9ax]{8}; CLASS:SunAwtFrame]") Then
+	WinActivate("[REGEXPTITLE:Sierra ? Miami University Libraries ? .* ? [b][0-9ax]{8}; CLASS:SunAwtFrame]")
+	WinWaitActive("[REGEXPTITLE:Sierra ? Miami University Libraries ? .* ? [b][0-9ax]{8}; CLASS:SunAwtFrame]")
 Else
 	MsgBox(64, "Sierra record", "Please open the order record.")
 	Exit
@@ -149,6 +147,14 @@ Else
 	Exit
 EndIf
 
+
+;select all and copy bib record information, parce data into array
+_DataCopy()
+$BIB_REC = ClipGet()
+$BIB_REC_PREP = StringRegExpReplace($BIB_REC, "[\r\n]+", "fnord")
+$BIB_ARRAY_MASTER = StringSplit($BIB_REC_PREP, "fnord", 1)
+
+
 ;force cataloger to verify that call number is unique
 
 $decide = MsgBox(48+1, "Verify call number is unique", "Place the cursor in the call number field and type CTRL-G. Ensure call number is unique. Press OK if it is, and press cancel to fix.")
@@ -156,13 +162,6 @@ if $decide = 2 Then
 	Exit
 EndIf
 
-
-
-;select all and copy bib record information, parce data into array
-_DataCopy()
-$BIB_REC = ClipGet()
-$BIB_REC_PREP = StringRegExpReplace($BIB_REC, "[\r\n]+", "fnord")
-$BIB_ARRAY_MASTER = StringSplit($BIB_REC_PREP, "fnord", 1)
 
 ;~ ##### start fixed data setting #####
 
@@ -527,7 +526,6 @@ EndIf
 
 ;get user initials, enter 947 field
 $C_INI = _Initial()
-
 $UPD = _LoadVar("$UPD") ;declared in barcodetorecord
 Sleep(0400)
 _SendEx("^{HOME}")
@@ -801,7 +799,8 @@ If $BCODE2 = "c" Then
 EndIf
 ;~ ##### end bcode2 (score) check #####
 
-;MsgBox(0, "location check", $LOCATION)
+MsgBox(0, "variable checks", $LOCATION) ;tag for debugging
+
 
 ; SAVE RECORD AND GO INTO ITEM RECORD
 ;focus on record
@@ -834,7 +833,6 @@ Sleep(0400)
 WinWaitActive("[REGEXPTITLE:[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
 
 
-;start of ItemRec_itemTest.au3
 
 If WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
@@ -844,11 +842,14 @@ Else
 	Exit
 EndIf
 
+
+
 Func _windowFocus()
 	WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 EndFunc
+
 
 Func _itemEdits()
 
@@ -861,7 +862,6 @@ Func _itemEdits()
    _windowFocus()
 
    ;start item record data entry
-	  ;start icode1 edits
    Sleep(0100)
    _SendEx("^a") ;probably don't need to select all here, recommend deletion - CB 8/28/17
    Sleep(0200)
@@ -869,6 +869,7 @@ Func _itemEdits()
    Sleep(0300)
    _SendEx("{TAB}")
    Sleep(0400)
+	  ;start icode1 edits
    If $ICODE1 = 83 Then ;still not sure what's going on here.
 	   _SendEx("{DEL 2}")
 	   Sleep(0300)
@@ -877,9 +878,9 @@ Func _itemEdits()
 	   Sleep(0300)
 	EndIf
 
+
    Sleep(0300)
    _SendEx($ICODE1) ;enters second (or third for middletown)
-
    Sleep(0100)
    _SendEx("3")
    Sleep(0300)
@@ -893,6 +894,9 @@ Func _itemEdits()
 	   _SendEx("k")
 
    EndIf
+
+
+
 
    ;$shelfready = InputBox("Shelf Ready Status", "Is this a shelf-ready item?" & @CR & "y - yes" & @CR & "n - no", "")
 
@@ -921,12 +925,15 @@ Func _itemEdits()
    ; shelf ready paperbacks and hardbacks get status - for available
    ; non-shelf ready paperbacks get "r" and hardbacks get "l"
 
+
+
 	  ;start $ITYPE EDIT
    Sleep(0100)
    _SendEx("{TAB 4}")
    Sleep(0100)
    _SendEx($ITYPE)
    Sleep(0100)
+
 
    _SendEx("{TAB 3}")
    If $300_E <> "none" And $ACCOMP = -1 Then
@@ -940,6 +947,9 @@ Func _itemEdits()
    _SendEx("{TAB 4}")
    _SendEx($LOCATION)
    Sleep(0400)
+
+
+
 
    _SendEx("^{END}")
    Sleep(0300)
@@ -956,6 +966,8 @@ Func _itemEdits()
 		 Sleep(0400)
 	  EndIf
    EndIf
+
+
 
 	  ;add note for delivered to dean's office
    Sleep(0400)
@@ -985,7 +997,9 @@ Func _itemEdits()
 
 EndFunc
 
-Func _newItem()
+
+
+Func _newItem() ;creates new items
    Sleep(1000)
 	_SendEx("!g")
 	Sleep(0200)
@@ -1004,7 +1018,9 @@ Func _newItem()
     _SendEx("^s")
 EndFunc
 
-_itemEdits()
+_itemEdits() ;runs function above
+
+
 
 ;determine if there needs to be more item records created
 If $VOL = 1 Then
@@ -1016,7 +1032,7 @@ If $VOL = 1 Then
 				;create new item record
 				_windowFocus()
 				Sleep(0100)
-				_newItem()
+				_newItem() ; creates new item record
 
 			   Sleep(0100)
 				_itemEdits() ;should be able to call the function above in this loop
@@ -1027,10 +1043,10 @@ If $VOL = 1 Then
 	Until $VOL = 0
  EndIf
 
+
+
 If $dean = 1 Then
 	MsgBox(0, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
  EndIf
 
 _ClearBuffer()
-
-;end of ItemRec_itemTest.au3

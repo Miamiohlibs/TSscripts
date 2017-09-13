@@ -18,7 +18,7 @@
 	fields. The script then opens the item record and enters the appropriate
 	codes and messages, creating additional item records if necesary.
 
- Programs used: Sierra Cataloging Module JRE v 1.6.0_02
+ Programs used: Sierra Cataloging Module JRE v 1.8.0_45
 					(bib record open)
 					Record view properties - Summary retrieval view, item
 					summary view
@@ -131,6 +131,7 @@ $ACCOMP = -1
 $300_E = "atlas"
 $BARCODE = "N"
 $ITYPE = "26"
+;REMOVE IN PRODUCTION - test variables
 
 ;################################ MAIN ROUTINE #################################
 _Initial()
@@ -200,9 +201,9 @@ Func _itemEdits()
 	   Sleep(0300)
 	EndIf
 
+
    Sleep(0300)
    _SendEx($ICODE1) ;enters second (or third for middletown)
-
    Sleep(0100)
    _SendEx("3")
    Sleep(0300)
