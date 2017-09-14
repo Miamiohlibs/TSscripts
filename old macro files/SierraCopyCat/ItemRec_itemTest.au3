@@ -122,7 +122,7 @@ $OLOCATION = _LoadVar("$OLOCATION")
 $ACCOMP = _LoadVar("$ACCOMP")
 
 ;REMOVE IN PRODUCTION - test variables
-$ICODE1 = "1"
+$ICODE1 = "14"
 $LOCATION = "kngli"
 $vol = 1
 $dean = "1"
@@ -192,20 +192,16 @@ Func _itemEdits()
    Sleep(0300)
    _SendEx("{TAB}")
    Sleep(0400)
+
 	  ;start icode1 edits
    If $ICODE1 = 83 Then ;still not sure what's going on here.
 	   _SendEx("{DEL 2}")
-	   Sleep(0300)
-   Else
-	   _SendEx("{DEL}")
 	   Sleep(0300)
 	EndIf
 
 
    Sleep(0300)
-   _SendEx($ICODE1) ;enters second (or third for middletown)
-   Sleep(0100)
-   _SendEx("3")
+   _SendEx($ICODE1 & "3") ;enters second (or third for middletown)
    Sleep(0300)
    _SendEx("{TAB}")
 
@@ -267,8 +263,7 @@ Func _itemEdits()
 
 	  ;start Location edit
    Sleep(0100)
-   _SendEx("{TAB 4}")
-   _SendEx($LOCATION)
+   _SendEx("{TAB 4}" & $LOCATION)
    Sleep(0400)
 
 
@@ -281,11 +276,9 @@ Func _itemEdits()
 	  $decide = MsgBox(4+65536, "Volume Designation", "Does item 1 need volume information?")
 	  If $decide = 6 Then
 		 $decide = InputBox("Volume label", "Enter volume designation (e.g., 'v.2' OR 'Suppl.')", "")
-		 _SendEx("{ENTER}")
+		 _SendEx("{ENTER}" & "v{TAB}")
 		 Sleep(0100)
-		 _SendEx("v{TAB}")
-		 Sleep(0100)
-		 _SendEx($decide)
+	     _SendEx($decide)
 		 Sleep(0400)
 	  EndIf
    EndIf
@@ -295,9 +288,7 @@ Func _itemEdits()
 	  ;add note for delivered to dean's office
    Sleep(0400)
    If $dean = 1 Then
-	   _SendEx("{ENTER}")
-	   Sleep(0100)
-	   _SendEx("x{TAB}")
+	   _SendEx("{ENTER}" & "x{TAB}")
 	   Sleep(0500)
 	   _SendEx("Delivered to Dean's Office on item created date." & $C_INI)
 	EndIf
@@ -311,9 +302,7 @@ Func _itemEdits()
 	   $300_E = StringUpper($300_E)
 	   _SendEx("{ENTER}")
 	   Sleep(0500)
-	   _SendEx("m{TAB}")
-	   Sleep(0500)
-	   _SendEx($300_E & " IN POCKET")
+	   _SendEx("m{TAB}" & $300_E & " IN POCKET")
 	   Sleep(0500)
 	   _SendEx("^s")
 	EndIf
