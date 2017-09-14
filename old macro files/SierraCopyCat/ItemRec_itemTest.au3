@@ -186,12 +186,8 @@ Func _itemEdits()
 
    ;start item record data entry
    Sleep(0100)
-   _SendEx("^a") ;probably don't need to select all here, recommend deletion - CB 8/28/17
+   _SendEx("^a" & "^{HOME}" & "{TAB}") ;probably don't need to select all here, recommend deletion - CB 8/28/17
    Sleep(0200)
-   _SendEx("^{HOME}")
-   Sleep(0300)
-   _SendEx("{TAB}")
-   Sleep(0400)
 
 	  ;start icode1 edits
    If $ICODE1 = 83 Then ;still not sure what's going on here.
@@ -201,9 +197,8 @@ Func _itemEdits()
 
 
    Sleep(0300)
-   _SendEx($ICODE1 & "3") ;enters second (or third for middletown)
+   _SendEx($ICODE1 & "3" & "{TAB}") ;enters second (or third for middletown)
    Sleep(0300)
-   _SendEx("{TAB}")
 
 	  ;status update
    Sleep(0600)
@@ -248,11 +243,8 @@ Func _itemEdits()
 
 	  ;start $ITYPE EDIT
    Sleep(0100)
-   _SendEx("{TAB 4}")
+   _SendEx("{TAB 4}" & $ITYPE)
    Sleep(0100)
-   _SendEx($ITYPE)
-   Sleep(0100)
-
 
    _SendEx("{TAB 3}")
    If $300_E <> "none" And $ACCOMP = -1 Then
@@ -313,17 +305,7 @@ EndFunc
 
 Func _newItem() ;creates new items
    Sleep(1000)
-	_SendEx("!g")
-	Sleep(0200)
-	_SendEx("o")
-	Sleep(0200)
-	_SendEx("a")
-	Sleep(0500)
-	_SendEx("!w")
-	Sleep(0200)
-	_SendEx("i")
-	Sleep(0200)
-	_SendEx("{TAB}")
+	_SendEx("!g" & "o" & "a" & "!w" & "i" & "{TAB}")
 	Sleep(0200)
 	_SendEx("!n")
 	Sleep(0400)
