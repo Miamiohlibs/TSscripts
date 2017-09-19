@@ -836,6 +836,9 @@ WinWaitActive("[REGEXPTITLE:[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
 
 
 
+
+;####### start of ItemRec_itemTest.au3 ########
+
 If WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
@@ -865,30 +868,23 @@ Func _itemEdits()
 
    ;start item record data entry
    Sleep(0100)
-   _SendEx("^a") ;probably don't need to select all here, recommend deletion - CB 8/28/17
+   _SendEx("^a" & "^{HOME}" & "{TAB}")
    Sleep(0200)
-   _SendEx("^{HOME}")
-   Sleep(0300)
-   _SendEx("{TAB}")
-   Sleep(0400)
+
 	  ;start icode1 edits
    If $ICODE1 = 83 Then ;still not sure what's going on here.
 	   _SendEx("{DEL 2}")
-	   Sleep(0300)
-   Else
-	   _SendEx("{DEL}")
 	   Sleep(0300)
 	EndIf
 
 
    Sleep(0300)
-   _SendEx($ICODE1) ;enters second (or third for middletown)
-   Sleep(0100)
-   _SendEx("3")
+   _SendEx("{RIGHT}" & $ICODE1 & "3" & "{TAB}") ;enters second (or third for middletown)
    Sleep(0300)
-   _SendEx("{TAB}")
 
-	  ;status update
+
+
+	  ;status update ; needs to be merged
    Sleep(0600)
    If $ICODE1 = 83 Then ;middletown
 	   _SendEx("l")
@@ -897,26 +893,23 @@ Func _itemEdits()
 
    EndIf
 
-
-
-
    ;$shelfready = InputBox("Shelf Ready Status", "Is this a shelf-ready item?" & @CR & "y - yes" & @CR & "n - no", "")
 
    ;Switch $shelfready
 	   ;Case "n"
-	   $decide = MsgBox(4+65536, "", "Is the item a paperback book?") ;we should not need to ask, add variable
-	   If $decide = 6 Then
-			   Sleep(0100)
-			   _SendEx("{LEFT}r")
-		   ElseIf $decide = 7 Then
-			   ;Sleep(0100)
-			   If $REF = 1 Then
-				   _SendEx("{LEFT}o")
-			   Else
+	$decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
+	If $decide = 6 Then
+			Sleep(0100)
+			_SendEx("{LEFT}r")
+	  ElseIf $decide = 7 Then
+		 ;Sleep(0100)
+		 If $REF = 1 Then
+			 _SendEx("{LEFT}o")
+		 Else
 
-			   _SendEx("-")
-			   EndIf
-		   EndIf
+		 _SendEx("-")
+		 EndIf
+	 EndIf
 
 	   ;EndSwitch
 	   ;Case "y"
@@ -931,12 +924,13 @@ Func _itemEdits()
 
 	  ;start $ITYPE EDIT
    Sleep(0100)
-   _SendEx("{TAB 4}")
-   Sleep(0100)
-   _SendEx($ITYPE)
+   _SendEx("{TAB 4}" & $ITYPE)
    Sleep(0100)
 
 
+;#cs ;remove #cs debugging tag in production
+
+	  ;imessage field update
    _SendEx("{TAB 3}")
    If $300_E <> "none" And $ACCOMP = -1 Then
 	   $300_E = StringUpper($300_E)
@@ -946,8 +940,7 @@ Func _itemEdits()
 
 	  ;start Location edit
    Sleep(0100)
-   _SendEx("{TAB 4}")
-   _SendEx($LOCATION)
+   _SendEx("{TAB 4}" & $LOCATION)
    Sleep(0400)
 
 
@@ -957,14 +950,12 @@ Func _itemEdits()
    Sleep(0300)
    ; Enter volume information if needed for item #1 after asking if necessary as sometimes volume info is already present in item record
    If $vol = 1 Then
-	  $decide = MsgBox(4, "Volume Designation", "Does item 1 need volume information?")
+	  $decide = MsgBox(4+65536, "Volume Designation", "Does item 1 need volume information?")
 	  If $decide = 6 Then
 		 $decide = InputBox("Volume label", "Enter volume designation (e.g., 'v.2' OR 'Suppl.')", "")
-		 _SendEx("{ENTER}")
+		 _SendEx("{ENTER}" & "v{TAB}")
 		 Sleep(0100)
-		 _SendEx("v{TAB}")
-		 Sleep(0100)
-		 _SendEx($decide)
+	     _SendEx($decide)
 		 Sleep(0400)
 	  EndIf
    EndIf
@@ -974,9 +965,7 @@ Func _itemEdits()
 	  ;add note for delivered to dean's office
    Sleep(0400)
    If $dean = 1 Then
-	   _SendEx("{ENTER}")
-	   Sleep(0100)
-	   _SendEx("x{TAB}")
+	   _SendEx("{ENTER}" & "x{TAB}")
 	   Sleep(0500)
 	   _SendEx("Delivered to Dean's Office on item created date." & $C_INI)
 	EndIf
@@ -990,12 +979,12 @@ Func _itemEdits()
 	   $300_E = StringUpper($300_E)
 	   _SendEx("{ENTER}")
 	   Sleep(0500)
-	   _SendEx("m{TAB}")
-	   Sleep(0500)
-	   _SendEx($300_E & " IN POCKET")
+	   _SendEx("m{TAB}" & $300_E & " IN POCKET")
 	   Sleep(0500)
 	   _SendEx("^s")
 	EndIf
+
+  ; #ce ;remove debugging #ce tag in production
 
 EndFunc
 
@@ -1003,36 +992,28 @@ EndFunc
 
 Func _newItem() ;creates new items
    Sleep(1000)
-	_SendEx("!g")
-	Sleep(0200)
-	_SendEx("o")
-	Sleep(0200)
-	_SendEx("a")
-	Sleep(0500)
-	_SendEx("!w")
-	Sleep(0200)
-	_SendEx("i")
-	Sleep(0200)
-	_SendEx("{TAB}")
+	_SendEx("!g" & "o" & "a" & "!w" & "i" & "{TAB}")
 	Sleep(0200)
 	_SendEx("!n")
-	Sleep(0400)
+	Sleep(0200)
     _SendEx("^s")
+	Sleep(0200)
+    _SendEx("^s") ;one save does not successfully save. increasing sleep() time instead of double save failed as well.
 EndFunc
 
 _itemEdits() ;runs function above
 
-
+;#cs ;remove #cs debugging tag in production
 
 ;determine if there needs to be more item records created
 If $VOL = 1 Then
 ;looped - will continue loop until you answer no to the popup asking if you want to create another record
 	Do
-		$decide = MsgBox(4, "More Volumes", "Do you need to attach another item record?")
+		$decide = MsgBox(4+65536, "More Volumes", "Do you need to attach another item record?")
 		Switch $decide
 			Case 6 ;Yes answer
 				;create new item record
-				_windowFocus()
+				;_windowFocus()
 				Sleep(0100)
 				_newItem() ; creates new item record
 
@@ -1048,7 +1029,13 @@ If $VOL = 1 Then
 
 
 If $dean = 1 Then
-	MsgBox(0, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
+	MsgBox(0+65536, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
  EndIf
 
+;#ce ;remove #cs debugging tag in production
+
 _ClearBuffer()
+
+
+
+;####### end of ItemRec_itemTest.au3 ########

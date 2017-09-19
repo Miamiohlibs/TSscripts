@@ -131,6 +131,7 @@ $ACCOMP = -1
 $300_E = "atlas"
 $BARCODE = "N"
 $ITYPE = "26"
+$REF = 1
 ;REMOVE IN PRODUCTION - test variables
 
 ;################################ MAIN ROUTINE #################################
@@ -156,6 +157,8 @@ Else
 EndIf
 #ce
 
+
+;####### start of ItemRec_itemTest.au3 ########
 
 If WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
@@ -186,7 +189,7 @@ Func _itemEdits()
 
    ;start item record data entry
    Sleep(0100)
-   _SendEx("^a" & "^{HOME}" & "{TAB}") ;probably don't need to select all here, recommend deletion - CB 8/28/17
+   _SendEx("^a" & "^{HOME}" & "{TAB}")
    Sleep(0200)
 
 	  ;start icode1 edits
@@ -197,10 +200,12 @@ Func _itemEdits()
 
 
    Sleep(0300)
-   _SendEx($ICODE1 & "3" & "{TAB}") ;enters second (or third for middletown)
+   _SendEx("{RIGHT}" & $ICODE1 & "3" & "{TAB}") ;enters second (or third for middletown)
    Sleep(0300)
 
-	  ;status update
+
+
+	  ;status update ; needs to be merged
    Sleep(0600)
    If $ICODE1 = 83 Then ;middletown
 	   _SendEx("l")
@@ -209,26 +214,23 @@ Func _itemEdits()
 
    EndIf
 
-
-
-
    ;$shelfready = InputBox("Shelf Ready Status", "Is this a shelf-ready item?" & @CR & "y - yes" & @CR & "n - no", "")
 
    ;Switch $shelfready
 	   ;Case "n"
-	   $decide = MsgBox(4+65536, "", "Is the item a paperback book?") ;we should not need to ask, add variable
-	   If $decide = 6 Then
-			   Sleep(0100)
-			   _SendEx("{LEFT}r")
-		   ElseIf $decide = 7 Then
-			   ;Sleep(0100)
-			   If $REF = 1 Then
-				   _SendEx("{LEFT}o")
-			   Else
+	$decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
+	If $decide = 6 Then
+			Sleep(0100)
+			_SendEx("{LEFT}r")
+	  ElseIf $decide = 7 Then
+		 ;Sleep(0100)
+		 If $REF = 1 Then
+			 _SendEx("{LEFT}o")
+		 Else
 
-			   _SendEx("-")
-			   EndIf
-		   EndIf
+		 _SendEx("-")
+		 EndIf
+	 EndIf
 
 	   ;EndSwitch
 	   ;Case "y"
@@ -246,6 +248,10 @@ Func _itemEdits()
    _SendEx("{TAB 4}" & $ITYPE)
    Sleep(0100)
 
+
+;#cs ;remove #cs debugging tag in production
+
+	  ;imessage field update
    _SendEx("{TAB 3}")
    If $300_E <> "none" And $ACCOMP = -1 Then
 	   $300_E = StringUpper($300_E)
@@ -299,6 +305,8 @@ Func _itemEdits()
 	   _SendEx("^s")
 	EndIf
 
+  ; #ce ;remove debugging #ce tag in production
+
 EndFunc
 
 
@@ -308,13 +316,15 @@ Func _newItem() ;creates new items
 	_SendEx("!g" & "o" & "a" & "!w" & "i" & "{TAB}")
 	Sleep(0200)
 	_SendEx("!n")
-	Sleep(0400)
+	Sleep(0200)
     _SendEx("^s")
+	Sleep(0200)
+    _SendEx("^s") ;one save does not successfully save. increasing sleep() time instead of double save failed as well.
 EndFunc
 
 _itemEdits() ;runs function above
 
-
+;#cs ;remove #cs debugging tag in production
 
 ;determine if there needs to be more item records created
 If $VOL = 1 Then
@@ -343,6 +353,8 @@ If $dean = 1 Then
 	MsgBox(0+65536, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
  EndIf
 
-
+;#ce ;remove #cs debugging tag in production
 
 _ClearBuffer()
+
+;####### end of ItemRec_itemTest.au3 ########
