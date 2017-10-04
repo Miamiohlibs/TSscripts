@@ -193,23 +193,21 @@ Func _itemEdits()
    Sleep(0200)
 
 	  ;start icode1 edits
-   If $ICODE1 = 83 Then ;still not sure what's going on here.
+   If $ICODE1 = 83 Then ;still not sure what's going on here. Steph says delete
 	   _SendEx("{DEL 2}")
 	   Sleep(0300)
 	EndIf
 
 
    Sleep(0300)
-   _SendEx("{RIGHT}" & $ICODE1 & "3" & "{TAB}") ;enters second (or third for middletown)
+   _SendEx("{RIGHT}" & "3" & "{TAB}") ;enters second (or third for middletown)
    Sleep(0300)
 
 
 
 	  ;status update ; needs to be merged
    Sleep(0600)
-   If $ICODE1 = 83 Then ;middletown
-	   _SendEx("l")
-   ElseIf $dean = 1 Then
+   If $ICODE1 = 83 Then ;middletown; Steph request: add 82 hamilton 9/20/17
 	   _SendEx("k")
 
    EndIf
