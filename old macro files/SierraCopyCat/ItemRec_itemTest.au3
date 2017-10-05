@@ -205,12 +205,7 @@ Func _itemEdits()
 
 
 
-	  ;status update ; needs to be merged
-   Sleep(0600)
-   If $ICODE1 = 83 Then ;middletown; Steph request: add 82 hamilton 9/20/17
-	   _SendEx("k")
 
-   EndIf
 
    ;$shelfready = InputBox("Shelf Ready Status", "Is this a shelf-ready item?" & @CR & "y - yes" & @CR & "n - no", "")
 
@@ -219,15 +214,18 @@ Func _itemEdits()
 	$decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
 	If $decide = 6 Then
 			Sleep(0100)
-			_SendEx("{LEFT}r")
+			_SendEx("r")
 	  ElseIf $decide = 7 Then
-		 ;Sleep(0100)
+		 Sleep(0100)
 		 If $REF = 1 Then
-			 _SendEx("{LEFT}o")
-		 Else
-
+			 _SendEx("o")
+	  ElseIf $ICODE1 = 83 Then
+		 _SendEx("k")
+	  ElseIF $ICODE1 = 82 Then
+		 _SendEx("k")
+	  EndIf
+	   Else
 		 _SendEx("-")
-		 EndIf
 	 EndIf
 
 	   ;EndSwitch
@@ -239,7 +237,7 @@ Func _itemEdits()
    ; shelf ready paperbacks and hardbacks get status - for available
    ; non-shelf ready paperbacks get "r" and hardbacks get "l"
 
-
+;#cs ;remove #cs debugging tag in production
 
 	  ;start $ITYPE EDIT
    Sleep(0100)
@@ -257,13 +255,15 @@ Func _itemEdits()
 	   Sleep(0500)
    EndIf
 
+;#cs ;remove #cs debugging tag in production
+
 	  ;start Location edit
    Sleep(0100)
    _SendEx("{TAB 4}" & $LOCATION)
    Sleep(0400)
 
 
-
+;#cs ;remove #cs debugging tag in production
 
    _SendEx("^{END}")
    Sleep(0300)
@@ -279,7 +279,7 @@ Func _itemEdits()
 	  EndIf
    EndIf
 
-
+;#cs ;remove #cs debugging tag in production
 
 	  ;add note for delivered to dean's office
    Sleep(0400)
@@ -289,7 +289,7 @@ Func _itemEdits()
 	   _SendEx("Delivered to Dean's Office on item created date." & $C_INI)
 	EndIf
 
-
+;#cs ;remove #cs debugging tag in production
 
    ;save!
    _SendEx("^s")
@@ -303,10 +303,11 @@ Func _itemEdits()
 	   _SendEx("^s")
 	EndIf
 
-  ; #ce ;remove debugging #ce tag in production
+   #ce ;remove debugging #ce tag in production
 
 EndFunc
 
+;#cs ;remove #cs debugging tag in production
 
 
 Func _newItem() ;creates new items
@@ -351,7 +352,7 @@ If $dean = 1 Then
 	MsgBox(0+65536, "Dean's Office Materials", "Delete Catalog for Dean's office note.")
  EndIf
 
-;#ce ;remove #cs debugging tag in production
+;#ce ;remove #cs/#ce debugging tag in production
 
 _ClearBuffer()
 
