@@ -687,7 +687,7 @@ Switch $BIB_LOC_1
 			Select
 				Case $aar > -1
 					$LOCATION = "aar"
-					$ITYPE = 21					;Check with Kay not sure if doing anymore
+					$ITYPE = 21					;Check with Kay not sure if doing approvals anymore -Steph 10/5/17
 				Case $kngr > -1
 					$LOCATION = "kngr"
 					$ITYPE = 21
