@@ -687,22 +687,22 @@ Switch $BIB_LOC_1
 			Select
 				Case $aar > -1
 					$LOCATION = "aar"
-					$ITYPE = 21					;Check with Kay not sure if doing approvals anymore -Steph 10/5/17
+					;$ITYPE = 21					;Check with Kay not sure if doing approvals anymore -Steph 10/5/17
 				Case $kngr > -1
 					$LOCATION = "kngr"
-					$ITYPE = 21
+					;$ITYPE = 21
 				Case $scr > -1
 					$LOCATION = "scr"
-					$ITYPE = 21
+					;$ITYPE = 21
 				Case $doc > -1
 					$LOCATION = "docr"
-					$ITYPE = 21
+					;$ITYPE = 21
 				Case $mdir > -1
 					$LOCATION = "mdlr"
-					$ITYPE = 21
+					;$ITYPE = 21
 				Case $imr > -1
 					$LOCATION = "imr"
-					$ITYPE = 21
+					;$ITYPE = 21
 			EndSelect
 		Else ;if it's not a reference item (added copy/vol)
 			$decide = InputBox("Multi Location", "Which bib location is this item going to?")
