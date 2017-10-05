@@ -886,7 +886,7 @@ Func _itemEdits()
 
 	  ;status update ; needs to be merged
    Sleep(0600)
-   If $ICODE1 = 83 Then ;middletown Steph add 82 hamilton 9/20/17
+   If $ICODE1 = 83 Then ;middletown; Steph request: add 82 hamilton 9/20/17
 	   _SendEx("k")
 
    EndIf

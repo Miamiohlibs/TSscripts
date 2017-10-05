@@ -897,7 +897,7 @@ If $dean = 1 Then
 	$LOCATION = "dean"
 EndIf
 
-;multiple locations indicated in teh order record
+;multiple locations indicated in the order record
 If $multi_loc <> "" Then
 	$multi_a = StringSplit($multi_loc, ",")
 	$LOCATION = _ArrayToString($multi_a, @TAB, 1, 1)
