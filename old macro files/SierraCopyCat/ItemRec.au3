@@ -537,7 +537,7 @@ _SendEx("^{END}")
 Sleep(0100)
 _SendEx("{ENTER}y947{SPACE 2}")
 Sleep(0400)
-_SendEx($C_INI)
+_SendEx($C_INI & " " & $LABELLOC & " " & $ITYPE  & " " &  $LAB_LOC  & " " &  $ICODE1  & " " &  $ACCOMP  & " " &  $dean)
 
 
 ;check to see if item has accompanying material and if the item is over 27cm (goes into oversized/folio collection)
@@ -781,11 +781,6 @@ If $AAFO = 1 Then
 	$LOCATION = StringReplace($LOCATION, "li", "fo")
 EndIf
 
-If $REF = 1 Then
-	$ITYPE = 21
-	_StoreVar("$ITYPE")
-	$LOCATION = StringReplace($LOCATION, "li", "r")
-EndIf
 
 Sleep(0100)
 
