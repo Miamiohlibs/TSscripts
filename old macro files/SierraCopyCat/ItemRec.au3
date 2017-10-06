@@ -525,20 +525,6 @@ if StringLen($SF_NAME) > 1 Then
 EndIf
 
 
-;get user initials, enter 947 field
-$C_INI = _Initial()
-$UPD = _LoadVar("$UPD") ;declared in barcodetorecord
-Sleep(0400)
-_SendEx("^{HOME}")
-Sleep(0100)
-_SendEx("{TAB 2}t")
-Sleep(0100)
-_SendEx("^{END}")
-Sleep(0100)
-_SendEx("{ENTER}y947{SPACE 2}")
-Sleep(0400)
-_SendEx($C_INI & " " & $LABELLOC & " " & $ITYPE  & " " &  $LAB_LOC  & " " &  $ICODE1  & " " &  $ACCOMP  & " " &  $dean)
-
 
 ;check to see if item has accompanying material and if the item is over 27cm (goes into oversized/folio collection)
 $300 = _arrayItemString($BIB_ARRAY_MASTER, "DESCRIPT.	300")
@@ -794,6 +780,20 @@ EndIf
 
 ;tag for debugging
 ;MsgBox(0+65536, "variable checks", $LOCATION)
+
+;get user initials, enter 947 field
+$C_INI = _Initial()
+$UPD = _LoadVar("$UPD") ;declared in barcodetorecord
+Sleep(0400)
+_SendEx("^{HOME}")
+Sleep(0100)
+_SendEx("{TAB 2}t")
+Sleep(0100)
+_SendEx("^{END}")
+Sleep(0100)
+_SendEx("{ENTER}y947{SPACE 2}")
+Sleep(0400)
+_SendEx($C_INI & "$LOCATION" & $LOCATION & "$LABELLOC" & $LABELLOC & "$ITYPE" & $ITYPE  & "$LAB_LOC" &  $LAB_LOC  & "$ICODE1" &  $ICODE1  & "$ACCOMP" &  $ACCOMP  & "$dean" &  $dean)
 
 
 ; SAVE RECORD AND GO INTO ITEM RECORD
