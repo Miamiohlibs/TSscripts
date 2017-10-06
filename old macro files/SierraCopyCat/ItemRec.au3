@@ -41,6 +41,7 @@
 
 ;######### INCLUDES AND OPTIONS #########
 #Include <TSCustomFunction.au3>
+#Include <Bib - check ILOC.au3>
 AutoItSetOption("WinTitleMatchMode", 4)
 Opt("WinSearchChildren", 1)
 AutoItSetOption("MustDeclareVars", 1)
@@ -740,11 +741,7 @@ EndIf
 _StoreVar("$LOCATION")
 
 ;~ set location/labelloc/itype codes
-Run(@DesktopDir & "\SierraCopyCat\Bib - check ILOC.exe")
-While ProcessExists("Bib - check ILOC.exe")
-	Sleep(0400)
-WEnd
-
+_setILoc()
 Sleep(0200)
 
 ;load variables from bib - check ILOC and barcodetorecord scripts
