@@ -793,8 +793,8 @@ _SendEx("^{END}")
 Sleep(0100)
 _SendEx("{ENTER}y947{SPACE 2}")
 Sleep(0400)
-_SendEx($C_INI & "$LOCATION" & $LOCATION & "$LABELLOC" & $LABELLOC & "$ITYPE" & $ITYPE  & "$LAB_LOC" &  $LAB_LOC  & "$ICODE1" &  $ICODE1  & "$ACCOMP" &  $ACCOMP  & "$dean" &  $dean)
-
+_SendEx($C_INI)
+;duplicate testing row; _SendEx($C_INI & "$LOCATION" & $LOCATION & "$LABELLOC" & $LABELLOC & "$ITYPE" & $ITYPE  & "$LAB_LOC" &  $LAB_LOC  & "$ICODE1" &  $ICODE1  & "$ACCOMP" &  $ACCOMP  & "$dean" &  $dean)
 
 ; SAVE RECORD AND GO INTO ITEM RECORD
 ;focus on record
