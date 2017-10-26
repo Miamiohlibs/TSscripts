@@ -884,21 +884,21 @@ Func _itemEdits()
    ;Switch $shelfready
 	   ;Case "n"
 	$decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
-	If $decide = 6 Then
+   If $decide = 6 Then
 			Sleep(0100)
 			_SendEx("r")
 	  ElseIf $decide = 7 Then
 		 Sleep(0100)
-		 If $REF = 1 Then
+		 If $REF = 1 Then ;number 1 not letter
 			 _SendEx("o")
 	  ElseIf $ICODE1 = 83 Then
 		 _SendEx("k")
 	  ElseIF $ICODE1 = 82 Then
 		 _SendEx("k")
 	  EndIf
-	   Else
+	  Else
 		 _SendEx("-")
-	 EndIf
+   EndIf
 
 	   ;EndSwitch
 	   ;Case "y"
@@ -909,7 +909,7 @@ Func _itemEdits()
    ; shelf ready paperbacks and hardbacks get status - for available
    ; non-shelf ready paperbacks get "r" and hardbacks get "l"
 
-;#cs ;remove #cs debugging tag in production
+#cs ;remove #cs debugging tag in production
 
 	  ;start $ITYPE EDIT
    Sleep(0100)
