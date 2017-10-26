@@ -184,15 +184,21 @@ Func _Status()
    $decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
 
    Switch $status
-	  Case $decide = 6
+	  Case $decide = 7 ; yes it is paperback
 		 $status = "r"
-	  Case $decide = 7
+	  Case $decide = 6 ; no it is hardcover
 		 $status = "-"
-	  Case $decide = 7 AND $REF = 1
+	  EndSwitch
+
+   Switch $status
+	  Case $REF = 1
 		 $status = "o"
-	  Case $ICODE1 = 82 OR $ICODE1 = 83
+	  Case $ICODE1 = 82
 		 $status = "k"
-   EndSwitch
+	  Case $ICODE1 = 83
+		 $status = "k"
+	  EndSwitch
+
    Return $status
 EndFunc
 

@@ -111,6 +111,7 @@ Dim $OLOCATION
 Global $050_array[2]
 Dim $050_loc
 Dim $049, $MIAS, $MIAA, $MIAH, $MIBN
+Dim $Status
 
 $REF = _LoadVar("$REF")
 $SF_NAME = _LoadVar("$SF_NAME")
@@ -832,6 +833,7 @@ WinWaitActive("[REGEXPTITLE:[i][0-9ax]{7,8}; CLASS:SunAwtFrame]")
 ;####### start of ItemRec_itemTest.au3 ########
 
 
+
 If WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]") Then
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
@@ -846,7 +848,32 @@ Func _windowFocus()
 	WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
+ EndFunc
+
+Func _Status()
+   local $decide
+   local $status
+   $decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
+
+   Switch $status
+	  Case $decide = 7 ; yes it is paperback
+		 $status = "r"
+	  Case $decide = 6 ; no it is hardcover
+		 $status = "-"
+	  EndSwitch
+
+   Switch $status
+	  Case $REF = 1
+		 $status = "o"
+	  Case $ICODE1 = 82
+		 $status = "k"
+	  Case $ICODE1 = 83
+		 $status = "k"
+	  EndSwitch
+
+   Return $status
 EndFunc
+
 
 
 Func _itemEdits()
@@ -878,27 +905,33 @@ Func _itemEdits()
 
 
 
-
+#cs
    ;$shelfready = InputBox("Shelf Ready Status", "Is this a shelf-ready item?" & @CR & "y - yes" & @CR & "n - no", "")
 
    ;Switch $shelfready
 	   ;Case "n"
 	$decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
-   If $decide = 6 Then
+   If $decide = 6 Then ;Yes Answer
 			Sleep(0100)
 			_SendEx("r")
-	  ElseIf $decide = 7 Then
+	  ElseIf $decide = 7 Then  ;No Answer
 		 Sleep(0100)
-		 If $REF = 1 Then ;number 1 not letter
-			 _SendEx("o")
-	  ElseIf $ICODE1 = 83 Then
-		 _SendEx("k")
-	  ElseIF $ICODE1 = 82 Then
-		 _SendEx("k")
-	  EndIf
-	  Else
 		 _SendEx("-")
+
+		 If $REF = 1 Then
+			 _SendEx("o")
+		 ElseIf $ICODE1 = 83 OR $ICODE1 = 82 Then
+		 _SendEx("k")
+		 EndIf
+
    EndIf
+
+#ce
+
+   $Status = _Status()
+   _SendEx($Status)
+
+
 
 	   ;EndSwitch
 	   ;Case "y"
@@ -909,7 +942,7 @@ Func _itemEdits()
    ; shelf ready paperbacks and hardbacks get status - for available
    ; non-shelf ready paperbacks get "r" and hardbacks get "l"
 
-#cs ;remove #cs debugging tag in production
+;#cs ;remove #cs debugging tag in production
 
 	  ;start $ITYPE EDIT
    Sleep(0100)
