@@ -112,6 +112,7 @@ Dim $OLOCATION
 Global $050_array[2]
 Dim $050_loc
 Dim $049, $MIAS, $MIAA, $MIAH, $MIBN
+Dim $Status
 
 $REF = _LoadVar("$REF")
 $SF_NAME = _LoadVar("$SF_NAME")
@@ -175,7 +176,26 @@ Func _windowFocus()
 	WinExists("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinActivate("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
 	WinWaitActive("[REGEXPTITLE:[i][0-9ax]{8}; CLASS:SunAwtFrame]")
+ EndFunc
+
+Func _Status()
+   local $decide
+   local $status
+   $decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
+
+   Switch $status
+	  Case $decide = 6
+		 $status = "r"
+	  Case $decide = 7
+		 $status = "-"
+	  Case $decide = 7 AND $REF = 1
+		 $status = "o"
+	  Case $ICODE1 = 82 OR $ICODE1 = 83
+		 $status = "k"
+   EndSwitch
+   Return $status
 EndFunc
+
 
 
 Func _itemEdits()
@@ -230,25 +250,9 @@ Func _itemEdits()
 
 #ce
 
-Func _Status()
-   local $decide
-   local $status
-   $decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
+   $Status = _Status()
+   _SendEx($Status)
 
-   Switch $status
-   Case $decide = 6
-	  $status = "r"
-   Case $decide = 7
-	  $status = "-"
-   Case $decide = 7 AND $REF = 1
-	  $status = "o"
-   Case $ICODE1 = 82 OR $ICODE1 = 83
-	  $status = "k"
-   EndSwitch
-   _SendEx($status)
-EndFunc
-
-   _Status()
 
 
 	   ;EndSwitch
