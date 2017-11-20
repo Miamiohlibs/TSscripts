@@ -4,8 +4,11 @@
 #cs ----------------------------------------------------------------------------
 
  AutoIt Version: 3.3.6.1
- Author: Becky Yoose, Bibliographic Systems Librarian, Miami University
+ Co-Author: Becky Yoose, Bibliographic Systems Librarian, Miami University
 		 yoosebj@muohio.edu OR b.yoose@gmail.com
+
+ Co-Author: Craig Boman, Discovery Services Librarian, Miami University
+		 bomanca@miamioh.edu OR craig.boman@gmail.com
 
  Name of script: ItemRec
  Script set: Copy Cataloging (CopyCat)
