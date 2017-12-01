@@ -907,30 +907,6 @@ Func _itemEdits()
 
 
 
-
-#cs
-   ;$shelfready = InputBox("Shelf Ready Status", "Is this a shelf-ready item?" & @CR & "y - yes" & @CR & "n - no", "")
-
-   ;Switch $shelfready
-	   ;Case "n"
-	$decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
-   If $decide = 6 Then ;Yes Answer
-			Sleep(0100)
-			_SendEx("r")
-	  ElseIf $decide = 7 Then  ;No Answer
-		 Sleep(0100)
-		 _SendEx("-")
-
-		 If $REF = 1 Then
-			 _SendEx("o")
-		 ElseIf $ICODE1 = 83 OR $ICODE1 = 82 Then
-		 _SendEx("k")
-		 EndIf
-
-   EndIf
-
-#ce
-
    $Status = _Status()
    _SendEx($Status)
 

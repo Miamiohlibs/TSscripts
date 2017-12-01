@@ -33,6 +33,7 @@
 #Include <GuiButton.au3>
 #include <WindowsConstants.au3>
 #include <ButtonConstants.au3>
+
 #AutoIt3Wrapper_Icon=C:\Users\patricm\Google Drive\Macros\autoiticon.ico
 
 ;######### GUI #########
@@ -112,16 +113,22 @@ EndFunc
 
 Func Done()
 	Sleep(0400)
-	Run(@WorkingDir & "\ItemRec.exe")
+   Run(@WorkingDir & "\ItemRec.exe")
 EndFunc
 
 Func kill()
-		ProcessClose("barcodetorecord.exe")
-		ProcessClose("OCLCRec.exe")
-		ProcessClose("504.exe")
-		ProcessClose("949.exe")
-		ProcessClose("SpecialFundNote.exe")
-		ProcessClose("ItemRec.exe")
+   ProcessClose("barcodetorecord.exe")
+   ProcessClose("OCLCRec.exe")
+   ProcessClose("504.exe")
+   ProcessClose("949.exe")
+   ProcessClose("SpecialFundNote.exe")
+   ProcessClose("ItemRec.exe")
+   ProcessClose("barcodetorecord.au3")
+   ProcessClose("OCLCRec.au3")
+   ProcessClose("504.au3")
+   ProcessClose("949.au3")
+   ProcessClose("SpecialFundNote.au3")
+   ProcessClose("ItemRec.au3")
 EndFunc
 
 Func CLOSEClicked()
