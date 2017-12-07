@@ -33,6 +33,7 @@
 #include <GuiConstantsEx.au3>
 #Include <GuiButton.au3>
 #include <WindowsConstants.au3>
+#include <ButtonConstants.au3>
 
 ;######### GUI #########
 $mainwindow = GuiCreate("Receipt Cataloging Box", 390, 70, -1, -1, BitOR($GUI_SS_DEFAULT_GUI, $WS_TABSTOP, $WS_MAXIMIZEBOX, $WS_SIZEBOX), BitOR($WS_EX_TOOLWINDOW, $WS_EX_TOPMOST))

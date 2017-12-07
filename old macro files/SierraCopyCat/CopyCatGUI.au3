@@ -34,7 +34,6 @@
 #include <WindowsConstants.au3>
 #include <ButtonConstants.au3>
 
-#AutoIt3Wrapper_Icon=C:\Users\patricm\Google Drive\Macros\autoiticon.ico
 
 ;######### GUI #########
 $guiheight = 70
@@ -123,12 +122,6 @@ Func kill()
    ProcessClose("949.exe")
    ProcessClose("SpecialFundNote.exe")
    ProcessClose("ItemRec.exe")
-   ProcessClose("barcodetorecord.au3")
-   ProcessClose("OCLCRec.au3")
-   ProcessClose("504.au3")
-   ProcessClose("949.au3")
-   ProcessClose("SpecialFundNote.au3")
-   ProcessClose("ItemRec.au3")
 EndFunc
 
 Func CLOSEClicked()
