@@ -44,31 +44,31 @@ GUISetOnEvent($GUI_EVENT_CLOSE, "CLOSEClicked")
 
 ;######### BUTTONS #########
 $1 = GUICtrlCreateButton("Sample button", 20, 10, 50, 50, $BS_ICON)
-GUICtrlSetImage(-1, @DesktopDir & "\SierraReceipt - gmd\Images\take1_gui.ico")
+GUICtrlSetImage(-1, @DesktopDir & "\Images\take1_gui.ico")
 GUICtrlSetOnEvent($1, "isbntotitle")
 
 $2 = GUICtrlCreateButton("Sample button", 70, 10, 50, 50, $BS_ICON)
-GUICtrlSetImage(-1, @DesktopDir & "\SierraReceipt - gmd\Images\blue O_gui.ico")
+GUICtrlSetImage(-1,@WorkingDir & "\Images\blue O_gui.ico")
 GUICtrlSetOnEvent($2, "order")
 
 $3 = GUICtrlCreateButton("Sample button", 120, 10, 50, 50, $BS_ICON)
-GUICtrlSetImage(-1, @DesktopDir & "\SierraReceipt - gmd\Images\black B_gui.ico")
+GUICtrlSetImage(-1, @WorkingDir & "\Images\black B_gui.ico")
 GUICtrlSetOnEvent($3, "bib")
 
 $4 = GUICtrlCreateButton("Sample button", 170, 10, 50, 50, $BS_ICON)
-GUICtrlSetImage(-1, @DesktopDir & "\SierraReceipt - gmd\Images\green D_gui.ico")
+GUICtrlSetImage(-1, @WorkingDir & "\Images\green D_gui.ico")
 GUICtrlSetOnEvent($4, "DLC")
 
 $5 = GUICtrlCreateButton("Sample button", 220, 10, 50, 50, $BS_ICON)
-GUICtrlSetImage(-1, @DesktopDir & "\SierraReceipt - gmd\Images\red N_gui.ico")
+GUICtrlSetImage(-1, @WorkingDir & "\Images\red N_gui.ico")
 GUICtrlSetOnEvent($5, "nonDLC")
 
 $6 = GUICtrlCreateButton("Sample button", 270, 10, 50, 50, $BS_ICON)
-GUICtrlSetImage(-1, @DesktopDir & "\SierraReceipt - gmd\Images\rda.ico")
+GUICtrlSetImage(-1, @WorkingDir & "\Images\rda.ico")
 GUICtrlSetOnEvent($6, "rda")
 
 $7 = GUICtrlCreateButton("Sample button", 320, 10, 50, 50, $BS_ICON)
-GUICtrlSetImage(-1, @DesktopDir & "\SierraReceipt - gmd\Images\stopsign_gui.ico")
+GUICtrlSetImage(-1, @WorkingDir & "\Images\stopsign_gui.ico")
 GUICtrlSetOnEvent($7, "kill")
 
 ;######### GUI STATE #########
@@ -80,32 +80,32 @@ WEnd
 ;######### GUI FUNCTIONS #########
 Func isbntotitle()
 	Sleep(0400)
-	Run(@DesktopDir & "\SierraReceipt - gmd\isbnToTitle.exe")
+	Run(@WorkingDir & "\isbnToTitle.exe")
 EndFunc
 
 Func order()
 	Sleep(0400)
-	Run(@DesktopDir & "\SierraReceipt - gmd\OrderRecord.exe")
+	Run(@WorkingDir & "\OrderRecord.exe")
 EndFunc
 
 Func bib()
 	Sleep(0400)
-	Run(@DesktopDir & "\SierraReceipt - gmd\BibRecord.exe")
+	Run(@WorkingDir & "\BibRecord.exe")
 EndFunc
 
 Func DLC()
 	Sleep(0400)
-	Run(@DesktopDir & "\SierraReceipt - gmd\Create Item - DLC.exe")
+	Run(@WorkingDir & "\Create Item - DLC.exe")
 EndFunc
 
 Func nonDLC()
 	Sleep(0400)
-	Run(@DesktopDir & "\SierraReceipt - gmd\Create item - Non DLC.exe")
+	Run(@WorkingDir & "\Create item - Non DLC.exe")
 EndFunc
 
 Func rda()
 	Sleep(0400)
-	Run(@DesktopDir & "\SierraReceipt - gmd\rda.exe")
+	Run(@WorkingDir & "\rda.exe")
 EndFunc
 
 
@@ -115,6 +115,7 @@ Func kill()
 		ProcessClose("BibRecord.exe")
 		ProcessClose("OrderRecord.exe")
 		ProcessClose("isbnToTitle.exe")
+		ProcessClose("rda.exe")
 EndFunc
 
 Func CLOSEClicked()
