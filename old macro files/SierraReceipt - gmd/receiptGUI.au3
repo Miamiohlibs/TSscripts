@@ -1,6 +1,5 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Icon=..\autoiticon.ico
-#AutoIt3Wrapper_Res_requestedExecutionLevel=asInvoker
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #cs ----------------------------------------------------------------------------
 
@@ -8,12 +7,12 @@
  Author: Becky Yoose, Bibliographic Systems Librarian, Miami University
 		 yoosebj@muohio.edu OR b.yoose@gmail.com
 
- Name of script: receiptGUI
- Script set: Receipt Cataloging (Receipt)
+ Name of script: CopyCatGUI
+ Script set: Copy Cataloging (CopyCat)
 
  Script Function:
 	This script creates a toolbar with buttons that launch various scripts in the
-	receipt cataloging set.
+	copy cataloging set.
 
  Programs used: n/a
 
@@ -35,7 +34,11 @@
 #include <WindowsConstants.au3>
 #include <ButtonConstants.au3>
 
+
 ;######### GUI #########
+#$guiheight = 70
+#$guiwidth = 340
+#$mainwindow = GuiCreate("Receipt macro box", $guiwidth, $guiheight, -1, -1, BitOR($GUI_SS_DEFAULT_GUI, $WS_TABSTOP, $WS_MAXIMIZEBOX, $WS_SIZEBOX), BitOR($WS_EX_TOOLWINDOW, $WS_EX_TOPMOST))
 $mainwindow = GuiCreate("Receipt Cataloging Box", 390, 70, -1, -1, BitOR($GUI_SS_DEFAULT_GUI, $WS_TABSTOP, $WS_MAXIMIZEBOX, $WS_SIZEBOX), BitOR($WS_EX_TOOLWINDOW, $WS_EX_TOPMOST))
 GuiSetIcon(@SystemDir & "\mspaint.exe", 0)
 Opt("GUIOnEventMode", 1)
@@ -44,33 +47,34 @@ GUISetBkColor(0x6591CD)
 GUISetOnEvent($GUI_EVENT_CLOSE, "CLOSEClicked")
 
 ;######### BUTTONS #########
-$1 = GUICtrlCreateButton("Sample button", 20, 10, 50, 50, $BS_ICON)
+$1 = GUICtrlCreateButton("isbntotitle", 20, 10, 50, 50, $BS_ICON)
 GUICtrlSetImage(-1, @DesktopDir & "\Images\take1_gui.ico")
 GUICtrlSetOnEvent($1, "isbntotitle")
 
-$2 = GUICtrlCreateButton("Sample button", 70, 10, 50, 50, $BS_ICON)
+$2 = GUICtrlCreateButton("order", 70, 10, 50, 50, $BS_ICON)
 GUICtrlSetImage(-1,@WorkingDir & "\Images\blue O_gui.ico")
 GUICtrlSetOnEvent($2, "order")
 
-$3 = GUICtrlCreateButton("Sample button", 120, 10, 50, 50, $BS_ICON)
+$3 = GUICtrlCreateButton("bib", 120, 10, 50, 50, $BS_ICON)
 GUICtrlSetImage(-1, @WorkingDir & "\Images\black B_gui.ico")
 GUICtrlSetOnEvent($3, "bib")
 
-$4 = GUICtrlCreateButton("Sample button", 170, 10, 50, 50, $BS_ICON)
+$4 = GUICtrlCreateButton("dlc", 170, 10, 50, 50, $BS_ICON)
 GUICtrlSetImage(-1, @WorkingDir & "\Images\green D_gui.ico")
 GUICtrlSetOnEvent($4, "DLC")
 
-$5 = GUICtrlCreateButton("Sample button", 220, 10, 50, 50, $BS_ICON)
+$5 = GUICtrlCreateButton("nonDLC", 220, 10, 50, 50, $BS_ICON)
 GUICtrlSetImage(-1, @WorkingDir & "\Images\red N_gui.ico")
 GUICtrlSetOnEvent($5, "nonDLC")
 
-$6 = GUICtrlCreateButton("Sample button", 270, 10, 50, 50, $BS_ICON)
+$6 = GUICtrlCreateButton("rda", 270, 10, 50, 50, $BS_ICON)
 GUICtrlSetImage(-1, @WorkingDir & "\Images\rda.ico")
 GUICtrlSetOnEvent($6, "rda")
 
-$7 = GUICtrlCreateButton("Sample button", 320, 10, 50, 50, $BS_ICON)
+$7 = GUICtrlCreateButton("stop", 320, 10, 50, 50, $BS_ICON)
 GUICtrlSetImage(-1, @WorkingDir & "\Images\stopsign_gui.ico")
 GUICtrlSetOnEvent($7, "kill")
+
 
 ;######### GUI STATE #########
 GUISetState(@SW_SHOW)
@@ -111,11 +115,11 @@ EndFunc
 
 
 Func kill()
-		ProcessClose("Create Item - Non DLC.exe")
-		ProcessClose("Create Item - DLC.exe")
-		ProcessClose("BibRecord.exe")
-		ProcessClose("OrderRecord.exe")
 		ProcessClose("isbnToTitle.exe")
+		ProcessClose("OrderRecord.exe")
+		ProcessClose("BibRecord.exe")
+		ProcessClose("Create Item - DLC.exe")
+		ProcessClose("Create Item - Non DLC.exe")
 		ProcessClose("rda.exe")
 EndFunc
 
