@@ -433,7 +433,7 @@ EndIf
 
 if $REF = 1 AND $REF_1 = 0 Then ; enter the extra BLOC if needed for a reference item
 
-	_SendEx("^{HOME}")
+	_SendEx("^{HOME}") ;inputs an additional bib location code as "ref"
 	Sleep(0200)
 	_SendEx("{DOWN 2}")
 	Sleep(0200)
@@ -798,7 +798,8 @@ Sleep(0100)
 _SendEx("{ENTER}y947{SPACE 2}")
 Sleep(0400)
 _SendEx($C_INI)
-;duplicate testing row; _SendEx($C_INI & "$LOCATION" & $LOCATION & "$LABELLOC" & $LABELLOC & "$ITYPE" & $ITYPE  & "$LAB_LOC" &  $LAB_LOC  & "$ICODE1" &  $ICODE1  & "$ACCOMP" &  $ACCOMP  & "$dean" &  $dean)
+;duplicate testing row;
+;_SendEx($C_INI & "$REF" & $REF & "$LOCATION" & $LOCATION & "$LABELLOC" & $LABELLOC & "$ITYPE" & $ITYPE  & "$LAB_LOC" &  $LAB_LOC  & "$ICODE1" &  $ICODE1  & "$ACCOMP" &  $ACCOMP  & "$dean" &  $dean & "$status" & $status)
 
 ; SAVE RECORD AND GO INTO ITEM RECORD
 ;focus on record
@@ -854,8 +855,9 @@ Func _windowFocus()
  EndFunc
 
 Func _Status()
-   local $decide
-   local $status
+
+
+   #cs Due to changes in conservation, we are no longer sending paperbacks to get boarded and don't need to ask
    $decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
 
    Switch $status
@@ -864,15 +866,19 @@ Func _Status()
 	  Case $decide = 6 ; no it is hardcover
 		 $status = "-"
 	  EndSwitch
+   #ce
 
+   $status = "-"
    Switch $status
-	  Case $REF = 1
-		 $status = "o"
 	  Case $ICODE1 = 82
 		 $status = "k"
 	  Case $ICODE1 = 83
 		 $status = "k"
-	  EndSwitch
+	  Case $REF = 1
+		 $status = "o"
+	  Case Else
+		 $status = "-"
+   EndSwitch
 
    Return $status
 EndFunc

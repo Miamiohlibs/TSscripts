@@ -179,8 +179,9 @@ Func _windowFocus()
  EndFunc
 
 Func _Status()
-   local $decide
-   local $status
+
+
+   #cs Due to changes in conservation, we are no longer sending paperbacks to get boarded and don't need to ask
    $decide = MsgBox(4+65536, "", "Is this item a paperback book?") ;we can not determine variable from bib record ISBN
 
    Switch $status
@@ -189,15 +190,19 @@ Func _Status()
 	  Case $decide = 6 ; no it is hardcover
 		 $status = "-"
 	  EndSwitch
+   #ce
 
+   $status = "-"
    Switch $status
-	  Case $REF = 1
-		 $status = "o"
 	  Case $ICODE1 = 82
 		 $status = "k"
 	  Case $ICODE1 = 83
 		 $status = "k"
-	  EndSwitch
+	  Case $REF = 1
+		 $status = "o"
+	  Case Else
+		 $status = "-"
+   EndSwitch
 
    Return $status
 EndFunc
