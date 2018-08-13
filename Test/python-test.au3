@@ -4,4 +4,5 @@
 
 
 ;runs python script
-ShellExecute("myscript.py")
+RunWait("C:\Users\bomanca\AppData\Local\Programs\Python\Python36\python.exe C:\Users\bomanca\Documents\GitHub\python\sierra_input_box.py")
+;will need to customize by pulling respective windows username into path
