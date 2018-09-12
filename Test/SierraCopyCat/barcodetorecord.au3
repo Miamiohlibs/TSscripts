@@ -452,6 +452,7 @@ If $ICODE1 = 3 OR $LEADER_3 = 3 Then
 	_OCLCSearch("ti:", $TITLE)
 EndIf
 
+#cs we don't need to store variables if we are going to use api calls
 ;store variables for ItemRec script
 _StoreVar("$UPD")
 _StoreVar("$LAB_LOC")
@@ -463,3 +464,6 @@ _StoreVar("$dean")
 _StoreVar("$SF_NAME")
 _StoreVar("$SF_590")
 _StoreVar("$SF_7XX")
+#ce
+
+#ce
