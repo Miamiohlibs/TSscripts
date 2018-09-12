@@ -1,0 +1,31 @@
+﻿[0]|30
+[1]|LANG	engEnglish	CAT DATE	08-18-2004	BCODE3	-
+[2]|SKIP	0	BCODE1	mMONOGRAPH	COUNTRY	nyuNew York
+[3]|LOCATION	multi	BCODE2	aBOOKS
+[4]|MARC Leader	#####cam  22##### a 4500
+[5]|LOCATIONS	imc  ,kngl
+[6]|OCLC #	001	 	 	50630554
+[7]|MARC	005	 	 	20040810103114.0
+[8]|MARC	008	 	 	020820s2004    nyu    c      000 f eng
+[9]|LCCN	010	 	 	2002031766
+[10]|ISN/STD#	020	 	 	0399238611 (hc) :|c$15.99
+[11]|ISN/STD#	037	 	 	|bJunior Library Guild|nhttp://www.juniorlibraryguild.com
+[12]|MARC	040	 	 	DLC|cDLC|dTEF
+[13]|MARC	042	 	 	lcac
+[14]|MARC	049	 	 	MIBN
+[15]|CALL #	050	0	0	PZ7.C446265|bAl 2004
+[16]|AUTHOR	100	1	 	Choldenko, Gennifer,|d1957-
+[17]|TITLE	245	1	0	Al Capone does my shirts /|cGennifer Choldenko
+[18]|IMPRINT	260	 	 	New York :|bG.P. Putnam's Sons,|cc2004
+[19]|DESCRIPT.	300	 	 	228 p. :|bill. ;|c22 cm
+[20]|NOTE	586	8	 	A Junior Library Guild selection
+[21]|NOTE	521	2	 	6-9
+[22]|NOTE	520	 	 	A twelve-year-old boy named Moose moves to Alcatraz Island in 1935 when guards' families were housed there, and has to contend with his extraordinary new environment in addition to life with his autistic sister
+[23]|SUBJECT	610	2	1	United States Penitentiary, Alcatraz Island, California|vFiction
+[24]|SUBJECT	610	2	0	United States Penitentiary, Alcatraz Island, California|vJuvenile fiction
+[25]|SUBJECT	651	 	0	Alcatraz Island (Calif.)|xHistory|vJuvenile fiction
+[26]|SUBJECT	650	 	0	Autism|vJuvenile fiction
+[27]|SUBJECT	650	 	0	Problem families|vJuvenile fiction
+[28]|SUBJECT	650	 	0	Brothers and sisters|vJuvenile fiction
+[29]|SUBJECT	650	 	0	Family problems|zJuvenile fiction
+[30]|MARC	947	 	 	upd  kmf
