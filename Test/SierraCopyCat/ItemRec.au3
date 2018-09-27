@@ -229,9 +229,6 @@ EndIf
 
 
 
-
-
-
 ;~ ##### end fixed data setting #####
 
 ;- #### check for a multi volume set based on the 300 field of the bib ####
